@@ -113,12 +113,14 @@ class Main {
                         aircraft1.setEngines(value as Integer)
                     } else if (description == 'Engine Type:') {
                         aircraft1.setEngineType(value)
-                    } else if (description == 'Registration Number:') {
-                        aircraft1.setRegistrationNumber(value)
                     } else if (description == 'Engine Manufacturer and Model:') {
                         aircraft1.setEngineManufacture(value)
                     } else if (description == 'Also Registered As:') {
                         aircraft1.setAlsoRegister(value)
+                    } else if (description == 'Registration Number:') {
+                        aircraft1.setRegistrationNumber(value)
+                    } else if (description == 'Current Status:') {
+                        aircraft1.setCurrentStatus(value)
                     } else if (description == 'Address:') {
                         aircraft1.setAddress(value)
                     } else {

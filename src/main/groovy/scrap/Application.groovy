@@ -4,6 +4,9 @@ import com.gargoylesoftware.htmlunit.WebClient
 import com.gargoylesoftware.htmlunit.html.HtmlDivision
 import com.gargoylesoftware.htmlunit.html.HtmlElement
 import com.gargoylesoftware.htmlunit.html.HtmlPage
+import com.gargoylesoftware.htmlunit.html.HtmlTable
+import com.gargoylesoftware.htmlunit.html.HtmlTableCell
+import com.gargoylesoftware.htmlunit.html.HtmlTableRow
 
 class Main {
     private final static WebClient web = new WebClient();
@@ -12,6 +15,8 @@ class Main {
     private final static ArrayList<String> aircraft = new ArrayList<>()
     private final static ArrayList<String> manufactures = new ArrayList<>()
 
+    private final static ArrayList<Aircraft> infoAircraft = new ArrayList<>()
+
     static def run() {
         web.getOptions().setCssEnabled(false);
         web.getOptions().setJavaScriptEnabled(false);
@@ -19,6 +24,8 @@ class Main {
         getListOfPages()
         getListOfManufactures()
         getListOfAircraft()
+
+        getInformationOfAircraft()
     }
 
     static def getListOfPages() {
@@ -61,6 +68,53 @@ class Main {
 
             Thread.sleep(1100)
 
+            // Debug
+            break
+        }
+    }
+
+    static def getInformationOfAircraft() {
+        for (String aircraftPage : aircraft) {
+            final HtmlPage html = web.getPage(aircraftPage)
+            final List<HtmlTable> tables = html.getByXPath('//table[@class]')
+
+            final Aircraft aircraft1 = new Aircraft();
+
+            for (HtmlTable table : tables) {
+                for (HtmlTableRow row : table.getRows()) {
+                    final String description = row.getCell(0).getVisibleText();
+                    final String value = row.getCell(1).getVisibleText();
+
+                    if (description == 'Manufacturer:') {
+                        aircraft1.setManufacture(value)
+                    } else if (description == 'Model:') {
+                        aircraft1.setModel(value)
+                    } else if (description == 'Year built:') {
+                        aircraft1.setYearBuilt(value)
+                    } else if (description == 'Construction Number (C/N):') {
+                        aircraft1.setConstructNumber(value)
+                    } else if (description == 'Number of Seats:') {
+                        // Invariant, when not exist information about of seats
+                        // the value is N/A
+                        if (value != 'N/A') {
+                            aircraft1.setSeats(value as Integer)
+                        } else {
+                            // For default, 0 is a value unknown
+                            aircraft1.setSeats(0)
+                        }
+                    } else if (description == 'Number of Engines:') {
+                        aircraft1.setEngines(value as Integer)
+                    } else if (description == 'Registration Number:') {
+                        aircraft1.setRegistrationNumber(value)
+                    } else if (description == 'Address:') {
+                        aircraft1.setAddress(value)
+                    } else {
+                        println "Unknown attribute: ${description} \n ${value}"
+                    }
+                }
+            }
+
+            // Debug
             break
         }
     }

@@ -98,6 +98,8 @@ class Main {
                         aircraft1.setYearBuilt(value)
                     } else if (description == 'Construction Number (C/N):') {
                         aircraft1.setConstructNumber(value)
+                    } else if (description == 'Aircraft Type:') {
+                        aircraft1.setType(value)
                     } else if (description == 'Number of Seats:') {
                         // Invariant, when not exist information about of seats
                         // the value is N/A
@@ -109,8 +111,14 @@ class Main {
                         }
                     } else if (description == 'Number of Engines:') {
                         aircraft1.setEngines(value as Integer)
+                    } else if (description == 'Engine Type:') {
+                        aircraft1.setEngineType(value)
                     } else if (description == 'Registration Number:') {
                         aircraft1.setRegistrationNumber(value)
+                    } else if (description == 'Engine Manufacturer and Model:') {
+                        aircraft1.setEngineManufacture(value)
+                    } else if (description == 'Also Registered As:') {
+                        aircraft1.setAlsoRegister(value)
                     } else if (description == 'Address:') {
                         aircraft1.setAddress(value)
                     } else {

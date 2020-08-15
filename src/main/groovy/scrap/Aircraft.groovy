@@ -4,6 +4,7 @@ class Aircraft {
     String type
     String name
     String model
+    String owner
     String address
     String yearBuilt
     String engineType

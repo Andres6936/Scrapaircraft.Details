@@ -124,6 +124,8 @@ class Main {
                         aircraft1.setCurrentStatus(value)
                     } else if (description == 'Delivery Date:') {
                         aircraft1.setDeliveryDate(value)
+                    } else if (description == 'Owner:') {
+                        aircraft1.setOwner(value)
                     } else if (description == 'Address:') {
                         // The text have a wrong format
                         aircraft1.setAddress(value

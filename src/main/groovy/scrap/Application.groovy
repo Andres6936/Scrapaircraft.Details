@@ -122,7 +122,10 @@ class Main {
                     } else if (description == 'Current Status:') {
                         aircraft1.setCurrentStatus(value)
                     } else if (description == 'Address:') {
-                        aircraft1.setAddress(value)
+                        // The text have a wrong format
+                        aircraft1.setAddress(value
+                                .replace(',', '')
+                                .replace('\n', ''))
                     } else {
                         println "Unknown attribute: ${description} \n ${value}"
                     }

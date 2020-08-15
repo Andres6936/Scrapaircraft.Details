@@ -52,9 +52,6 @@ class Main {
 
             // For avoid the block for the host
             Thread.sleep(1100)
-
-            // Debug
-            break
         }
     }
 
@@ -69,9 +66,6 @@ class Main {
             }
 
             Thread.sleep(1100)
-
-            // Debug
-            break
         }
     }
 
@@ -140,9 +134,6 @@ class Main {
             infoAircraft.add(aircraft1)
 
             Thread.sleep(1100)
-
-            // Debug
-            break
         }
     }
 
@@ -155,9 +146,6 @@ class Main {
 
             final File file = new File(filenameOutput)
             file.write(json)
-
-            // Debug
-            break
         }
     }
 }

@@ -9,6 +9,7 @@ class Main {
     private final static WebClient web = new WebClient();
 
     private final static ArrayList<String> pages = new ArrayList<>()
+    private final static ArrayList<String> aircraft = new ArrayList<>()
     private final static ArrayList<String> manufactures = new ArrayList<>()
 
     static def run() {
@@ -17,6 +18,7 @@ class Main {
 
         getListOfPages()
         getListOfManufactures()
+        getListOfAircraft()
     }
 
     static def getListOfPages() {
@@ -41,6 +43,25 @@ class Main {
 
             // For avoid the block for the host
             Thread.sleep(1100)
+
+            // Debug
+            break
+        }
+    }
+
+    static def getListOfAircraft() {
+        for (String manufacture : manufactures) {
+            final HtmlPage html = web.getPage(manufacture)
+            final List<HtmlElement> rows = html.getByXPath('//tr[@class]')
+
+            for (HtmlElement row : rows) {
+                final HtmlElement aRef = row.getFirstChild().getFirstChild()
+                aircraft.add(aRef.getAttribute('href'))
+            }
+
+            Thread.sleep(1100)
+
+            break
         }
     }
 }

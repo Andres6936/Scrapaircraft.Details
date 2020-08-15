@@ -118,8 +118,12 @@ class Main {
                         aircraft1.setAlsoRegister(value)
                     } else if (description == 'Registration Number:') {
                         aircraft1.setRegistrationNumber(value)
+                    } else if (description == 'Mode S (ICAO24) Code:') {
+                        aircraft1.setModelSICAO24Code(value)
                     } else if (description == 'Current Status:') {
                         aircraft1.setCurrentStatus(value)
+                    } else if (description == 'Delivery Date:') {
+                        aircraft1.setDeliveryDate(value)
                     } else if (description == 'Address:') {
                         // The text have a wrong format
                         aircraft1.setAddress(value

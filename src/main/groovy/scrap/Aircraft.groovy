@@ -9,8 +9,10 @@ class Aircraft {
     String engineType
     String manufacture
     String alsoRegister
+    String deliveryDate
     String currentStatus
     String constructNumber
+    String modelSICAO24Code
     String engineManufacture
     String registrationNumber
 

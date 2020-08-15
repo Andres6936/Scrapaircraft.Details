@@ -5,7 +5,6 @@ import com.gargoylesoftware.htmlunit.html.HtmlDivision
 import com.gargoylesoftware.htmlunit.html.HtmlElement
 import com.gargoylesoftware.htmlunit.html.HtmlPage
 import com.gargoylesoftware.htmlunit.html.HtmlTable
-import com.gargoylesoftware.htmlunit.html.HtmlTableCell
 import com.gargoylesoftware.htmlunit.html.HtmlTableRow
 import groovy.json.JsonOutput
 

@@ -2,6 +2,7 @@ package scrap
 
 class Aircraft {
     String type
+    String name
     String model
     String address
     String yearBuilt

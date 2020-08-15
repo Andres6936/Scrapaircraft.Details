@@ -7,6 +7,7 @@ import com.gargoylesoftware.htmlunit.html.HtmlPage
 import com.gargoylesoftware.htmlunit.html.HtmlTable
 import com.gargoylesoftware.htmlunit.html.HtmlTableCell
 import com.gargoylesoftware.htmlunit.html.HtmlTableRow
+import groovy.json.JsonOutput
 
 class Main {
     private final static WebClient web = new WebClient();
@@ -26,6 +27,8 @@ class Main {
         getListOfAircraft()
 
         getInformationOfAircraft()
+
+        generateFilesJSON()
     }
 
     static def getListOfPages() {
@@ -80,6 +83,8 @@ class Main {
 
             final Aircraft aircraft1 = new Aircraft();
 
+            aircraft1.setName(html.getFirstByXPath('//div[@class="huge_id"]').asText())
+
             for (HtmlTable table : tables) {
                 for (HtmlTableRow row : table.getRows()) {
                     final String description = row.getCell(0).getVisibleText();
@@ -113,6 +118,25 @@ class Main {
                     }
                 }
             }
+
+            infoAircraft.add(aircraft1)
+
+            Thread.sleep(1100)
+
+            // Debug
+            break
+        }
+    }
+
+    static def generateFilesJSON() {
+        for (Aircraft aircraft1 : infoAircraft) {
+            final String json = JsonOutput.prettyPrint(JsonOutput.toJson(aircraft1))
+            final String filenameOutput = 'output/' + aircraft1.getName()
+                    .replace(' ', '-')
+                    .replace('/', '-') + ".json"
+
+            final File file = new File(filenameOutput)
+            file.write(json)
 
             // Debug
             break

@@ -22,8 +22,6 @@ class Main {
         getListOfPages()
         getListOfManufactures()
         getListOfAircraft()
-
-        getInformationOfAircraft()
     }
 
     static def getListOfPages() {
@@ -58,79 +56,82 @@ class Main {
 
             for (HtmlElement row : rows) {
                 final HtmlElement aRef = row.getFirstChild().getFirstChild()
-                aircraft.add(aRef.getAttribute('href'))
+
+                // Get and print the information of aircraft link
+                getInformationOfAircraft(aRef.getAttribute('href'))
             }
 
             Thread.sleep(1100)
         }
     }
 
-    static def getInformationOfAircraft() {
-        for (String aircraftPage : aircraft) {
-            final HtmlPage html = web.getPage(aircraftPage)
-            final List<HtmlTable> tables = html.getByXPath('//table[@class]')
+    static def getInformationOfAircraft(final String aircraftPage) {
 
-            final Aircraft aircraft1 = new Aircraft();
+        print('Link: ' + aircraftPage + '\n')
 
-            aircraft1.setName(html.getFirstByXPath('//div[@class="huge_id"]').asText())
+        final HtmlPage html = web.getPage(aircraftPage)
+        final List<HtmlTable> tables = html.getByXPath('//table[@class]')
 
-            for (HtmlTable table : tables) {
-                for (HtmlTableRow row : table.getRows()) {
-                    final String description = row.getCell(0).getVisibleText();
-                    final String value = row.getCell(1).getVisibleText();
+        final Aircraft aircraft1 = new Aircraft();
 
-                    if (description == 'Manufacturer:') {
-                        aircraft1.setManufacture(value)
-                    } else if (description == 'Model:') {
-                        aircraft1.setModel(value)
-                    } else if (description == 'Year built:') {
-                        aircraft1.setYearBuilt(value)
-                    } else if (description == 'Construction Number (C/N):') {
-                        aircraft1.setConstructNumber(value)
-                    } else if (description == 'Aircraft Type:') {
-                        aircraft1.setType(value)
-                    } else if (description == 'Number of Seats:') {
-                        // Invariant, when not exist information about of seats
-                        // the value is N/A
-                        if (value != 'N/A') {
-                            aircraft1.setSeats(value as Integer)
-                        } else {
-                            // For default, 0 is a value unknown
-                            aircraft1.setSeats(0)
-                        }
-                    } else if (description == 'Number of Engines:') {
-                        aircraft1.setEngines(value as Integer)
-                    } else if (description == 'Engine Type:') {
-                        aircraft1.setEngineType(value)
-                    } else if (description == 'Engine Manufacturer and Model:') {
-                        aircraft1.setEngineManufacture(value)
-                    } else if (description == 'Also Registered As:') {
-                        aircraft1.setAlsoRegister(value)
-                    } else if (description == 'Registration Number:') {
-                        aircraft1.setRegistrationNumber(value)
-                    } else if (description == 'Mode S (ICAO24) Code:') {
-                        aircraft1.setModelSICAO24Code(value)
-                    } else if (description == 'Current Status:') {
-                        aircraft1.setCurrentStatus(value)
-                    } else if (description == 'Delivery Date:') {
-                        aircraft1.setDeliveryDate(value)
-                    } else if (description == 'Owner:') {
-                        aircraft1.setOwner(value)
-                    } else if (description == 'Address:') {
-                        // The text have a wrong format
-                        aircraft1.setAddress(value
-                                .replace(',', '')
-                                .replace('\n', ''))
+        aircraft1.setName(html.getFirstByXPath('//div[@class="huge_id"]').asText())
+
+        for (HtmlTable table : tables) {
+            for (HtmlTableRow row : table.getRows()) {
+                final String description = row.getCell(0).getVisibleText();
+                final String value = row.getCell(1).getVisibleText();
+
+                if (description == 'Manufacturer:') {
+                    aircraft1.setManufacture(value)
+                } else if (description == 'Model:') {
+                    aircraft1.setModel(value)
+                } else if (description == 'Year built:') {
+                    aircraft1.setYearBuilt(value)
+                } else if (description == 'Construction Number (C/N):') {
+                    aircraft1.setConstructNumber(value)
+                } else if (description == 'Aircraft Type:') {
+                    aircraft1.setType(value)
+                } else if (description == 'Number of Seats:') {
+                    // Invariant, when not exist information about of seats
+                    // the value is N/A
+                    if (value != 'N/A') {
+                        aircraft1.setSeats(value as Integer)
                     } else {
-                        println "Unknown attribute: ${description} \n ${value}"
+                        // For default, 0 is a value unknown
+                        aircraft1.setSeats(0)
                     }
+                } else if (description == 'Number of Engines:') {
+                    aircraft1.setEngines(value as Integer)
+                } else if (description == 'Engine Type:') {
+                    aircraft1.setEngineType(value)
+                } else if (description == 'Engine Manufacturer and Model:') {
+                    aircraft1.setEngineManufacture(value)
+                } else if (description == 'Also Registered As:') {
+                    aircraft1.setAlsoRegister(value)
+                } else if (description == 'Registration Number:') {
+                    aircraft1.setRegistrationNumber(value)
+                } else if (description == 'Mode S (ICAO24) Code:') {
+                    aircraft1.setModelSICAO24Code(value)
+                } else if (description == 'Current Status:') {
+                    aircraft1.setCurrentStatus(value)
+                } else if (description == 'Delivery Date:') {
+                    aircraft1.setDeliveryDate(value)
+                } else if (description == 'Owner:') {
+                    aircraft1.setOwner(value)
+                } else if (description == 'Address:') {
+                    // The text have a wrong format
+                    aircraft1.setAddress(value
+                            .replace(',', '')
+                            .replace('\n', ''))
+                } else {
+                    println "Unknown attribute: ${description} \n ${value}"
                 }
             }
-
-            generateFilesJSON(aircraft1)
-
-            Thread.sleep(1100)
         }
+
+        generateFilesJSON(aircraft1)
+
+        Thread.sleep(1100)
     }
 
     static def generateFilesJSON(final Aircraft aircraft) {

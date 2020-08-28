@@ -1,0 +1,19 @@
+{
+  "currentStatus": "W/O - crashed 1933-01-25",
+  "constructNumber": "1",
+  "engineType": "Reciprocating",
+  "address": "Belgium",
+  "modelSICAO24Code": null,
+  "manufacture": "ACAZ (Ateliers de Construction A\u00e9ronautique de Zeebruges)",
+  "deliveryDate": null,
+  "name": "OO-AFX",
+  "seats": 2,
+  "type": "Fixed wing single engine",
+  "owner": null,
+  "engineManufacture": "Hispano-Suiza 12Ha V-12",
+  "yearBuilt": "1926",
+  "engines": 1,
+  "alsoRegister": "O-BAFX  De-registered",
+  "registrationNumber": "OO-AFX",
+  "model": "C.2    Search all ACAZ (Ateliers de Construction A\u00e9ronautique de Zeebruges) C.2"
+}

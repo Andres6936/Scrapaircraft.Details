@@ -67,6 +67,8 @@ class Main {
 
     static def getInformationOfAircraft(final String aircraftPage) {
 
+        if (aircraftPage.isEmpty()) return;
+
         print('Link: ' + aircraftPage + '\n')
 
         final HtmlPage html = web.getPage(aircraftPage)

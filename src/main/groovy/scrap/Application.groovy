@@ -15,8 +15,6 @@ class Main {
     private final static ArrayList<String> aircraft = new ArrayList<>()
     private final static ArrayList<String> manufactures = new ArrayList<>()
 
-    private final static ArrayList<Aircraft> infoAircraft = new ArrayList<>()
-
     static def run() {
         web.getOptions().setCssEnabled(false);
         web.getOptions().setJavaScriptEnabled(false);
@@ -26,8 +24,6 @@ class Main {
         getListOfAircraft()
 
         getInformationOfAircraft()
-
-        generateFilesJSON()
     }
 
     static def getListOfPages() {
@@ -131,22 +127,20 @@ class Main {
                 }
             }
 
-            infoAircraft.add(aircraft1)
+            generateFilesJSON(aircraft1)
 
             Thread.sleep(1100)
         }
     }
 
-    static def generateFilesJSON() {
-        for (Aircraft aircraft1 : infoAircraft) {
-            final String json = JsonOutput.prettyPrint(JsonOutput.toJson(aircraft1))
-            final String filenameOutput = 'output/' + aircraft1.getName()
-                    .replace(' ', '-')
-                    .replace('/', '-') + ".json"
+    static def generateFilesJSON(final Aircraft aircraft) {
+        final String json = JsonOutput.prettyPrint(JsonOutput.toJson(aircraft))
+        final String filenameOutput = 'output/' + aircraft.getName()
+                .replace(' ', '-')
+                .replace('/', '-') + ".json"
 
-            final File file = new File(filenameOutput)
-            file.write(json)
-        }
+        final File file = new File(filenameOutput)
+        file.write(json)
     }
 }
 

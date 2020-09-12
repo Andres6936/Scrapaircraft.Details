@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "E3377",
+    "engineType": "Turbofan",
+    "address": "Libyan Arab Jamahiriya",
+    "modelSICAO24Code": null,
+    "manufacture": "British Aerospace",
+    "deliveryDate": "2018-07-00",
+    "name": "5A-DLG",
+    "seats": 97,
+    "type": "Fixed wing multi engine",
+    "owner": "Air Libya",
+    "engineManufacture": "Lycoming LF507-1F",
+    "yearBuilt": "2000",
+    "engines": 4,
+    "alsoRegister": "G-6-377  De-registered\nG-CFAB  De-registered  Delivery: 2003-07-25  Cancel: 2006-02-08\nHB-IYV  De-registered  Delivery: 2006-02-17\nM-ABKY  De-registered  Delivery: 2018-01-00  Cancel: 2018-07-10",
+    "registrationNumber": "5A-DLG",
+    "model": "Avro 146-RJ100    Search all British Aerospace Avro 146-RJ100"
+}

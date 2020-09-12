@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "209",
+    "engineType": "Reciprocating",
+    "address": "BM L\u00e9girend\u00e9szetBudapestHungary",
+    "modelSICAO24Code": null,
+    "manufacture": "Benes-Mraz",
+    "deliveryDate": null,
+    "name": "R-01",
+    "seats": 3,
+    "type": "Fixed wing single engine",
+    "owner": "Royal Netherlands Air Force",
+    "engineManufacture": "Walter Minor 4-III",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "HA-REA  De-registered\nHA-SOA  De-registered",
+    "registrationNumber": "R-01",
+    "model": "M-1C Sokol    Search all Benes-Mraz M-1C Sokol"
+}

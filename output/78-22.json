@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service with HFWS",
+    "constructNumber": "TGEA22",
+    "engineType": "Turbo-shaft",
+    "address": "B\u00fcckeburg Air BaseGermany",
+    "modelSICAO24Code": null,
+    "manufacture": "NHI",
+    "deliveryDate": null,
+    "name": "78 22",
+    "seats": 22,
+    "type": "Rotorcraft",
+    "owner": "German Army (Heeresfliegertruppe)",
+    "engineManufacture": "Rolls-Royce/Turbomeca RTM 322",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "D-HELF  Crashed on October 16, 1974",
+    "registrationNumber": "78 22",
+    "model": "NH-90 TTH Caiman    Search all NHI NH-90 TTH"
+}

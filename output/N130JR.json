@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "5442",
+    "engineType": "Ramjet",
+    "address": "Marietta GA 300631000United States",
+    "modelSICAO24Code": "A07C09",
+    "manufacture": "Lockheed",
+    "deliveryDate": null,
+    "name": "N130JR",
+    "seats": 128,
+    "type": "Powered Parachute",
+    "owner": "LOCKHEED MARTIN CORPORATION",
+    "engineManufacture": "Ama/expr UNKNOWN ENG",
+    "yearBuilt": "1997",
+    "engines": 4,
+    "alsoRegister": null,
+    "registrationNumber": "N130JR",
+    "model": "C130J    Search all Lockheed C130J"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "JM-2",
+    "engineType": "Turbofan",
+    "address": "Nanjemoy MD 20662United States",
+    "modelSICAO24Code": "A034F4",
+    "manufacture": "Breezy",
+    "deliveryDate": "2018-02-26",
+    "name": "N112PP",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": "NOVEMBER 862TANGO INC",
+    "engineManufacture": "Ama/expr UNKNOWN ENG",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "PT-PYD  Manufacturer's registration\nVT-SFM  De-registered  Delivery: 2011-01-11",
+    "registrationNumber": "N112PP",
+    "model": "RLU-1    Search all Breezy RLU-1"
+}

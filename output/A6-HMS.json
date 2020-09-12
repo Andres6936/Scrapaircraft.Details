@@ -1,0 +1,19 @@
+{
+    "currentStatus": "registrated",
+    "constructNumber": "3379",
+    "engineType": "Turbojet",
+    "address": "United Arab Emirates",
+    "modelSICAO24Code": "89624B",
+    "manufacture": "Airbus",
+    "deliveryDate": null,
+    "name": "A6-HMS",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Gaylan Air Cargo",
+    "engineManufacture": "Rolls-Royce Proteus 255",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "G-BEMZ  De-registered\n9Q-CGP  Broken up at Ostend in 1978\nXL660  Withdrawn from service",
+    "registrationNumber": "A6-HMS",
+    "model": "A320-232X    Search all Airbus A320-232X"
+}

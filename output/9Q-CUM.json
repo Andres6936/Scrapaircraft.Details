@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Destroyed",
+    "constructNumber": "42973",
+    "engineType": "Reciprocating",
+    "address": "Congo",
+    "modelSICAO24Code": null,
+    "manufacture": "Douglas",
+    "deliveryDate": null,
+    "name": "9Q-CUM",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Bristol Siddeley Proteus",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "OO-AUM  De-registered\n9O-CUM  De-registered",
+    "registrationNumber": "9Q-CUM",
+    "model": "DC-3D    Search all Douglas DC-3D"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "3602901",
+    "engineType": "Turbo-prop",
+    "address": "Kacha Sevastopol CrimeaRussian Federation",
+    "modelSICAO24Code": null,
+    "manufacture": "Beriev",
+    "deliveryDate": null,
+    "name": "RF-12006",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Russian Navy",
+    "engineManufacture": "Ivcheno AI-20D",
+    "yearBuilt": "1973",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "RF-12006",
+    "model": "Be-12PS    Search all Beriev Be-12PS"
+}

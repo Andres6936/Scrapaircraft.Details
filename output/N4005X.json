@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "5404",
+    "engineType": "Turbofan",
+    "address": "",
+    "modelSICAO24Code": "A4AFBE",
+    "manufacture": "Lockheed",
+    "deliveryDate": "2014-08-25",
+    "name": "N4005X",
+    "seats": 12,
+    "type": "Fixed wing multi engine",
+    "owner": "LANE AVIATION INC",
+    "engineManufacture": "Rolls-Royce RB.211-524B2",
+    "yearBuilt": "0000",
+    "engines": 4,
+    "alsoRegister": "N759DA  Valid\nN64911  De-registered\nN501PA  De-registered  Delivery: 1981-07-02",
+    "registrationNumber": "N4005X",
+    "model": "P-3P    Search all Lockheed P-3P"
+}

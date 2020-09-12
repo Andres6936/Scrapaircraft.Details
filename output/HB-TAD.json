@@ -1,0 +1,19 @@
+{
+    "currentStatus": "deregistered",
+    "constructNumber": "211",
+    "engineType": "Reciprocating",
+    "address": "LangenthalSwitzerland",
+    "modelSICAO24Code": "4B322F",
+    "manufacture": "Benes-Mraz",
+    "deliveryDate": "1949-03-15",
+    "name": "HB-TAD",
+    "seats": 3,
+    "type": "Fixed wing single engine",
+    "owner": "MFGL",
+    "engineManufacture": null,
+    "yearBuilt": "1948",
+    "engines": 1,
+    "alsoRegister": "D-EEKW  registered",
+    "registrationNumber": "HB-TAD",
+    "model": "M-1C Sokol    Search all Benes-Mraz M-1C Sokol"
+}

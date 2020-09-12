@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Crashed on April 6, 2016",
+    "constructNumber": "258242",
+    "engineType": "Turbofan",
+    "address": "Iruma Air BaseJapan",
+    "modelSICAO24Code": null,
+    "manufacture": "British Aerospace",
+    "deliveryDate": null,
+    "name": "49-3043",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Japan Air Self-Defense Force",
+    "engineManufacture": "Garrett AiResearch TFE731",
+    "yearBuilt": "1993",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "49-3043",
+    "model": "U-125    Search all British Aerospace U-125"
+}

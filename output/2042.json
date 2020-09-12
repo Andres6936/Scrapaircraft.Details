@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Active service with 383 MEEA",
+    "constructNumber": "2042",
+    "engineType": "Turbo-prop",
+    "address": "Mikra Air Base ThessalonikiGreece",
+    "modelSICAO24Code": null,
+    "manufacture": "Bombardier",
+    "deliveryDate": null,
+    "name": "2042",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Hellenic Air Force",
+    "engineManufacture": "Rolls-Royce/Turbomeca/MTU MTR 390",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "2042",
+    "model": "CL-415GR (CL-215-6B11)    Search all Bombardier CL-415GR (CL-215-6B11)"
+}

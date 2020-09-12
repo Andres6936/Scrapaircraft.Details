@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "422",
+    "engineType": "Turbofan",
+    "address": "Algona IA 50511United States",
+    "modelSICAO24Code": "A03649",
+    "manufacture": "Brantly",
+    "deliveryDate": null,
+    "name": "N1122K",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": "Riverfront Aviation LLC",
+    "engineManufacture": "Pratt & Whitney Canada PW545A",
+    "yearBuilt": "1964",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N1122K",
+    "model": "B-2B    Search all Brantly B-2B"
+}

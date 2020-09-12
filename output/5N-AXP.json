@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Crashed on December 31, 1985",
+    "constructNumber": "257203",
+    "engineType": "Turbofan",
+    "address": "LagosNigeria",
+    "modelSICAO24Code": null,
+    "manufacture": "British Aerospace",
+    "deliveryDate": null,
+    "name": "5N-AXP",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Nigerian Air Force",
+    "engineManufacture": "Garrett AiResearch TFE731",
+    "yearBuilt": "1983",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "5N-AXP",
+    "model": "BAe.125-700B    Search all British Aerospace BAe.125-700B"
+}

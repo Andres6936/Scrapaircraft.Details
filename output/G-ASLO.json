@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Destroyed",
+    "constructNumber": "330",
+    "engineType": "Reciprocating",
+    "address": "United Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "Brantly",
+    "deliveryDate": null,
+    "name": "G-ASLO",
+    "seats": 2,
+    "type": "Rotorcraft",
+    "owner": null,
+    "engineManufacture": "Lycoming IVO-360-A1A",
+    "yearBuilt": "1963",
+    "engines": 1,
+    "alsoRegister": "EI-AVK  De-registered",
+    "registrationNumber": "G-ASLO",
+    "model": "B-2B    Search all Brantly B-2B"
+}

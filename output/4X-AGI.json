@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Conversion for PLAAF",
+    "constructNumber": "0093486579",
+    "engineType": "Turbofan",
+    "address": "LodIsrael",
+    "modelSICAO24Code": null,
+    "manufacture": "Beriev",
+    "deliveryDate": null,
+    "name": "4X-AGI",
+    "seats": 15,
+    "type": "Fixed wing multi engine",
+    "owner": "Israel Aerospace Industries",
+    "engineManufacture": "Aviadvigatel PS-90A",
+    "yearBuilt": "0000",
+    "engines": 4,
+    "alsoRegister": "RA-78740  De-registered",
+    "registrationNumber": "4X-AGI",
+    "model": "A-50 Mainstay    Search all Beriev A-50 Mainstay"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "28",
+    "engineType": "Turbo-prop",
+    "address": "San Diego CA 92101",
+    "modelSICAO24Code": "A36A34",
+    "manufacture": "Bowlus",
+    "deliveryDate": null,
+    "name": "N319W",
+    "seats": 1,
+    "type": "Rotorcraft",
+    "owner": "BOWLUS SAILPLANE CO LTD",
+    "engineManufacture": "Turbomeca ASTAZOU SER",
+    "yearBuilt": "1930",
+    "engines": 0,
+    "alsoRegister": null,
+    "registrationNumber": "N319W",
+    "model": "S-1000    Search all Bowlus S-1000"
+}

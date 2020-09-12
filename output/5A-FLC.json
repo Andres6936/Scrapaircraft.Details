@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "E2077",
+    "engineType": "Turbofan",
+    "address": "Libyan Arab Jamahiriya",
+    "modelSICAO24Code": null,
+    "manufacture": "British Aerospace",
+    "deliveryDate": "2016-09-00",
+    "name": "5A-FLC",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Air Libya",
+    "engineManufacture": "Lycoming ALF502R-5",
+    "yearBuilt": "1987",
+    "engines": 4,
+    "alsoRegister": "G-5-077  De-registered\nOO-DJD  De-registered\nN408XV  De-registered  Delivery: 1987-08-04  Cancel: 1989-09-05\nG-BRNG  De-registered  Delivery: 1989-09-29  Cancel: 1989-12-28\nG-UKRH  De-registered  Delivery: 1991-05-07\nD-AEWE  De-registered  Delivery: 1997-04-00\nZS-SOV  De-registered  Delivery: 2010-05-15",
+    "registrationNumber": "5A-FLC",
+    "model": "BAe.146-200    Search all British Aerospace BAe.146-200"
+}

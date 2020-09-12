@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "E3234",
+    "engineType": "Turbofan",
+    "address": "Libyan Arab Jamahiriya",
+    "modelSICAO24Code": null,
+    "manufacture": "British Aerospace",
+    "deliveryDate": "2012-12-21",
+    "name": "5A-FLB",
+    "seats": 97,
+    "type": "Fixed wing multi engine",
+    "owner": "Air Libya",
+    "engineManufacture": "Lycoming LF507-1F",
+    "yearBuilt": "1993",
+    "engines": 4,
+    "alsoRegister": "TC-THB  Deregistered  Delivery: 1993-08-12  Cancel: 2004-03-29\nOY-FJE  Deregistered  Delivery: 2006-05-10  Cancel: 2010-01-06\nG-CCTB  Deregistered  Delivery: 2010-01-06  Cancel: 2012-12-21",
+    "registrationNumber": "5A-FLB",
+    "model": "Avro 146-RJ100    Search all British Aerospace Avro 146-RJ100"
+}

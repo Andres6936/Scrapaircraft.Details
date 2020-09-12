@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "112",
+    "engineType": "Reciprocating",
+    "address": "Czech Republic",
+    "modelSICAO24Code": null,
+    "manufacture": "Benes-Mraz",
+    "deliveryDate": null,
+    "name": "OK-BHA",
+    "seats": 3,
+    "type": "Fixed wing single engine",
+    "owner": null,
+    "engineManufacture": "Walter 105hp Minor 4-3",
+    "yearBuilt": "1947",
+    "engines": 1,
+    "alsoRegister": "G-AIXN  Registered",
+    "registrationNumber": "OK-BHA",
+    "model": "M-1C Sokol    Search all Benes-Mraz M-1C Sokol"
+}

@@ -1,19 +1,19 @@
 {
     "currentStatus": "On active service",
-    "constructNumber": "Not found L8756",
-    "engineType": "Reciprocating",
-    "address": "Canada",
+    "constructNumber": "A-1",
+    "engineType": "Turbofan",
+    "address": "Taiwan",
     "modelSICAO24Code": "71BC65",
-    "manufacture": "Bristol",
+    "manufacture": "AIDC",
     "deliveryDate": null,
     "name": "10001",
-    "seats": 3,
+    "seats": 1,
     "type": "Fixed wing multi engine",
     "owner": "Republic of China Air Force",
-    "engineManufacture": "Bristol Mercury XX radial",
+    "engineManufacture": "Honeywell/ITEC F125-70",
     "yearBuilt": "0000",
     "engines": 2,
     "alsoRegister": "L8756  Preserved",
     "registrationNumber": "10001",
-    "model": "149 Bolingbroke Mk.IVT    Search all Bristol 149 Bolingbroke Mk.IVT"
+    "model": "F-CK-1A Ching-Kuo    Search all AIDC F-CK-1A Ching-Kuo"
 }

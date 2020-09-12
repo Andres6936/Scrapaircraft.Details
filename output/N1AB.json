@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "101",
+    "engineType": "Turbofan",
+    "address": "",
+    "modelSICAO24Code": "A00004",
+    "manufacture": "Breezy",
+    "deliveryDate": null,
+    "name": "N1AB",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": null,
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "N127RP  Re-registered",
+    "registrationNumber": "N1AB",
+    "model": "RLU-1    Search all Breezy RLU-1"
+}

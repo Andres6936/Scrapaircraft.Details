@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "G-4",
+    "engineType": "Reciprocating",
+    "address": "Los Angles CA 90047",
+    "modelSICAO24Code": "A377B2",
+    "manufacture": "Bowlus",
+    "deliveryDate": null,
+    "name": "N322W",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": "PACIFIC COAST GLIDERS LTD",
+    "engineManufacture": "Lycoming TI0-540 SER",
+    "yearBuilt": "1930",
+    "engines": 0,
+    "alsoRegister": null,
+    "registrationNumber": "N322W",
+    "model": "G-100    Search all Bowlus G-100"
+}

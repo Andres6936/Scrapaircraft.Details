@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "19037",
+    "engineType": "Turbofan",
+    "address": "LagosNigeria",
+    "modelSICAO24Code": "ARIK AIR",
+    "manufacture": "Bombardier",
+    "deliveryDate": null,
+    "name": "5N-JEE",
+    "seats": 100,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "General Electric CF34-8C5A2",
+    "yearBuilt": "2013",
+    "engines": 2,
+    "alsoRegister": "C-GZQW  De-registered  Delivery: 2013-10-29",
+    "registrationNumber": "5N-JEE",
+    "model": "CRJ-1000 (CL-600-2E25)    Search all Bombardier CRJ-1000 (CL-600-2E25)"
+}

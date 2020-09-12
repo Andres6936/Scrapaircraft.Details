@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "709",
+    "engineType": "Turbo-prop",
+    "address": "King Abdullah Aziz Air Base DhahranSaudi Arabia",
+    "modelSICAO24Code": null,
+    "manufacture": "British Aerospace",
+    "deliveryDate": null,
+    "name": "3501",
+    "seats": 21,
+    "type": "Fixed wing multi engine",
+    "owner": "Royal Saudi Air Force",
+    "engineManufacture": "Garrett AiResearch TPE331-10UG-513H",
+    "yearBuilt": "1986",
+    "engines": 2,
+    "alsoRegister": "G-BMNS  De-registered  Delivery: 1986-05-29  Cancel: 1987-01-26",
+    "registrationNumber": "3501",
+    "model": "BAe-3102 Jetstream 31    Search all British Aerospace BAe-3102 Jetstream 31"
+}

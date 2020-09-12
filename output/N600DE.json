@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "151",
+    "engineType": "Turbofan",
+    "address": "Ogden UT 844011332United States",
+    "modelSICAO24Code": "A7C78F",
+    "manufacture": "Briegleb",
+    "deliveryDate": null,
+    "name": "N600DE",
+    "seats": 1,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Pratt & Whitney Canada PW615F-A",
+    "yearBuilt": "1971",
+    "engines": 0,
+    "alsoRegister": null,
+    "registrationNumber": "N600DE",
+    "model": "BG-12BD    Search all Briegleb BG-12BD"
+}

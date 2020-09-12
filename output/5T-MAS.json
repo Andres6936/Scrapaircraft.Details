@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "747",
+    "engineType": "Reciprocating",
+    "address": "Mauritania",
+    "modelSICAO24Code": null,
+    "manufacture": "Britten-Norman",
+    "deliveryDate": null,
+    "name": "5T-MAS",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Force Aerienne Islamique de Mauritanie",
+    "engineManufacture": "Lycoming IO-540-K1B5",
+    "yearBuilt": "1975",
+    "engines": 2,
+    "alsoRegister": "G-BCVR  De-registered",
+    "registrationNumber": "5T-MAS",
+    "model": "BN-2A-21 Islander    Search all Britten-Norman BN-2A-21 Islander"
+}

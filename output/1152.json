@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Active service - 11 Squadron",
+    "constructNumber": "CC04-11-121",
+    "engineType": "Turbofan",
+    "address": "King Hussein Air College MafraqJordan",
+    "modelSICAO24Code": null,
+    "manufacture": "CASA",
+    "deliveryDate": null,
+    "name": "1152",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": "Royal Jordanian Air Force",
+    "engineManufacture": "Garrett TFE 731-5-1J",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "HB-ZEQ  Registered",
+    "registrationNumber": "1152",
+    "model": "C-101CC Aviojet    Search all CASA C-101CC Aviojet"
+}

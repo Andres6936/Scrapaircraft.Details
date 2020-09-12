@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Re-registered",
+    "constructNumber": "258143",
+    "engineType": "Turbofan",
+    "address": "LagosNigeria",
+    "modelSICAO24Code": null,
+    "manufacture": "British Aerospace",
+    "deliveryDate": null,
+    "name": "5N-AGZ",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Aero Contractors of Nigeria",
+    "engineManufacture": "Garrett AiResearch TFE731",
+    "yearBuilt": "1988",
+    "engines": 2,
+    "alsoRegister": "5N-BOO  Registered",
+    "registrationNumber": "5N-AGZ",
+    "model": "BAe.125-800B    Search all British Aerospace BAe.125-800B"
+}

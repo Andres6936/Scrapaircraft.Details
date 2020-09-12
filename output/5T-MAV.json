@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Written off",
+    "constructNumber": "587",
+    "engineType": "Reciprocating",
+    "address": "Mauritania",
+    "modelSICAO24Code": null,
+    "manufacture": "Britten-Norman",
+    "deliveryDate": null,
+    "name": "5T-MAV",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Force Aerienne Islamique de Mauritanie",
+    "engineManufacture": "Lycoming IO-540-K1B5",
+    "yearBuilt": "1977",
+    "engines": 2,
+    "alsoRegister": "G-BEKZ  De-registered  Delivery: 1977-01-13  Cancel: 1977-09-05",
+    "registrationNumber": "5T-MAV",
+    "model": "BN-2A-21 Islander    Search all Britten-Norman BN-2A-21 Islander"
+}

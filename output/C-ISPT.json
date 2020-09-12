@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Cancelled",
+    "constructNumber": "CA001-123",
+    "engineType": "Reciprocating",
+    "address": "Ste-Anne-Du-Lac Quebec J0W1V0Canada",
+    "modelSICAO24Code": "C0BA72",
+    "manufacture": "BushCaddy",
+    "deliveryDate": "2009-05-27",
+    "name": "C-ISPT",
+    "seats": 2,
+    "type": null,
+    "owner": null,
+    "engineManufacture": "JABIRU AIRCRAFT PTY LTD",
+    "yearBuilt": "2007",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "C-ISPT",
+    "model": "R-80    Search all BushCaddy R-80"
+}

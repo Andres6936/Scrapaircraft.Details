@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "2014-02",
+    "engineType": "Reciprocating",
+    "address": "New Rochelle NY 10801",
+    "modelSICAO24Code": "A1C682",
+    "manufacture": "Bird",
+    "deliveryDate": null,
+    "name": "N213V",
+    "seats": 3,
+    "type": "Fixed wing single engine",
+    "owner": null,
+    "engineManufacture": "Ama/expr UNKNOWN ENG",
+    "yearBuilt": "1930",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N213V",
+    "model": "BK    Search all Bird BK"
+}

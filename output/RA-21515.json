@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "10101",
+    "engineType": "Turbofan",
+    "address": "MoscowRussian Federation",
+    "modelSICAO24Code": null,
+    "manufacture": "Beriev",
+    "deliveryDate": null,
+    "name": "RA-21515",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": "Russian Emergencies Ministry",
+    "engineManufacture": "Progress D-436TP",
+    "yearBuilt": "2003",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "RA-21515",
+    "model": "Be-200ChS    Search all Beriev Be-200ChS"
+}

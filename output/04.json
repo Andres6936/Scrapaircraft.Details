@@ -1,19 +1,19 @@
 {
-    "currentStatus": "Preserved",
-    "constructNumber": "8900203",
-    "engineType": "Turbo-prop",
-    "address": "MoninoRussian Federation",
+    "currentStatus": "On active service",
+    "constructNumber": "53005771",
+    "engineType": "Turbojet",
+    "address": "Russian Federation",
     "modelSICAO24Code": null,
-    "manufacture": "Antonov",
+    "manufacture": "Ilyushin",
     "deliveryDate": "2019-12-11",
     "name": "04",
-    "seats": 5,
+    "seats": 3,
     "type": "Fixed wing multi engine",
     "owner": "Russian Air Force",
-    "engineManufacture": "Progress AI-20L",
+    "engineManufacture": "Klimov VK-1A",
     "yearBuilt": "0000",
-    "engines": 4,
+    "engines": 2,
     "alsoRegister": "35317  De-registered",
     "registrationNumber": "04",
-    "model": "An-12BK    Search all Antonov An-12BK"
+    "model": "Il-28    Search all Ilyushin Il-28"
 }

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "G7",
+    "engineType": "Ramjet",
+    "address": "San Deigo CA 92101",
+    "modelSICAO24Code": "A382D7",
+    "manufacture": "Bowlus",
+    "deliveryDate": null,
+    "name": "N325W",
+    "seats": 2,
+    "type": "Gyroplane",
+    "owner": "BOWLUS SAILPLANE COMPANY LTD",
+    "engineManufacture": "Mcculloch 4318A&E/0-100",
+    "yearBuilt": "1930",
+    "engines": 0,
+    "alsoRegister": null,
+    "registrationNumber": "N325W",
+    "model": "G-100    Search all Bowlus G-100"
+}

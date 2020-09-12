@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "15470",
+    "engineType": "Turbofan",
+    "address": "EntebbeUganda",
+    "modelSICAO24Code": "068099",
+    "manufacture": "Bombardier",
+    "deliveryDate": "2019-10-05",
+    "name": "5X-KDP",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Uganda Airlines",
+    "engineManufacture": "General Electric CF34-8C5",
+    "yearBuilt": "2019",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "5X-KDP",
+    "model": "CRJ-900 (CL-600-2D24)    Search all Bombardier CRJ-900 (CL-600-2D24)"
+}

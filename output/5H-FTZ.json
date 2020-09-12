@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "E3118",
+    "engineType": "Turbofan",
+    "address": "Tanzania United Republic of",
+    "modelSICAO24Code": null,
+    "manufacture": "British Aerospace",
+    "deliveryDate": "2015-11-09",
+    "name": "5H-FTZ",
+    "seats": 97,
+    "type": "Fixed wing multi engine",
+    "owner": "Sky Aviation",
+    "engineManufacture": "Lycoming ALF502R-5",
+    "yearBuilt": "1988",
+    "engines": 4,
+    "alsoRegister": "D-AQUA  De-registered\nHB-IXZ  De-registered\nG-6-118  De-registered\nG-OAJF  Test registered",
+    "registrationNumber": "5H-FTZ",
+    "model": "BAe.146-300A    Search all British Aerospace BAe.146-300A"
+}

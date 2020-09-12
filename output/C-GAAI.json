@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "20940",
+    "engineType": "Turbofan",
+    "address": "MontrealCanada",
+    "modelSICAO24Code": "C044B1",
+    "manufacture": "Boeing",
+    "deliveryDate": "1975-04-10",
+    "name": "C-GAAI",
+    "seats": 132,
+    "type": "Fixed wing multi engine",
+    "owner": "Air Canada",
+    "engineManufacture": "Pratt & Whitney JT8D-15",
+    "yearBuilt": "1975",
+    "engines": 3,
+    "alsoRegister": null,
+    "registrationNumber": "C-GAAI",
+    "model": "727-233    Search all Boeing 727-233"
+}

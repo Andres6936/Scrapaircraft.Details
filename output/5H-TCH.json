@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "55047",
+    "engineType": "Turbofan",
+    "address": "Dar es SalaamTanzania United Republic of",
+    "modelSICAO24Code": "08006D",
+    "manufacture": "Bombardier",
+    "deliveryDate": "2018-12-22",
+    "name": "5H-TCH",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Air Tanzania",
+    "engineManufacture": "Pratt & Whitney Canada PW1500G",
+    "yearBuilt": "2018",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "5H-TCH",
+    "model": "CSeries CS300 (BD-500-1A11)    Search all Bombardier CSeries CS300 (BD-500-1A11)"
+}

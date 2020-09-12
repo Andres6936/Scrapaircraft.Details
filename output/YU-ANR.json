@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "401",
+    "engineType": "Turbofan",
+    "address": "Yugoslavia",
+    "modelSICAO24Code": null,
+    "manufacture": "Bucuresti Rombac",
+    "deliveryDate": null,
+    "name": "YU-ANR",
+    "seats": 92,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Rolls-Royce RB.163 Spey Mk.512-14DW",
+    "yearBuilt": "1982",
+    "engines": 2,
+    "alsoRegister": "YR-BRA  De-registered\nAP-BFC  De-registered",
+    "registrationNumber": "YU-ANR",
+    "model": "1-11-561RC One-Eleven    Search all Bucuresti Rombac 1-11-561RC One-Eleven"
+}

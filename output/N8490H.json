@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "101",
+    "engineType": "Turbojet",
+    "address": "",
+    "modelSICAO24Code": "ABA3A8",
+    "manufacture": "Birdman Aircraft",
+    "deliveryDate": null,
+    "name": "N8490H",
+    "seats": 1,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "General Electric(GE) CJ605",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "VR-HFZ \nYV-C-VIA  De-registered",
+    "registrationNumber": "N8490H",
+    "model": "TL-1A    Search all Birdman Aircraft TL-1A"
+}

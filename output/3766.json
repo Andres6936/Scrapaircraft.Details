@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Active service with 6 Squadron",
+    "constructNumber": "282-3766",
+    "engineType": "Turbo-prop",
+    "address": "PAF Base ChaklalaPakistan",
+    "modelSICAO24Code": null,
+    "manufacture": "Lockheed",
+    "deliveryDate": null,
+    "name": "3766",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Pakistan Air Force",
+    "engineManufacture": "Allison T56-A-9",
+    "yearBuilt": "1963",
+    "engines": 4,
+    "alsoRegister": null,
+    "registrationNumber": "3766",
+    "model": "C-130B Hercules    Search all Lockheed C-130B Hercules"
+}

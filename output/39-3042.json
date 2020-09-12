@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "258227",
+    "engineType": "Turbofan",
+    "address": "Japan",
+    "modelSICAO24Code": null,
+    "manufacture": "British Aerospace",
+    "deliveryDate": "1993-11-00",
+    "name": "39-3042",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Japan Air Self-Defense Force",
+    "engineManufacture": "Garrett AiResearch TFE731-5R",
+    "yearBuilt": "1993",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "39-3042",
+    "model": "U-125    Search all British Aerospace U-125"
+}

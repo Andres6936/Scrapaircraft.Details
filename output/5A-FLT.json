@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "E3381",
+    "engineType": "Turbofan",
+    "address": "Libyan Arab Jamahiriya",
+    "modelSICAO24Code": null,
+    "manufacture": "British Aerospace",
+    "deliveryDate": "2018-10-04",
+    "name": "5A-FLT",
+    "seats": 97,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Lycoming LF-507-1F",
+    "yearBuilt": "2001",
+    "engines": 4,
+    "alsoRegister": "G-6-381  Manufacturer's registration\nG-CFAE  De-registered  Delivery: 2001-02-26  Cancel: 2006-07-08\nHB-IYS  De-registered  Delivery: 2006-03-00\nM-ABKZ  Registered  Delivery: 2018-01-17",
+    "registrationNumber": "5A-FLT",
+    "model": "Avro 146-RJ100    Search all British Aerospace Avro 146-RJ100"
+}

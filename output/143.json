@@ -1,19 +1,19 @@
 {
-    "currentStatus": "Withdrawn from service in 1978",
+    "currentStatus": "Withdrawn from service",
     "constructNumber": "143",
-    "engineType": "Turbojet",
+    "engineType": "None",
     "address": "France",
     "modelSICAO24Code": null,
-    "manufacture": "Agusta",
+    "manufacture": "Fouga",
     "deliveryDate": null,
     "name": "143",
-    "seats": 3,
+    "seats": 2,
     "type": "Fixed wing single engine",
-    "owner": "ALAT (Aviation L\u00e9g\u00e8re de l'Arm\u00e9e de Terre)",
-    "engineManufacture": "Garrett TFE731-2",
+    "owner": "Bulgarian Air Force",
+    "engineManufacture": "Ivchenko AI-25TL",
     "yearBuilt": "0000",
-    "engines": 1,
-    "alsoRegister": "F-BTSR \nF-BVFR ",
+    "engines": 2,
+    "alsoRegister": "AF 709  On active service",
     "registrationNumber": "143",
-    "model": "AB-47G-2    Search all Agusta AB-47G-2"
+    "model": "CM-170R Magister    Search all Fouga CM-170R Magister"
 }

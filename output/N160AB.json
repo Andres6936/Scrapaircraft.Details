@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "FA-216",
+    "engineType": "Turbo-prop",
+    "address": "United States",
+    "modelSICAO24Code": "A0F1B0",
+    "manufacture": "Beech",
+    "deliveryDate": null,
+    "name": "N160AB",
+    "seats": 19,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "P&w PT6A SER",
+    "yearBuilt": "1991",
+    "engines": 2,
+    "alsoRegister": "N312AR  Valid",
+    "registrationNumber": "N160AB",
+    "model": "300    Search all Beech 300"
+}

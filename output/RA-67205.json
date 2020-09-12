@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "01",
+    "engineType": "Turbo-prop",
+    "address": "MoscowRussian Federation",
+    "modelSICAO24Code": null,
+    "manufacture": "Beriev",
+    "deliveryDate": null,
+    "name": "RA-67205",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Moscow Airways",
+    "engineManufacture": "Glushyensko TVD-10B",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "RA-67205",
+    "model": "Be-32    Search all Beriev Be-32"
+}

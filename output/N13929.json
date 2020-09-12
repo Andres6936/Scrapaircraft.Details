@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "4025",
+    "engineType": "Turbofan",
+    "address": "Miami FL 33150",
+    "modelSICAO24Code": "A09F60",
+    "manufacture": "Bird",
+    "deliveryDate": null,
+    "name": "N13929",
+    "seats": 3,
+    "type": "Fixed wing multi engine",
+    "owner": "Wells Fargo Bank Northwest Na Trustee",
+    "engineManufacture": "Rolls-royc AE3007 SER",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N13929",
+    "model": "CK    Search all Bird CK"
+}

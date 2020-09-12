@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "MB-721",
+    "engineType": "Ramjet",
+    "address": "Albuquerque NM 871121520United States",
+    "modelSICAO24Code": "A8A2AA",
+    "manufacture": "Beech",
+    "deliveryDate": null,
+    "name": "N6557R",
+    "seats": 4,
+    "type": "Powered Parachute",
+    "owner": null,
+    "engineManufacture": "Lycoming 0-320 SERIES",
+    "yearBuilt": "1974",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N6557R",
+    "model": "B19 Sport 150    Search all Beech B19"
+}

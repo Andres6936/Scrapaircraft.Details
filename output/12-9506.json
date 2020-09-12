@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Active with 430th EECS",
+    "constructNumber": "9506",
+    "engineType": "Turbofan",
+    "address": "United States",
+    "modelSICAO24Code": "AE54B4",
+    "manufacture": "Bombardier",
+    "deliveryDate": null,
+    "name": "12-9506",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "United States Air Force",
+    "engineManufacture": "Rolls-Royce BR710-A2-20",
+    "yearBuilt": "2012",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "12-9506",
+    "model": "E-11A    Search all Bombardier E-11A"
+}

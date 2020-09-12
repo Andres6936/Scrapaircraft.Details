@@ -1,0 +1,19 @@
+{
+    "currentStatus": "registered",
+    "constructNumber": "258264",
+    "engineType": "Turbofan",
+    "address": "Nigeria",
+    "modelSICAO24Code": "0640D9",
+    "manufacture": "British Aerospace",
+    "deliveryDate": "2009-10-00",
+    "name": "5N-BMR",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "King Airline",
+    "engineManufacture": "Garrett TFE 731-5R-1H",
+    "yearBuilt": "1994",
+    "engines": 2,
+    "alsoRegister": "HB-VLF  De-registered  Delivery: 1994-12-21  Cancel: 2009-09-16",
+    "registrationNumber": "5N-BMR",
+    "model": "BAe.125-800A    Search all British Aerospace BAe.125-800A"
+}

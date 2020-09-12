@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "C008",
+    "engineType": "Turbo-prop",
+    "address": "BA Ivato-AntanananarivoMadagascar",
+    "modelSICAO24Code": null,
+    "manufacture": "Airtech",
+    "deliveryDate": "2019-06-24",
+    "name": "5R-MUQ",
+    "seats": 46,
+    "type": "Fixed wing multi engine",
+    "owner": "Malagasy Air Force (Arm\u00e9e de l\u2019Air Malgache )",
+    "engineManufacture": "General Electric CT7-7A",
+    "yearBuilt": "1987",
+    "engines": 2,
+    "alsoRegister": "N820CA  De-registered  Cancel: 2012-07-11\n5V-MBM  On active service\nZS-SOO  Registered\nOG1  Withdrawn from service  Delivery: 1987-12-21\nN124CL  De-registered  Delivery: 2013-08-05  Cancel: 2014-08-07",
+    "registrationNumber": "5R-MUQ",
+    "model": "CN-235-10    Search all Airtech CN-235-10"
+}

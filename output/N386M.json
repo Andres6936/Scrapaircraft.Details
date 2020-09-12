@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "1",
+    "engineType": "Reciprocating",
+    "address": "wichita K 67213",
+    "modelSICAO24Code": "A472A7",
+    "manufacture": "Ace Aircraft Mfg Corp",
+    "deliveryDate": null,
+    "name": "N386M",
+    "seats": 1,
+    "type": "Fixed wing single engine",
+    "owner": ",ACE AIRCRAFT MANUFACTURING CORP",
+    "engineManufacture": "Lycoming 0-145B SERIES",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N386M",
+    "model": "S.P.    Search all Ace Aircraft Mfg Corp S.P."
+}

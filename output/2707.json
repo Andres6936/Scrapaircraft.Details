@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "2707",
+    "engineType": "Turbojet",
+    "address": "Slovakia (Slovak Republic)",
+    "modelSICAO24Code": "AE4ADF",
+    "manufacture": "Mikoyan-Gurevich",
+    "deliveryDate": "2015-01-12",
+    "name": "2707",
+    "seats": 1,
+    "type": "Fixed wing multi engine",
+    "owner": "Fortele Aeriene Romane (Romanian Air Force)",
+    "engineManufacture": "Rolls-Royce AE2100-D2A",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "2707",
+    "model": "MiG-21    Search all Mikoyan-Gurevich MiG-21"
+}

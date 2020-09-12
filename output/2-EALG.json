@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "783",
+    "engineType": "Turbofan",
+    "address": " GuernseyUnited Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "Airbus",
+    "deliveryDate": "2018-09-24",
+    "name": "2-EALG",
+    "seats": 240,
+    "type": "Fixed wing multi engine",
+    "owner": "European Aviation Ltd",
+    "engineManufacture": "Rolls-Royce Trent 553-61",
+    "yearBuilt": "2006",
+    "engines": 4,
+    "alsoRegister": "F-WWTY  Manufacturer's registration\nA6-EHD  De-registered  Delivery: 2006-12-21",
+    "registrationNumber": "2-EALG",
+    "model": "A340-541    Search all Airbus A340-541"
+}

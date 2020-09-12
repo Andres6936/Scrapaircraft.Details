@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "1040",
+    "engineType": "Turbofan",
+    "address": " GuernseyUnited Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "Airbus",
+    "deliveryDate": "2018-05-08",
+    "name": "2-EALA",
+    "seats": 286,
+    "type": "Fixed wing multi engine",
+    "owner": "European Aviation Ltd",
+    "engineManufacture": "Rolls-Royce Trent 556-61",
+    "yearBuilt": "2009",
+    "engines": 4,
+    "alsoRegister": "F-WWCH  Test registered\nA6-EHL  De-registered  Delivery: 2009-09-23\nEC-NFQ  Registered  Delivery: 2020-01-21",
+    "registrationNumber": "2-EALA",
+    "model": "A340-642X    Search all Airbus A340-642X"
+}

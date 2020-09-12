@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Withdrawn from service",
+    "constructNumber": "1C1428",
+    "engineType": "Turbojet",
+    "address": "Poland",
+    "modelSICAO24Code": null,
+    "manufacture": "PZL-Mielec",
+    "deliveryDate": null,
+    "name": "1428",
+    "seats": 1,
+    "type": "Fixed wing single engine",
+    "owner": "Polish Air Force",
+    "engineManufacture": "Klimov VK-1",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "1428",
+    "model": "Lim-5 (MiG-17F)    Search all PZL-Mielec Lim-5 (MiG-17F)"
+}

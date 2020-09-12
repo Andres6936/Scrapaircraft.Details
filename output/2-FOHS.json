@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "507",
+    "engineType": "Turbofan",
+    "address": " GuernseyUnited Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "Airbus",
+    "deliveryDate": "2019-10-21",
+    "name": "2-FOHS",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "GA Telesis, LLC",
+    "engineManufacture": "General Electric CF6-80E1A4",
+    "yearBuilt": "2002",
+    "engines": 2,
+    "alsoRegister": "F-WWYS  De-registered  Delivery: 2002-00-00  Cancel: 2002-12-10\nF-OHSD  De-registered  Delivery: 2002-12-10",
+    "registrationNumber": "2-FOHS",
+    "model": "A330-202    Search all Airbus A330-202"
+}

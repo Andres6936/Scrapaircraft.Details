@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "2-61",
+    "engineType": "Turbofan",
+    "address": "Keyport NJ 07735",
+    "modelSICAO24Code": "A35E47",
+    "manufacture": "Aeromarine-klemm",
+    "deliveryDate": null,
+    "name": "N316N",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": "AEROMARINE KLEMM CORP",
+    "engineManufacture": "Pratt and Whitney PW617F-E",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N316N",
+    "model": "L-26-A    Search all Aeromarine-klemm L-26-A"
+}

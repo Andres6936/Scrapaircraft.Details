@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "818",
+    "engineType": "Turbo-prop",
+    "address": "AZAL Azerbaijan AirlinesAzerbaijan",
+    "modelSICAO24Code": null,
+    "manufacture": "ATR",
+    "deliveryDate": "2008-09-16",
+    "name": "4K-AZ67",
+    "seats": 78,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Pratt & Whitney Canada PW127F",
+    "yearBuilt": "2008",
+    "engines": 2,
+    "alsoRegister": "F-WWEH  Manufacturer test registered",
+    "registrationNumber": "4K-AZ67",
+    "model": "72-212A    Search all ATR 72-212A"
+}

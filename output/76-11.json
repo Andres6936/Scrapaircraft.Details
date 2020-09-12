@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Active service with HSG64",
+    "constructNumber": "20108",
+    "engineType": "Turbo-shaft",
+    "address": "Laupheim Air Base Baden-W\u00fcrttembergGermany",
+    "modelSICAO24Code": null,
+    "manufacture": "Airbus Helicopters",
+    "deliveryDate": null,
+    "name": "76 11",
+    "seats": 11,
+    "type": "Rotorcraft",
+    "owner": "German Air Force - Luftwaffe",
+    "engineManufacture": "Turbom\u00e9ca Arriel 2E",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "76 11",
+    "model": "H-145M    Search all Airbus Helicopters H-145M"
+}

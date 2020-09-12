@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Withdrawn from service",
+    "constructNumber": "22717",
+    "engineType": "Turbofan",
+    "address": "Prerov AirbaseCzech Republic",
+    "modelSICAO24Code": null,
+    "manufacture": "Sukhoi",
+    "deliveryDate": "2016-09-02",
+    "name": "2217",
+    "seats": 1,
+    "type": "Fixed wing single engine",
+    "owner": "Czech Air Force",
+    "engineManufacture": "Lyulka AL-21 F-3",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "HB-HXM  Manufacturer's registration",
+    "registrationNumber": "2217",
+    "model": "Su-22M-4    Search all Sukhoi Su-22M-4"
+}

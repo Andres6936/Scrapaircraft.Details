@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "342",
+    "engineType": "Turbofan",
+    "address": "Elmira NY 14901",
+    "modelSICAO24Code": "A1E86E",
+    "manufacture": "Advance Aircraft Company",
+    "deliveryDate": null,
+    "name": "N222",
+    "seats": 3,
+    "type": "Fixed wing multi engine",
+    "owner": "ELMIRA AEROPLANE EXHIBITION CORP",
+    "engineManufacture": "Lycoming O-320-D1A",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N222",
+    "model": "WACO 9    Search all Advance Aircraft Company WACO 9"
+}

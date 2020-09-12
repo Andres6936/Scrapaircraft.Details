@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Withdrawn from service",
+    "constructNumber": "5133",
+    "engineType": "Reciprocating",
+    "address": "Belgium",
+    "modelSICAO24Code": null,
+    "manufacture": "Airspeed",
+    "deliveryDate": null,
+    "name": "C-34",
+    "seats": 7,
+    "type": "Fixed wing multi engine",
+    "owner": "Belgian Air Force",
+    "engineManufacture": "Armstrong Siddeley Cheetah X radial",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "G-AJLO  De-registered",
+    "registrationNumber": "C-34",
+    "model": "AS.65 Consul    Search all Airspeed AS.65 Consul"
+}

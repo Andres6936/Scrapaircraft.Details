@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Undergoing evaluation trials",
+    "constructNumber": "KHI08",
+    "engineType": "Turbo-shaft",
+    "address": "Iwakuni Air BaseJapan",
+    "modelSICAO24Code": null,
+    "manufacture": "AgustaWestland/Kawasaki Heavy Industries",
+    "deliveryDate": "2015-02-27",
+    "name": "8656",
+    "seats": 0,
+    "type": "Rotorcraft",
+    "owner": "Japan Maritime Self-Defence Force",
+    "engineManufacture": "Rolls-Royce/Turbomeca RTM 322",
+    "yearBuilt": "2014",
+    "engines": 3,
+    "alsoRegister": null,
+    "registrationNumber": "8656",
+    "model": "MCH-101    Search all AgustaWestland/Kawasaki Heavy Industries MCH-101"
+}

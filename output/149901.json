@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "50054/511001/CSH01",
+    "engineType": "Turbo-shaft",
+    "address": "Canada",
+    "modelSICAO24Code": null,
+    "manufacture": "AgustaWestland",
+    "deliveryDate": null,
+    "name": "149901",
+    "seats": 29,
+    "type": "Rotorcraft",
+    "owner": "Canadian Armed Forces Search and rescue",
+    "engineManufacture": "General Electric CT7-6",
+    "yearBuilt": "2000",
+    "engines": 3,
+    "alsoRegister": null,
+    "registrationNumber": "149901",
+    "model": "CH-149 Cormorant    Search all AgustaWestland CH-149 Cormorant"
+}

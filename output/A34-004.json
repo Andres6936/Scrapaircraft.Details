@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "4183/AUS04",
+    "engineType": "Turbo-prop",
+    "address": " New South WalesAustralia",
+    "modelSICAO24Code": "7CF990",
+    "manufacture": "Alenia",
+    "deliveryDate": "2017-03-30",
+    "name": "A34-004",
+    "seats": 60,
+    "type": "Fixed wing multi engine",
+    "owner": "Royal Australian Air Force",
+    "engineManufacture": "Rolls-Royce AE2100-D2A",
+    "yearBuilt": "2014",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "A34-004",
+    "model": "C-27J Spartan    Search all Alenia C-27J Spartan"
+}

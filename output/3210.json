@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "C034",
+    "engineType": "Turbo-prop",
+    "address": "AmmanJordan",
+    "modelSICAO24Code": null,
+    "manufacture": "Airtech",
+    "deliveryDate": null,
+    "name": "3210",
+    "seats": 46,
+    "type": "Fixed wing multi engine",
+    "owner": "Royal Jordanian Air Force",
+    "engineManufacture": "General Electric CT7-9C",
+    "yearBuilt": "1990",
+    "engines": 2,
+    "alsoRegister": "EC-014 \nT19B-03  Withdrawn from service  Delivery: 1991-02-27",
+    "registrationNumber": "3210",
+    "model": "CN-235-100M    Search all Airtech CN-235-100M"
+}

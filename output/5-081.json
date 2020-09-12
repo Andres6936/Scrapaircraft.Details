@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Instructional airframe",
+    "constructNumber": "1308",
+    "engineType": "Turbojet",
+    "address": "Ku\u00e7ova Air BaseAlbania",
+    "modelSICAO24Code": null,
+    "manufacture": "Mikoyan-Gurevich",
+    "deliveryDate": "1993-11-14",
+    "name": "5-081",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": "Forca Ajrore Shqiptare (Albanan Air Force)",
+    "engineManufacture": "Klimov RD-45FA",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "5-081",
+    "model": "MiG-15UTI    Search all Mikoyan-Gurevich MiG-15UTI"
+}

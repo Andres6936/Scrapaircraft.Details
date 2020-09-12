@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "3077",
+    "engineType": "Turbofan",
+    "address": " GuernseyUnited Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "Airbus",
+    "deliveryDate": "2016-11-24",
+    "name": "2-AVOF",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Aerfin Ltd",
+    "engineManufacture": "International Aero Engines V2524-A5",
+    "yearBuilt": "2007",
+    "engines": 2,
+    "alsoRegister": "XA-VOF  De-registered  Delivery: 2007-03-28",
+    "registrationNumber": "2-AVOF",
+    "model": "A319-133    Search all Airbus A319-133"
+}

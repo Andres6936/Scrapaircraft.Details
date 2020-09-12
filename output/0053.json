@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Active service with ET00.061",
+    "constructNumber": "053",
+    "engineType": "Turbo-prop",
+    "address": "Base A\u00e9rienne 123 Orl\u00e9ans \u2013 BricyFrance",
+    "modelSICAO24Code": null,
+    "manufacture": "Airbus",
+    "deliveryDate": null,
+    "name": "0053",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Arm\u00e9e de l'Air (French Air Force)",
+    "engineManufacture": "Europrop International TP400-D6",
+    "yearBuilt": "2016",
+    "engines": 4,
+    "alsoRegister": null,
+    "registrationNumber": "0053",
+    "model": "A400M Atlas    Search all Airbus A400M Atlas"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Withdrawn from use",
+    "constructNumber": "1041",
+    "engineType": "Turbofan",
+    "address": " GuernseyUnited Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "Airbus",
+    "deliveryDate": "2019-02-01",
+    "name": "2-EAHE",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Aircastle.",
+    "engineManufacture": "CFM International CFM56-7B26",
+    "yearBuilt": "1999",
+    "engines": 2,
+    "alsoRegister": "B-2211  De-registered  Delivery: 2003-08-00\nEI-FKH  De-registered  Delivery: 2015-11-00\nLY-SPG  De-registered  Delivery: 2015-11-30\nXU-802  De-registered  Delivery: 2017-11-16",
+    "registrationNumber": "2-EAHE",
+    "model": "A320-214    Search all Airbus A320-214"
+}

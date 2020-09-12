@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "115",
+    "engineType": "Turbojet",
+    "address": "Toronto Ontario M5X 1C4Canada",
+    "modelSICAO24Code": "C03A83",
+    "manufacture": "Aero Commander",
+    "deliveryDate": "2007-05-24",
+    "name": "C-FWEC",
+    "seats": 10,
+    "type": "Fixed wing multi engine",
+    "owner": "Inco Ltd",
+    "engineManufacture": "Turbomeca Arriel 1D1",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "N500VF  Deregistered  Cancel: 1990-11-23",
+    "registrationNumber": "C-FWEC",
+    "model": "1121 Jet Commander    Search all Aero Commander 1121"
+}

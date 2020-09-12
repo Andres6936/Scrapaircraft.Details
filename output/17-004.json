@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Active with 88 Squadron",
+    "constructNumber": "31782",
+    "engineType": "Turbo-shaft",
+    "address": "PAF Base Shahbaz JacobabadPakistan",
+    "modelSICAO24Code": null,
+    "manufacture": "AgustaWestland",
+    "deliveryDate": null,
+    "name": "17-004",
+    "seats": 15,
+    "type": "Rotorcraft",
+    "owner": "Pakistan Air Force",
+    "engineManufacture": "Pratt & Whitney Canada PT6C-67C",
+    "yearBuilt": "2017",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "17-004",
+    "model": "AW-139    Search all AgustaWestland AW-139"
+}

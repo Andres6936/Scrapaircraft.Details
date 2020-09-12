@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "5020028",
+    "engineType": "Turbofan",
+    "address": "Bonners Ferry ID 83805",
+    "modelSICAO24Code": "A007CC",
+    "manufacture": "Air Tractor Inc",
+    "deliveryDate": null,
+    "name": "N1005S",
+    "seats": 1,
+    "type": "Fixed wing multi engine",
+    "owner": "TIMBER CHOPPERS INC",
+    "engineManufacture": "Pratt & Whitney JT8D-217A",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "ET-ASG  Registered  Delivery: 2015-01-31",
+    "registrationNumber": "N1005S",
+    "model": "AT-502    Search all Air Tractor Inc AT-502"
+}

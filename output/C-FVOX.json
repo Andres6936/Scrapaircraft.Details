@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "250",
+    "engineType": "Reciprocating",
+    "address": "R.R. #2Essex Ontario N8M2X6Canada",
+    "modelSICAO24Code": "C038F8",
+    "manufacture": "Aero Commander",
+    "deliveryDate": "1997-07-15",
+    "name": "C-FVOX",
+    "seats": 4,
+    "type": "Fixed wing single engine",
+    "owner": null,
+    "engineManufacture": "Lycoming 150hp O-320-A",
+    "yearBuilt": "1968",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "C-FVOX",
+    "model": "100    Search all Aero Commander 100"
+}

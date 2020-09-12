@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Valid",
+    "constructNumber": "LB001",
+    "engineType": "Ramjet",
+    "address": "Cleveland TN 37312United States",
+    "modelSICAO24Code": "A53FE1",
+    "manufacture": "Aerocomp",
+    "deliveryDate": null,
+    "name": "N4373A",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": "SALE REPORTED",
+    "engineManufacture": "Lycoming 0-320 SERIES",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N4373A",
+    "model": "Merlin    Search all Aerocomp Merlin"
+}

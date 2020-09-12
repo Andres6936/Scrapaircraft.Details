@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "1001",
+    "engineType": "Reciprocating",
+    "address": "Italy",
+    "modelSICAO24Code": null,
+    "manufacture": "Vulcanair",
+    "deliveryDate": null,
+    "name": "I-EASC",
+    "seats": 4,
+    "type": "Fixed wing single engine",
+    "owner": "Alenia",
+    "engineManufacture": "Rolls-Royce AE2100-D2A (4,640 hp each)",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "A34-001  On active service  Delivery: 2014-07-23",
+    "registrationNumber": "I-EASC",
+    "model": "V1.0    Search all Vulcanair V1.0"
+}

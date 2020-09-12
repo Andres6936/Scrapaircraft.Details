@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "WA1141",
+    "engineType": "Turbo-shaft",
+    "address": "United Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "Aerospatiale (Westland)",
+    "deliveryDate": null,
+    "name": "G-BBSJ",
+    "seats": 5,
+    "type": "Rotorcraft",
+    "owner": null,
+    "engineManufacture": "Turbomeca Astazou IIIA",
+    "yearBuilt": "1974",
+    "engines": 1,
+    "alsoRegister": "QP1  Withdrawn from service\nF-GKMU  Registered",
+    "registrationNumber": "G-BBSJ",
+    "model": "SA-341G Gazelle    Search all Aerospatiale (Westland) SA-341G Gazelle"
+}

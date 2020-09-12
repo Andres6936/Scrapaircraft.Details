@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "W01",
+    "engineType": "Turbo-prop",
+    "address": "",
+    "modelSICAO24Code": "A005DC",
+    "manufacture": "Rand Robinson",
+    "deliveryDate": null,
+    "name": "N100MW",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": "Abc King Air Associates Llc",
+    "engineManufacture": "P&w Canada PT6A-60A",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N100MW",
+    "model": "KR-2    Search all Rand Robinson KR-2"
+}

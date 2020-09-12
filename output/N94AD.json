@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "100-010",
+    "engineType": "Turbojet",
+    "address": "United States",
+    "modelSICAO24Code": null,
+    "manufacture": "Aerospatiale-BAC    (by Admin on 2012-06-28 12:44:21)",
+    "deliveryDate": "1979-01-05",
+    "name": "N94AD",
+    "seats": 100,
+    "type": "Fixed wing multi engine",
+    "owner": "Braniff International Airways",
+    "engineManufacture": "Rolls-Royce Olympus 593 Mk.610-14-28",
+    "yearBuilt": "1976",
+    "engines": 4,
+    "alsoRegister": "G-BOAD  De-registered  Cancel: 2004-05-04\nG-N94AD  De-registered  Cancel: 1980-06-19",
+    "registrationNumber": "N94AD",
+    "model": "Concorde 1-102    Search all Aerospatiale-BAC Concorde 1-102"
+}

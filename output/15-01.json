@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "3015",
+    "engineType": "Reciprocating",
+    "address": "Germany",
+    "modelSICAO24Code": "3F7DC1",
+    "manufacture": "Dornier",
+    "deliveryDate": null,
+    "name": "15 01",
+    "seats": 8,
+    "type": "Fixed wing multi engine",
+    "owner": "German Air Force",
+    "engineManufacture": "Lycoming IO-540A air-cooled flat-six",
+    "yearBuilt": "1961",
+    "engines": 2,
+    "alsoRegister": "D-ILPB  preserved\nTF-DOV  De-registered\nD-IBAK  De-registered\nCA041  De-registered\nND108  De-registered",
+    "registrationNumber": "15 01",
+    "model": "Do-28A-1    Search all Dornier Do-28A-1"
+}

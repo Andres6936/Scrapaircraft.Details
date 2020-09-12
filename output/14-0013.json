@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Active service with 221 Filo",
+    "constructNumber": "013",
+    "engineType": "Turbo-prop",
+    "address": "Turkey",
+    "modelSICAO24Code": "4B820C",
+    "manufacture": "Airbus",
+    "deliveryDate": "2014-12-23",
+    "name": "14-0013",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Turkish Air Force (T\u00fcrk Hava Kuvvetleri)",
+    "engineManufacture": "Europrop International TP400-D6",
+    "yearBuilt": "2014",
+    "engines": 4,
+    "alsoRegister": "A4M013  Test registration",
+    "registrationNumber": "14-0013",
+    "model": "A400M Atlas    Search all Airbus A400M Atlas"
+}

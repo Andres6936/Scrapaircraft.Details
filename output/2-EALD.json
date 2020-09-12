@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "870",
+    "engineType": "Turbofan",
+    "address": " GuernseyUnited Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "Airbus",
+    "deliveryDate": "2018-09-12",
+    "name": "2-EALD",
+    "seats": 286,
+    "type": "Fixed wing multi engine",
+    "owner": "European Aviation",
+    "engineManufacture": "Rolls-Royce Trent 556-61",
+    "yearBuilt": "2007",
+    "engines": 4,
+    "alsoRegister": "F-WWCK  Manufacturer test registered\nA6-EHH  De-registered  Delivery: 2007-12-21  Cancel: 2018-09-00",
+    "registrationNumber": "2-EALD",
+    "model": "A340-642X    Search all Airbus A340-642X"
+}

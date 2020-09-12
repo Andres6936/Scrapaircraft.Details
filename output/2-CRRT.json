@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "1098",
+    "engineType": "Turbofan",
+    "address": " GuernseyUnited Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "Airbus",
+    "deliveryDate": null,
+    "name": "2-CRRT",
+    "seats": 335,
+    "type": "Fixed wing multi engine",
+    "owner": "ICBC Leasing",
+    "engineManufacture": "Rolls-Royce Trent 772B-60",
+    "yearBuilt": "2010",
+    "engines": 2,
+    "alsoRegister": "F-WWKQ  Manufacturer test registered\n9V-STJ  De-registered  Delivery: 2010-03-10\nPH-IBC  De-registered  Delivery: 2015-07-27",
+    "registrationNumber": "2-CRRT",
+    "model": "A330-343X    Search all Airbus A330-343X"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "19555",
+    "engineType": "Turbofan",
+    "address": "",
+    "modelSICAO24Code": "A1BB55",
+    "manufacture": "Boeing",
+    "deliveryDate": null,
+    "name": "N210US",
+    "seats": 100,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Pratt & Whitney JT8D-9A",
+    "yearBuilt": "1969",
+    "engines": 2,
+    "alsoRegister": "N9049U  De-registered  Delivery: 1972-02-23",
+    "registrationNumber": "N210US",
+    "model": "737-222    Search all Boeing 737-222"
+}

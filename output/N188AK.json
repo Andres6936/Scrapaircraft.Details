@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "001 (N188AK)",
+    "engineType": "Turbofan",
+    "address": "Coon Rapids MN 554482297United States",
+    "modelSICAO24Code": "A15E6E",
+    "manufacture": "Aero Composites",
+    "deliveryDate": null,
+    "name": "N188AK",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": "Sallie Mae Inc",
+    "engineManufacture": "Alliedsign TFE731-40-1C",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N188AK",
+    "model": "SEA HAWKER    Search all Aero Composites SEA HAWKER"
+}

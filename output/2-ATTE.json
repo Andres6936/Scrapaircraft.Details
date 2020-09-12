@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "1018",
+    "engineType": "Turbofan",
+    "address": "United Kingdom",
+    "modelSICAO24Code": "43EB7A",
+    "manufacture": "Airbus",
+    "deliveryDate": "2016-07-24",
+    "name": "2-ATTE",
+    "seats": 126,
+    "type": "Fixed wing multi engine",
+    "owner": "AerCap Holdings NV",
+    "engineManufacture": "CFM International CFM56-5B6/P",
+    "yearBuilt": "1999",
+    "engines": 2,
+    "alsoRegister": "HB-IPR  De-registered\nD-AVYQ  Manufacturer test registered\nEI-FBO  De-registered  Cancel: 2013-07-30\nYA-TTE  De-registered  Delivery: 2013-07-00",
+    "registrationNumber": "2-ATTE",
+    "model": "A319-112    Search all Airbus A319-112"
+}

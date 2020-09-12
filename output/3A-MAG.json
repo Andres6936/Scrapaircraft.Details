@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "6708",
+    "engineType": "Turbo-shaft",
+    "address": "Monaco",
+    "modelSICAO24Code": "4D402D",
+    "manufacture": "Eurocopter",
+    "deliveryDate": null,
+    "name": "3A-MAG",
+    "seats": 15,
+    "type": "Rotorcraft",
+    "owner": "Monacair",
+    "engineManufacture": "Turbomeca Arriel 2C2 turboshaft",
+    "yearBuilt": "2005",
+    "engines": 2,
+    "alsoRegister": "F-HSTS  Registered",
+    "registrationNumber": "3A-MAG",
+    "model": "EC-155B-1    Search all Eurocopter EC-155B-1"
+}

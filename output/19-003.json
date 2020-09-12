@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "1883",
+    "engineType": "Turbofan",
+    "address": "Korea Republic of",
+    "modelSICAO24Code": null,
+    "manufacture": "Airbus",
+    "deliveryDate": null,
+    "name": "19-003",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Republic of Korea Air Force",
+    "engineManufacture": "Rolls-Royce Trent 772B-60",
+    "yearBuilt": "2018",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "19-003",
+    "model": "KC-330 Cygnus    Search all Airbus KC-330 Cygnus"
+}

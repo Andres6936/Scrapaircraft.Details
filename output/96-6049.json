@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "C042",
+    "engineType": "Turbo-prop",
+    "address": "United States",
+    "modelSICAO24Code": null,
+    "manufacture": "Airtech",
+    "deliveryDate": null,
+    "name": "96-6049",
+    "seats": 40,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Ge CT7-SER",
+    "yearBuilt": "1991",
+    "engines": 2,
+    "alsoRegister": "N385RS  Valid\nEC-112  De-registered\nEC-764  De-registered\nEC-409  De-registered\nEC-FSX  De-registered\nN235CA  De-registered\nN373ET  De-registered\nN9858H  De-registered",
+    "registrationNumber": "96-6049",
+    "model": "CN-235    Search all Airtech CN-235"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "01-0136",
+    "engineType": "Turbo-shaft",
+    "address": "",
+    "modelSICAO24Code": "A0473F",
+    "manufacture": "Aeromot",
+    "deliveryDate": null,
+    "name": "N117LS",
+    "seats": 2,
+    "type": "Glider",
+    "owner": "Trevor Corp",
+    "engineManufacture": "Lycoming LTS-101 SER",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "N117LA  Valid\nN508TJ  Valid",
+    "registrationNumber": "N117LS",
+    "model": "AMT-200S Super Ximango    Search all Aeromot AMT-200S"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "7605",
+    "engineType": "Turbo-shaft",
+    "address": "Monaco",
+    "modelSICAO24Code": null,
+    "manufacture": "Agusta",
+    "deliveryDate": null,
+    "name": "3A-MOR",
+    "seats": 8,
+    "type": "Rotorcraft",
+    "owner": null,
+    "engineManufacture": "Allison 250-C20R-1",
+    "yearBuilt": "1989",
+    "engines": 2,
+    "alsoRegister": "EC-ETF  De-registered\nOO-MGE  De-registered\nI-MFMM  Registered",
+    "registrationNumber": "3A-MOR",
+    "model": "A-109C    Search all Agusta A-109C"
+}

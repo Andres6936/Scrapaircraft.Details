@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Withdrawn from service",
+    "constructNumber": "7203724",
+    "engineType": "Turbojet",
+    "address": "Russian Federation",
+    "modelSICAO24Code": null,
+    "manufacture": "Tupolev",
+    "deliveryDate": "2011-02-24",
+    "name": "07",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Commonwealth of Independent States Air Force",
+    "engineManufacture": "Mikulin AM-3 M-500",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "G-AZEM  De-registered\nAP-BGI  Registered",
+    "registrationNumber": "07",
+    "model": "Tu-16    Search all Tupolev Tu-16"
+}

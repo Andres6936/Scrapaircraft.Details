@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Instructional airframe",
+    "constructNumber": "520",
+    "engineType": "Turbojet",
+    "address": "France",
+    "modelSICAO24Code": null,
+    "manufacture": "Dassault",
+    "deliveryDate": null,
+    "name": "520",
+    "seats": 1,
+    "type": "Fixed wing single engine",
+    "owner": "Armee de'l Air (French Air Force)",
+    "engineManufacture": "SNECMA ATAR 9K50",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "N520J  Valid",
+    "registrationNumber": "520",
+    "model": "Mirage IIIE    Search all Dassault Mirage IIIE"
+}

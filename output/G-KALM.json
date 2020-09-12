@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "LAA 317B-15636",
+    "engineType": "Reciprocating",
+    "address": "Llynclys Oswestry Shropshire SY10 8LLUnited Kingdom",
+    "modelSICAO24Code": "40795F",
+    "manufacture": "Aeroprakt",
+    "deliveryDate": "2020-01-15",
+    "name": "G-KALM",
+    "seats": 0,
+    "type": "Fixed wing single engine",
+    "owner": "Adam Brown",
+    "engineManufacture": null,
+    "yearBuilt": "2019",
+    "engines": 1,
+    "alsoRegister": "G-CLNM  Re-registered  Delivery: 2019-11-28  Cancel: 2020-01-15",
+    "registrationNumber": "G-KALM",
+    "model": "A22-LS Foxbat    Search all Aeroprakt A22-LS Foxbat"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Stored",
+    "constructNumber": "940ML-04",
+    "engineType": "Turbojet",
+    "address": "CracowPoland",
+    "modelSICAO24Code": null,
+    "manufacture": "Mikoyan-Gurevich",
+    "deliveryDate": "2019-12-11",
+    "name": "04",
+    "seats": 1,
+    "type": "Fixed wing single engine",
+    "owner": "Muzeum Lotnictwa Polskiego",
+    "engineManufacture": "Rolls-Royce Dart RDa.7 Mk 21",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "35317  De-registered",
+    "registrationNumber": "04",
+    "model": "MiG-21PFM    Search all Mikoyan-Gurevich MiG-21PFM"
+}

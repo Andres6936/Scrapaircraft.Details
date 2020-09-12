@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Crashed on March 9, 1967",
+    "constructNumber": "45777",
+    "engineType": "Turbofan",
+    "address": "Kansas City Missouri 64153United States",
+    "modelSICAO24Code": "A01DD1",
+    "manufacture": "Douglas",
+    "deliveryDate": "1967-02-06",
+    "name": "N1063T",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "TWA Trans World Airlines",
+    "engineManufacture": "Pratt & Whitney JT8D",
+    "yearBuilt": "1967",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "N1063T",
+    "model": "DC-9-15    Search all Douglas DC-9-15"
+}

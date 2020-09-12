@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "4176",
+    "engineType": "Turbo-prop",
+    "address": "Fort Bragg-Pope Field North CarolinaUnited States",
+    "modelSICAO24Code": null,
+    "manufacture": "Alenia",
+    "deliveryDate": null,
+    "name": "10-27029",
+    "seats": 60,
+    "type": "Fixed wing multi engine",
+    "owner": "United States Army Special Operations Command",
+    "engineManufacture": "Rolls-Royce AE2100",
+    "yearBuilt": "2013",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "10-27029",
+    "model": "C-27J Spartan    Search all Alenia C-27J Spartan"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Stored",
+    "constructNumber": "4040",
+    "engineType": "Turbo-prop",
+    "address": "Base A\u00e9rea El Libertador Palo NegroVenezuela",
+    "modelSICAO24Code": null,
+    "manufacture": "Aeritalia",
+    "deliveryDate": null,
+    "name": "0675",
+    "seats": 4,
+    "type": "Fixed wing multi engine",
+    "owner": "Fuerza A\u00e9rea Venezolana",
+    "engineManufacture": "General Electric T64-GE-P4D",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "EV-8227  Withdrawn from service",
+    "registrationNumber": "0675",
+    "model": "G-222    Search all Aeritalia G-222"
+}

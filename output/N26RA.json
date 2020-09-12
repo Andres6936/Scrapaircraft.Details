@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "RA1",
+    "engineType": "Ramjet",
+    "address": "Gilroy CA 95020",
+    "modelSICAO24Code": "A27E1C",
+    "manufacture": "Marske",
+    "deliveryDate": null,
+    "name": "N26RA",
+    "seats": 1,
+    "type": "Powered Parachute",
+    "owner": "GAVILAN COLLEGE",
+    "engineManufacture": "P&w PT6A SER",
+    "yearBuilt": "0000",
+    "engines": 0,
+    "alsoRegister": "N6MF  De-registered",
+    "registrationNumber": "N26RA",
+    "model": "Monarch    Search all Marske Monarch"
+}

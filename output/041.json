@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "2960718104",
+    "engineType": "Turbofan",
+    "address": "Peru",
+    "modelSICAO24Code": "478120",
+    "manufacture": "Mikoyan-Gurevich",
+    "deliveryDate": null,
+    "name": "041",
+    "seats": 1,
+    "type": "Fixed wing multi engine",
+    "owner": "Fuerza A\u00e9rea del Per\u00fa (Peruvian Air Force)",
+    "engineManufacture": "Klimov RD-33",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "F-WNGL  De-registered\nF-BOED  De-registered\nLN-FOI  De-registered",
+    "registrationNumber": "041",
+    "model": "MiG-29S    Search all Mikoyan-Gurevich MiG-29S"
+}

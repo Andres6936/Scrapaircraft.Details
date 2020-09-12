@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "LAA 411-15654",
+    "engineType": "Reciprocating",
+    "address": "London SE3 7UFUnited Kingdom",
+    "modelSICAO24Code": "4078DF",
+    "manufacture": "Aeroprakt",
+    "deliveryDate": "2019-10-08",
+    "name": "G-JAAP",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": "Jaap Rademaker",
+    "engineManufacture": null,
+    "yearBuilt": "2019",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "G-JAAP",
+    "model": "A32 Vixxen    Search all Aeroprakt A32 Vixxen"
+}

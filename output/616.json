@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "13206",
+    "engineType": "Turbo-prop",
+    "address": "Sana'aYemen",
+    "modelSICAO24Code": null,
+    "manufacture": "Antonov",
+    "deliveryDate": "1990-00-00",
+    "name": "616",
+    "seats": 45,
+    "type": "Fixed wing multi engine",
+    "owner": "Yeman Air and Air Defence Force",
+    "engineManufacture": "Ivchenko AI-24A",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "A4O-HB  Transferred to RAFO in 2005",
+    "registrationNumber": "616",
+    "model": "An-26    Search all Antonov An-26"
+}

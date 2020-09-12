@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Active service - 253 Squadron",
+    "constructNumber": "YD-4",
+    "engineType": "Turbofan",
+    "address": "Ramon Air BaseIsrael",
+    "modelSICAO24Code": "4CA13F",
+    "manufacture": "Lockheed Martin",
+    "deliveryDate": "1994-12-08",
+    "name": "253",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": "Israeli Air and Space Force",
+    "engineManufacture": "Pratt & Whitney F100-PW-229",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "F-GJPX  Registered",
+    "registrationNumber": "253",
+    "model": "F-16I Sufa    Search all Lockheed Martin F-16I Sufa"
+}

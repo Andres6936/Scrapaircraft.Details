@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "152",
+    "engineType": "Reciprocating",
+    "address": "Spain",
+    "modelSICAO24Code": null,
+    "manufacture": "AISA",
+    "deliveryDate": null,
+    "name": "EC-CHV",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": null,
+    "engineManufacture": "ENMA Tigre G-IV-B rated at 150hp",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "E9-152  Withdrawn from service",
+    "registrationNumber": "EC-CHV",
+    "model": "I-115    Search all AISA I-115"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "5015",
+    "engineType": "Reciprocating",
+    "address": "",
+    "modelSICAO24Code": "A01E09",
+    "manufacture": "Aircraft Parts & Dev. Corp.",
+    "deliveryDate": null,
+    "name": "N1065D",
+    "seats": 1,
+    "type": "Fixed wing single engine",
+    "owner": "MAGDALENA OIL CO",
+    "engineManufacture": "Lycoming TIO-540-AE2A",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N1065D",
+    "model": "A-9B    Search all Aircraft Parts & Dev. Corp. A-9B"
+}

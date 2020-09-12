@@ -1,0 +1,19 @@
+{
+    "currentStatus": null,
+    "constructNumber": "100-012",
+    "engineType": "Turbojet",
+    "address": "United Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "Aerospatiale-BAC",
+    "deliveryDate": null,
+    "name": "G-N94AE",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "British Airways",
+    "engineManufacture": "Rolls-Royce/SNECMA Olympus 593 Mk.610",
+    "yearBuilt": "1977",
+    "engines": 4,
+    "alsoRegister": "G-BOAE  Preserved  Cancel: 2004-05-04",
+    "registrationNumber": "G-N94AE",
+    "model": "Concorde 1-102    Search all Aerospatiale-BAC Concorde 1-102"
+}

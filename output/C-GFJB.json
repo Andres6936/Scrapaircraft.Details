@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "24D-260",
+    "engineType": "Turbojet",
+    "address": "Prince George British Columbia V2L 4W2Canada",
+    "modelSICAO24Code": null,
+    "manufacture": "Learjet",
+    "deliveryDate": "1995-02-17",
+    "name": "C-GFJB",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Northwood Pulp & Timber",
+    "engineManufacture": "General Electric CJ610",
+    "yearBuilt": "1972",
+    "engines": 2,
+    "alsoRegister": "XA-GBA  De-registered\nXC-AGU  Registered  Delivery: 2000-08-00",
+    "registrationNumber": "C-GFJB",
+    "model": "24D    Search all Learjet 24D"
+}

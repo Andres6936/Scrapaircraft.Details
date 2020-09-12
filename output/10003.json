@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "A-3",
+    "engineType": "Turbofan",
+    "address": "Taiwan",
+    "modelSICAO24Code": null,
+    "manufacture": "AIDC",
+    "deliveryDate": null,
+    "name": "10003",
+    "seats": 1,
+    "type": "Fixed wing multi engine",
+    "owner": "Republic of China Air Force",
+    "engineManufacture": "Honeywell/ITEC F125-70",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "10003",
+    "model": "F-CK-1A Ching-Kuo    Search all AIDC F-CK-1A Ching-Kuo"
+}

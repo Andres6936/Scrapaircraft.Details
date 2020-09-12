@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "135",
+    "engineType": "Turbo-prop",
+    "address": "Pisa Air BaseItaly",
+    "modelSICAO24Code": null,
+    "manufacture": "Alenia",
+    "deliveryDate": null,
+    "name": "MM62224",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Aeronautica Militare Italiana (Italian Air Force)",
+    "engineManufacture": "Rolls-Royce AE2100-D2A",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "MM62224",
+    "model": "C-27J Spartan    Search all Alenia C-27J Spartan"
+}

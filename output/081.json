@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "36545",
+    "engineType": "Turbojet",
+    "address": "Talara Air BasePeru",
+    "modelSICAO24Code": "3B7781",
+    "manufacture": "Sukhoi",
+    "deliveryDate": null,
+    "name": "081",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": "Fuerza A\u00e9rea del Per\u00fa (Peruvian Air Force)",
+    "engineManufacture": "Soyuz/Gavrilov R-195",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "081",
+    "model": "Su-25UB    Search all Sukhoi Su-25UB"
+}

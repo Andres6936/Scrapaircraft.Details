@@ -1,0 +1,19 @@
+{
+    "currentStatus": null,
+    "constructNumber": "IX090",
+    "engineType": "Turbofan",
+    "address": "Italy",
+    "modelSICAO24Code": "33FF9B",
+    "manufacture": "AMX International",
+    "deliveryDate": null,
+    "name": "51-43",
+    "seats": 1,
+    "type": "Fixed wing single engine",
+    "owner": "Aeronautica Militare Italiana (Italian Air Force)",
+    "engineManufacture": "Rolls-Royce Spey 807",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "MM7178  On active service",
+    "registrationNumber": "51-43",
+    "model": "AMX ACOL    Search all AMX International AMX ACOL"
+}

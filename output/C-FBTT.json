@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "5204",
+    "engineType": "Reciprocating",
+    "address": "Drayton Valley Alberta T7A1S2Canada",
+    "modelSICAO24Code": "C004A6",
+    "manufacture": "Aero Commander",
+    "deliveryDate": "1992-04-16",
+    "name": "C-FBTT",
+    "seats": 4,
+    "type": "Fixed wing single engine",
+    "owner": null,
+    "engineManufacture": "Lycoming O-360-A2F rated at 180 hp",
+    "yearBuilt": "1971",
+    "engines": 1,
+    "alsoRegister": "N4204X  Deregistered  Cancel: 1972-02-18",
+    "registrationNumber": "C-FBTT",
+    "model": "100-180 Lark Commander    Search all Aero Commander 100-180"
+}

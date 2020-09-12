@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Manufacturer test registered",
+    "constructNumber": "525",
+    "engineType": "Turbo prop",
+    "address": "Bombardier Aerospace Inc.OntarioCanada",
+    "modelSICAO24Code": null,
+    "manufacture": "De Havilland Canada",
+    "deliveryDate": "1998-12-10",
+    "name": "C-FDHY",
+    "seats": 50,
+    "type": "Fixed wing multi engine",
+    "owner": "Bombardier Incorporated",
+    "engineManufacture": "Pratt & Whitney Canada PW123B",
+    "yearBuilt": "1998",
+    "engines": 2,
+    "alsoRegister": "5Y-CGH  Registered\nOE-LSB  Registered  Delivery: 2002-03-00",
+    "registrationNumber": "C-FDHY",
+    "model": "DHC-8-314Q Dash 8    Search all De Havilland Canada DHC-8-314Q"
+}

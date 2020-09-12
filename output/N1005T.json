@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "49425",
+    "engineType": "Turbofan",
+    "address": "",
+    "modelSICAO24Code": "A007CD",
+    "manufacture": "McDonnell Douglas",
+    "deliveryDate": null,
+    "name": "N1005T",
+    "seats": 172,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Pratt & Whitney JT8D-217A",
+    "yearBuilt": "1985",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "N1005T",
+    "model": "MD-82 (DC-9-82)    Search all McDonnell Douglas MD-82 (DC-9-82)"
+}

@@ -81,7 +81,16 @@ class Main {
         for (HtmlTable table : tables) {
             for (HtmlTableRow row : table.getRows()) {
                 final String description = row.getCell(0).getVisibleText();
-                final String value = row.getCell(1).getVisibleText();
+                String value;
+
+                try {
+                    // Invariant: getCell(1) can will thrawn a exception if it not exist.
+                    // Produced for problems with the page.
+                    value = row.getCell(1).getVisibleText();
+                } catch(IndexOutOfBoundsException exception) {
+                    System.err.println("The aircraft ${aircraft1.getName()} not have information.");
+                    return;
+                }
 
                 if (description == 'Manufacturer:') {
                     aircraft1.setManufacture(value)

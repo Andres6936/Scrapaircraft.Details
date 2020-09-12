@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Withdrawn from service",
+    "constructNumber": "2",
+    "engineType": "Reciprocating",
+    "address": "Spain",
+    "modelSICAO24Code": null,
+    "manufacture": "AISA",
+    "deliveryDate": null,
+    "name": "E9-2",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": "Ej\u00e9rcito del Aire (Spanish Air Force)",
+    "engineManufacture": "ENMA Tigre G-IV-B 150hp",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "EC-CNA  Registered",
+    "registrationNumber": "E9-2",
+    "model": "I-115    Search all AISA I-115"
+}

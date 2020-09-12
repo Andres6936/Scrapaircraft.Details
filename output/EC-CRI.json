@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "54",
+    "engineType": "Reciprocating",
+    "address": "Spain",
+    "modelSICAO24Code": null,
+    "manufacture": "AISA",
+    "deliveryDate": null,
+    "name": "EC-CRI",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": null,
+    "engineManufacture": "ENMASA Tigre G-IV-B 150hp",
+    "yearBuilt": "1958",
+    "engines": 1,
+    "alsoRegister": "E9-54  Withdrawn from service",
+    "registrationNumber": "EC-CRI",
+    "model": "I-115    Search all AISA I-115"
+}

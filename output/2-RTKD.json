@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "604",
+    "engineType": "Turbo-prop",
+    "address": " GuernseyUnited Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "ATR",
+    "deliveryDate": null,
+    "name": "2-RTKD",
+    "seats": 50,
+    "type": "Fixed wing multi engine",
+    "owner": "Wells Fargo Bank Northwest",
+    "engineManufacture": "Pratt & Whitney Canada PW127",
+    "yearBuilt": "1999",
+    "engines": 2,
+    "alsoRegister": "F-WWLH  Test registered\nI-ADLP  De-registered  Delivery: 1999-12-00\nC-FTIK  Registered  Delivery: 2016-02-03",
+    "registrationNumber": "2-RTKD",
+    "model": "42-500    Search all ATR 42-500"
+}

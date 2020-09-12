@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "5007",
+    "engineType": "Reciprocating",
+    "address": "Okla City OK 73125United States",
+    "modelSICAO24Code": "A01DE9",
+    "manufacture": "Aircraft Parts & Dev. Corp.",
+    "deliveryDate": null,
+    "name": "N1064G",
+    "seats": 1,
+    "type": "Fixed wing single engine",
+    "owner": null,
+    "engineManufacture": "Lycoming IO-540 SER",
+    "yearBuilt": "1979",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N1064G",
+    "model": "A-9B    Search all Aircraft Parts & Dev. Corp. A-9B"
+}

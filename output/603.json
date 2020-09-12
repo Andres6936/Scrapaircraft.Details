@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Withdrawn from service",
+    "constructNumber": "79371010101",
+    "engineType": "None",
+    "address": "Russian Federation",
+    "modelSICAO24Code": null,
+    "manufacture": "Sukhoi",
+    "deliveryDate": "2003-05-02",
+    "name": "603",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Russian Air Force",
+    "engineManufacture": "Allison 250-C18B",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "OE-XRF \nOM-XRB \nG-BNRE  De-registered",
+    "registrationNumber": "603",
+    "model": "30MK Flanker    Search all Sukhoi 30MK Flanker"
+}

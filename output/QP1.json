@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Withdrawn from service",
+    "constructNumber": "WA1141",
+    "engineType": "Turbo-shaft",
+    "address": "Qatar",
+    "modelSICAO24Code": null,
+    "manufacture": "Aerospatiale (Westland)",
+    "deliveryDate": null,
+    "name": "QP1",
+    "seats": 5,
+    "type": "Rotorcraft",
+    "owner": "Qatar Emiri Air Force",
+    "engineManufacture": "Turbomeca Astazou IIIA",
+    "yearBuilt": "1974",
+    "engines": 1,
+    "alsoRegister": "G-BBSJ  De-registered\nF-GKMU  Registered",
+    "registrationNumber": "QP1",
+    "model": "SA-341G Gazelle    Search all Aerospatiale (Westland) SA-341G Gazelle"
+}

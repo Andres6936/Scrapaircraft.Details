@@ -1,0 +1,19 @@
+{
+    "currentStatus": "deregistered",
+    "constructNumber": "230",
+    "engineType": "Reciprocating",
+    "address": "Germany",
+    "modelSICAO24Code": null,
+    "manufacture": "Aeromere",
+    "deliveryDate": "1962-08-29",
+    "name": "D-EFAK",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": null,
+    "engineManufacture": "Lycoming O-320-A2B",
+    "yearBuilt": "1962",
+    "engines": 1,
+    "alsoRegister": "G-AZAY  De-registered  Cancel: 1973-03-12\nHB-UOG  registered  Delivery: 1973-06-06",
+    "registrationNumber": "D-EFAK",
+    "model": "F-8L Falco    Search all Aeromere F-8L Falco"
+}

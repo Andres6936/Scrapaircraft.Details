@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "559",
+    "engineType": "Turbo-prop",
+    "address": "Air MauritiusMauritius",
+    "modelSICAO24Code": null,
+    "manufacture": "ATR",
+    "deliveryDate": null,
+    "name": "3B-NBC",
+    "seats": 44,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Pratt & Whitney Canada PW127E",
+    "yearBuilt": "1998",
+    "engines": 2,
+    "alsoRegister": "SP-EDF  De-registered\nF-WWLM  Manufacturer test registered\nD-BOOO  De-registered  Delivery: 2003-03-03\nPK-YSP  Registered  Delivery: 2018-11-06",
+    "registrationNumber": "3B-NBC",
+    "model": "42-500    Search all ATR 42-500"
+}

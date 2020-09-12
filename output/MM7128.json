@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Withdrawn from service",
+    "constructNumber": "IX040",
+    "engineType": "Turbofan",
+    "address": "Istrana Air BaseItaly",
+    "modelSICAO24Code": null,
+    "manufacture": "AMX International",
+    "deliveryDate": "1991-04-03",
+    "name": "MM7128",
+    "seats": 1,
+    "type": "Fixed wing single engine",
+    "owner": "Aeronautica Militare Italiana (Italian Air Force)",
+    "engineManufacture": "Rolls-Royce Spey 807",
+    "yearBuilt": "1991",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "MM7128",
+    "model": "AMX    Search all AMX International AMX"
+}

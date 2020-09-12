@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Stored",
+    "constructNumber": "4080",
+    "engineType": "Turbo-prop",
+    "address": "Base A\u00e9rea El Libertador Palo NegroVenezuela",
+    "modelSICAO24Code": "0D0971",
+    "manufacture": "Aeritalia",
+    "deliveryDate": "2015-12-00",
+    "name": "3526",
+    "seats": 4,
+    "type": "Fixed wing multi engine",
+    "owner": "Fuerza A\u00e9rea Venezolana",
+    "engineManufacture": "General Electric T64-GE-P4D",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "3526",
+    "model": "G-222    Search all Aeritalia G-222"
+}

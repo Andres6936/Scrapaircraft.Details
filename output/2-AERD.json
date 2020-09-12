@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "275",
+    "engineType": "Turbofan",
+    "address": " GuernseyUnited Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "Airbus",
+    "deliveryDate": "2017-10-20",
+    "name": "2-AERD",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Aircraft Lotus Incorporated",
+    "engineManufacture": "Pratt & Whitney PW4168A",
+    "yearBuilt": "1999",
+    "engines": 2,
+    "alsoRegister": "VN-A371  Leased aircraft  Cancel: 2017-09-00\nHB-IQG  De-registered  Delivery: 2002-03-00  Cancel: 2009-09-22",
+    "registrationNumber": "2-AERD",
+    "model": "A330-223    Search all Airbus A330-223"
+}

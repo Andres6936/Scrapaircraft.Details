@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Preserved",
+    "constructNumber": "S2-04005",
+    "engineType": "Turbo-shaft",
+    "address": "Deblin 08 - 521Poland",
+    "modelSICAO24Code": null,
+    "manufacture": "PZL-Swidnik",
+    "deliveryDate": "1993-01-09",
+    "name": "4005",
+    "seats": 5,
+    "type": "Rotorcraft",
+    "owner": "Muzeum Sil Powietrznych",
+    "engineManufacture": "Ivchenko AI-26V 9-cylinder radial",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "K-4005  Withdrawn from service",
+    "registrationNumber": "4005",
+    "model": "SM-2    Search all PZL-Swidnik SM-2"
+}

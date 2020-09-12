@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "500B-1138-78",
+    "engineType": "Reciprocating",
+    "address": "Beauport Quebec G1E 3L1Canada",
+    "modelSICAO24Code": null,
+    "manufacture": "Aero Commander",
+    "deliveryDate": "2015-01-05",
+    "name": "C-FFWP",
+    "seats": 7,
+    "type": "Fixed wing multi engine",
+    "owner": "Hauts-Monts Incorporated",
+    "engineManufacture": "Lycoming IO-540 SER",
+    "yearBuilt": "1961",
+    "engines": 2,
+    "alsoRegister": "N500FT  Valid",
+    "registrationNumber": "C-FFWP",
+    "model": "500B Commander    Search all Aero Commander 500B"
+}

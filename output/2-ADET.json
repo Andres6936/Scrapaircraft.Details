@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Withdrawn from use",
+    "constructNumber": "1601",
+    "engineType": "Turbofan",
+    "address": " GuernseyUnited Kingdom",
+    "modelSICAO24Code": "43EB84",
+    "manufacture": "Airbus",
+    "deliveryDate": "2016-10-26",
+    "name": "2-ADET",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Aircraft Solutions 200 Llc",
+    "engineManufacture": "CFM International CFM56-5B6/P",
+    "yearBuilt": "2001",
+    "engines": 2,
+    "alsoRegister": "B-2217  De-registered  Delivery: 2001-10-25",
+    "registrationNumber": "2-ADET",
+    "model": "A319-112    Search all Airbus A319-112"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "5151",
+    "engineType": "Reciprocating",
+    "address": "Ireland",
+    "modelSICAO24Code": null,
+    "manufacture": "Airspeed",
+    "deliveryDate": null,
+    "name": "EI-ADC",
+    "seats": 7,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Armstrong Siddeley Cheetah X radial",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "EC-ARU  Scrapped in 1974\nAP-AGK  De-registered\nHB-LAU  De-registered  Delivery: 1959-02-00",
+    "registrationNumber": "EI-ADC",
+    "model": "AS.65 Consul    Search all Airspeed AS.65 Consul"
+}

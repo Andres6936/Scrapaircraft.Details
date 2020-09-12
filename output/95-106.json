@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "C106",
+    "engineType": "Turbo-prop",
+    "address": "Etimesgut Air BaseTurkey",
+    "modelSICAO24Code": null,
+    "manufacture": "Airtech",
+    "deliveryDate": null,
+    "name": "95-106",
+    "seats": 46,
+    "type": "Fixed wing multi engine",
+    "owner": "Turkish Air Force (T\u00fcrk Hava Kuvvetleri)",
+    "engineManufacture": "General Electric CT7",
+    "yearBuilt": "1995",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "95-106",
+    "model": "CN-235-100M    Search all Airtech CN-235-100M"
+}

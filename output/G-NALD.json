@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "LAA 411-15587",
+    "engineType": "Reciprocating",
+    "address": "Hartley Wintney Hampshire RG27 8JPUnited Kingdom",
+    "modelSICAO24Code": "4077A8",
+    "manufacture": "Aeroprakt",
+    "deliveryDate": "2019-01-29",
+    "name": "G-NALD",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": "David John Medcraft",
+    "engineManufacture": null,
+    "yearBuilt": "2019",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "G-NALD",
+    "model": "A32 Vixxen    Search all Aeroprakt A32 Vixxen"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "3886",
+    "engineType": "Turbofan",
+    "address": "United Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "Airbus",
+    "deliveryDate": null,
+    "name": "2-CCLN",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "BAA Jet Management Ltd",
+    "engineManufacture": "CFM International CFM56-5B9/3",
+    "yearBuilt": "2009",
+    "engines": 2,
+    "alsoRegister": "D-AUAB  Test registration\nOE-ICP  De-registered  Delivery: 2010-06-00\nB-6411  Registered  Delivery: 2010-07-21\nB-55411  Registered  Delivery: 2014-12-00",
+    "registrationNumber": "2-CCLN",
+    "model": "ACJ318 (A318-112/CJ)    Search all Airbus ACJ318 (A318-112/CJ)"
+}

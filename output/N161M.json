@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "2-36",
+    "engineType": "Reciprocating",
+    "address": "Brooklyn NY 11201",
+    "modelSICAO24Code": "A0F678",
+    "manufacture": "Aeromarine-klemm",
+    "deliveryDate": null,
+    "name": "N161M",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": null,
+    "engineManufacture": "Lycoming R680-4P-B4",
+    "yearBuilt": "1929",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N161M",
+    "model": "L-26A    Search all Aeromarine-klemm L-26A"
+}

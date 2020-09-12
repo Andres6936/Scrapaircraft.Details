@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "1670",
+    "engineType": "Turbofan",
+    "address": " GuernseyUnited Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "Airbus",
+    "deliveryDate": "2020-07-14",
+    "name": "2-CSKL",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Zephyrus Capital Aviation Partners 1B Limited",
+    "engineManufacture": "International Aero Engines V2533-A5",
+    "yearBuilt": "2002",
+    "engines": 2,
+    "alsoRegister": "D-AVZU  Manufacturer's registration\nHL7712  Valid  Delivery: 2002-02-26\nTC-SKL  De-registered  Delivery: 2009-05-00\nM-ABDM  De-registered  Delivery: 2011-03-23  Cancel: 2011-03-25",
+    "registrationNumber": "2-CSKL",
+    "model": "A321-231    Search all Airbus A321-231"
+}

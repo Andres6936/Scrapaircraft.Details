@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Manufacturer's registration",
+    "constructNumber": "4181/AUS02",
+    "engineType": "Turbo-prop",
+    "address": "Turin-CaselleItaly",
+    "modelSICAO24Code": null,
+    "manufacture": "Alenia",
+    "deliveryDate": null,
+    "name": "I-RAII",
+    "seats": 60,
+    "type": "Fixed wing multi engine",
+    "owner": "Alenia",
+    "engineManufacture": "Rolls-Royce AE2100-D2A (4,640 hp each",
+    "yearBuilt": "2014",
+    "engines": 2,
+    "alsoRegister": "A34-002  Active service - 35 Squadron",
+    "registrationNumber": "I-RAII",
+    "model": "C-27J Spartan    Search all Alenia C-27J Spartan"
+}

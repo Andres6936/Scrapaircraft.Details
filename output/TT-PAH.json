@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "4162",
+    "engineType": "Turbo-prop",
+    "address": "N'Djamen AirportChad",
+    "modelSICAO24Code": null,
+    "manufacture": "Alenia",
+    "deliveryDate": null,
+    "name": "TT-PAH",
+    "seats": 49,
+    "type": "Fixed wing multi engine",
+    "owner": "Force A\u00e9rienne Tchadienne (Chad Air Force)",
+    "engineManufacture": "Rolls-Royce AE2100-D2",
+    "yearBuilt": "2014",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "TT-PAH",
+    "model": "C-27J Spartan    Search all Alenia C-27J Spartan"
+}

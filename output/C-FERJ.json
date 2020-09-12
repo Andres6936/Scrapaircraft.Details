@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "7AC 6739",
+    "engineType": "Reciprocating",
+    "address": "Saint Phillippe New Brunswick E1H1W2Canada",
+    "modelSICAO24Code": "C00C54",
+    "manufacture": "Aeronca",
+    "deliveryDate": "1975-05-27",
+    "name": "C-FERJ",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Summit Air",
+    "engineManufacture": "Lycoming LF507-1F",
+    "yearBuilt": "1946",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "C-FERJ",
+    "model": "7AC Champion    Search all Aeronca 7AC"
+}

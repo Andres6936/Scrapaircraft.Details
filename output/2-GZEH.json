@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "2184",
+    "engineType": "Turbofan",
+    "address": " GuernseyUnited Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "Airbus",
+    "deliveryDate": "2018-01-12",
+    "name": "2-GZEH",
+    "seats": 156,
+    "type": "Fixed wing multi engine",
+    "owner": "SAP Meridian 7 LP",
+    "engineManufacture": "CFM International CFM56-5B5/P",
+    "yearBuilt": "2004",
+    "engines": 2,
+    "alsoRegister": "D-AVWO  Manufacturer test registered  Cancel: 2004-03-11\nG-EZEH  De-registered  Delivery: 2004-04-16  Cancel: 2018-01-12\nHB-JZF  De-registered  Delivery: 2004-09-13",
+    "registrationNumber": "2-GZEH",
+    "model": "A319-111    Search all Airbus A319-111"
+}

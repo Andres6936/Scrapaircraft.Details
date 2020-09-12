@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Valid",
+    "constructNumber": "60-0056-128",
+    "engineType": "Reciprocating",
+    "address": "Wilmington DE 19899United States",
+    "modelSICAO24Code": "AA1DAD",
+    "manufacture": "Aerostar",
+    "deliveryDate": null,
+    "name": "N7509S",
+    "seats": 6,
+    "type": "Fixed wing multi engine",
+    "owner": "Blueskys Inc",
+    "engineManufacture": "Lycoming TI0-540 SER",
+    "yearBuilt": "1970",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "N7509S",
+    "model": "600    Search all Aerostar 600"
+}

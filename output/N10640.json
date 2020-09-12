@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "5012",
+    "engineType": "Reciprocating",
+    "address": "",
+    "modelSICAO24Code": "A01DFB",
+    "manufacture": "Aircraft Parts & Dev. Corp.",
+    "deliveryDate": null,
+    "name": "N10640",
+    "seats": 1,
+    "type": "Fixed wing single engine",
+    "owner": "Whitman Aviation Llc",
+    "engineManufacture": "Lycoming O-360-A4M",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N10640",
+    "model": "A-9B    Search all Aircraft Parts & Dev. Corp. A-9B"
+}

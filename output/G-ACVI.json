@@ -1,0 +1,19 @@
+{
+    "currentStatus": null,
+    "constructNumber": "29",
+    "engineType": "Reciprocating",
+    "address": "United Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "Airspeed",
+    "deliveryDate": null,
+    "name": "G-ACVI",
+    "seats": 7,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Armstrong Siddeley Lynx IVC radial",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "VH-UXM  De-registered",
+    "registrationNumber": "G-ACVI",
+    "model": "AS.6A Envoy Mk.1    Search all Airspeed AS.6A Envoy Mk.1"
+}

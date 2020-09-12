@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "103",
+    "engineType": "Turbofan",
+    "address": "West Bend WI 53095",
+    "modelSICAO24Code": "A3C847",
+    "manufacture": "Abco",
+    "deliveryDate": "2013-03-31",
+    "name": "N34282",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": "AERIAL BLIGHT CONTROL INC",
+    "engineManufacture": "CFM International CFM56-7B26",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N34282",
+    "model": "SPECIAL    Search all Abco SPECIAL"
+}

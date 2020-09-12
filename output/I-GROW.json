@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "6711/106/AA050",
+    "engineType": "Turbojet",
+    "address": "Italy",
+    "modelSICAO24Code": null,
+    "manufacture": "Aermacchi",
+    "deliveryDate": null,
+    "name": "I-GROW",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": "Aermacchi",
+    "engineManufacture": "Rolls-Royce Viper 632",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "MM54502  Converted to MB-339B",
+    "registrationNumber": "I-GROW",
+    "model": "MB-339A    Search all Aermacchi MB-339A"
+}

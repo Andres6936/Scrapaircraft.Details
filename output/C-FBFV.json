@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "7340",
+    "engineType": "Reciprocating",
+    "address": "Winnipeg Manitoba R3H 0T7Canada",
+    "modelSICAO24Code": "C0033C",
+    "manufacture": "Douglas",
+    "deliveryDate": "2004-06-15",
+    "name": "C-FBFV",
+    "seats": 32,
+    "type": "Fixed wing multi engine",
+    "owner": "Perimeter Airlines (Inland) Ltd",
+    "engineManufacture": "Pratt & Whitney R-1830-92 Twin Wasp",
+    "yearBuilt": "1943",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "C-FBFV",
+    "model": "DC-3A    Search all Douglas DC-3A"
+}

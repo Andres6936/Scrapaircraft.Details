@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "028",
+    "engineType": "Turbo-prop",
+    "address": "Kayseri-Erkiletr Air BaseTurkey",
+    "modelSICAO24Code": null,
+    "manufacture": "Airbus",
+    "deliveryDate": null,
+    "name": "15-0028",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Turkish Air Force (T\u00fcrk Hava Kuvvetleri)",
+    "engineManufacture": "Europrop International TP400-D6",
+    "yearBuilt": "2015",
+    "engines": 4,
+    "alsoRegister": null,
+    "registrationNumber": "15-0028",
+    "model": "A400M Atlas    Search all Airbus A400M Atlas"
+}

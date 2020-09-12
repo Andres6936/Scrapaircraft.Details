@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "LAA 411-15580",
+    "engineType": "Reciprocating",
+    "address": "Llangollen Denbighshire LL20 7ABUnited Kingdom",
+    "modelSICAO24Code": "407753",
+    "manufacture": "Aeroprakt",
+    "deliveryDate": "2018-12-05",
+    "name": "G-VXXN",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": "Alec Everitt",
+    "engineManufacture": "Rotax 912ULS",
+    "yearBuilt": "2018",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "G-VXXN",
+    "model": "A32 Vixxen    Search all Aeroprakt A32 Vixxen"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "Not found 0847",
+    "engineType": "Turbofan",
+    "address": "Kangshan Air BaseTaiwan",
+    "modelSICAO24Code": null,
+    "manufacture": "AIDC",
+    "deliveryDate": null,
+    "name": "0847",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": "Republic of China Air Force",
+    "engineManufacture": "Garrett AiResearch TFE731-2",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "0847",
+    "model": "AT-3 Tzu Chung    Search all AIDC AT-3 Tzu Chung"
+}

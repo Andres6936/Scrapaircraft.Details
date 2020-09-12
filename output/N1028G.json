@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "001",
+    "engineType": "Reciprocating",
+    "address": "Ramey PR",
+    "modelSICAO24Code": "A00F99",
+    "manufacture": "Ahrens",
+    "deliveryDate": null,
+    "name": "N1028G",
+    "seats": 29,
+    "type": "Fixed wing single engine",
+    "owner": "BROMON AIRCRAFFT CORPORATION",
+    "engineManufacture": "Allison 250-B17 SER",
+    "yearBuilt": "1979",
+    "engines": 4,
+    "alsoRegister": null,
+    "registrationNumber": "N1028G",
+    "model": "AR-404    Search all Ahrens AR-404"
+}

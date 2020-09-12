@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Cancelled by CAA",
+    "constructNumber": "PFA G/04-1153",
+    "engineType": "Reciprocating",
+    "address": "United Kingdom",
+    "modelSICAO24Code": "403002",
+    "manufacture": "Air Command",
+    "deliveryDate": "1989-11-07",
+    "name": "G-KENB",
+    "seats": 1,
+    "type": "Gyroplane",
+    "owner": "Kenneth Brogden",
+    "engineManufacture": "Rotax 503",
+    "yearBuilt": "1989",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "G-KENB",
+    "model": "503 Commander    Search all Air Command 503 Commander"
+}

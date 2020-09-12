@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "001",
+    "engineType": "Turbo-prop",
+    "address": "France",
+    "modelSICAO24Code": null,
+    "manufacture": "Aero Spacelines",
+    "deliveryDate": null,
+    "name": "F8TGV",
+    "seats": 3,
+    "type": "Fixed wing multi engine",
+    "owner": "Airbus Skylink",
+    "engineManufacture": "Allison 501",
+    "yearBuilt": "0000",
+    "engines": 4,
+    "alsoRegister": null,
+    "registrationNumber": "F8TGV",
+    "model": "Super Guppy    Search all Aero Spacelines Super Guppy"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "306-64",
+    "engineType": "Turbojet",
+    "address": "Atlanta GeorgiaUnited States",
+    "modelSICAO24Code": "A00F0D",
+    "manufacture": "North American",
+    "deliveryDate": null,
+    "name": "N1024G",
+    "seats": 12,
+    "type": "Fixed wing multi engine",
+    "owner": "IBM Flights Operations",
+    "engineManufacture": "Pratt & Whitney JT12A-8",
+    "yearBuilt": "1973",
+    "engines": 2,
+    "alsoRegister": "N74BS  Deregistered  Cancel: 2006-02-21",
+    "registrationNumber": "N1024G",
+    "model": "NA-265-60 Sabreliner    Search all North American NA-265-60 Sabreliner"
+}

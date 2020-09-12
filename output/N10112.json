@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "303",
+    "engineType": "Turbofan",
+    "address": "100 Woodland AveMorton PA 19070",
+    "modelSICAO24Code": "A00B01",
+    "manufacture": "Boeing Vertol",
+    "deliveryDate": "1974-07-02",
+    "name": "N10112",
+    "seats": 51,
+    "type": "Fixed wing multi engine",
+    "owner": "BOEING CO",
+    "engineManufacture": "Rolls-Royce RB211-22B",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "C-GIES  De-registered\nP4-MED  De-registered\nN787M  Deregistered  Delivery: 1994-10-20  Cancel: 2000-12-14\nN910TE  Registered  Delivery: 2015-12-31",
+    "registrationNumber": "N10112",
+    "model": "107-II-9    Search all Boeing Vertol 107-II-9"
+}

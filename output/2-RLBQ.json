@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "1285",
+    "engineType": "Turbo-prop",
+    "address": " GuernseyUnited Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "ATR",
+    "deliveryDate": "2019-11-05",
+    "name": "2-RLBQ",
+    "seats": 72,
+    "type": "Fixed wing multi engine",
+    "owner": "Aergo Capital",
+    "engineManufacture": "Pratt & Whitney Canada PW127M",
+    "yearBuilt": "2015",
+    "engines": 2,
+    "alsoRegister": "F-WWEN  De-registered  Delivery: 2015-00-00  Cancel: 2015-12-00\nF-WWES  De-registered  Delivery: 2015-00-00  Cancel: 2015-12-03\nF-WKVB  De-registered  Delivery: 2015-12-00  Cancel: 2016-04-28\n9M-FIH  Withdrawn from use Oct 016  Delivery: 2016-04-28",
+    "registrationNumber": "2-RLBQ",
+    "model": "72-212A    Search all ATR 72-212A"
+}

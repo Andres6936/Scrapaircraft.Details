@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "379",
+    "engineType": "Turbofan",
+    "address": "Canada",
+    "modelSICAO24Code": "C0328F",
+    "manufacture": "Airbus",
+    "deliveryDate": "2008-05-28",
+    "name": "C-FTDU",
+    "seats": 174,
+    "type": "Fixed wing multi engine",
+    "owner": "Skyservice Airlines",
+    "engineManufacture": "CFM International CFM56-5A3",
+    "yearBuilt": "1994",
+    "engines": 2,
+    "alsoRegister": "G-MPCD  Registered  Delivery: 1994-03-15\nC-GZCD  Deregistered  Delivery: 2000-12-19  Cancel: 2001-04-28",
+    "registrationNumber": "C-FTDU",
+    "model": "A320-212    Search all Airbus A320-212"
+}

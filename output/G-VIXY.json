@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "LAA 411-15683",
+    "engineType": "Reciprocating",
+    "address": "Glyn Ceiriog Llangollen LL20 7ABUnited Kingdom",
+    "modelSICAO24Code": "407A42",
+    "manufacture": "Aeroprakt",
+    "deliveryDate": "2020-06-10",
+    "name": "G-VIXY",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": "Alec Everitt",
+    "engineManufacture": null,
+    "yearBuilt": "2020",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "G-VIXY",
+    "model": "A32 Vixxen    Search all Aeroprakt A32 Vixxen"
+}

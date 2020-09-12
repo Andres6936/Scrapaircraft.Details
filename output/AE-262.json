@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Withdrawn from use",
+    "constructNumber": "4021",
+    "engineType": "Turbo-prop",
+    "address": "Campo de Mayo Air Base Buenos AiresArgentina",
+    "modelSICAO24Code": null,
+    "manufacture": "Aeritalia",
+    "deliveryDate": null,
+    "name": "AE-262",
+    "seats": 4,
+    "type": "Fixed wing multi engine",
+    "owner": "Comando de Aviacion de Ejercito Argentino",
+    "engineManufacture": "General Electric T64-GE-P4D",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "AE-262",
+    "model": "G-222    Search all Aeritalia G-222"
+}

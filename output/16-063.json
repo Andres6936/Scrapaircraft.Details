@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Entering operational service",
+    "constructNumber": "31761",
+    "engineType": "Turbo-shaft",
+    "address": "Pakistan",
+    "modelSICAO24Code": null,
+    "manufacture": "AgustaWestland",
+    "deliveryDate": null,
+    "name": "16-063",
+    "seats": 15,
+    "type": "Rotorcraft",
+    "owner": "Pakistan Air Force",
+    "engineManufacture": "Pratt & Whitney Canada PT6C-67C",
+    "yearBuilt": "2017",
+    "engines": 2,
+    "alsoRegister": "I-EASG  Manufacturer's registration",
+    "registrationNumber": "16-063",
+    "model": "AW-139    Search all AgustaWestland AW-139"
+}

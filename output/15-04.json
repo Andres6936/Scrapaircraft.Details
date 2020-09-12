@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service with 3/FBS",
+    "constructNumber": "1214",
+    "engineType": "Turbofan",
+    "address": "Germany",
+    "modelSICAO24Code": "3F97FD",
+    "manufacture": "Airbus",
+    "deliveryDate": "2018-10-05",
+    "name": "15 04",
+    "seats": 190,
+    "type": "Fixed wing multi engine",
+    "owner": "German Air Force (Luftwaffe)",
+    "engineManufacture": "International Aero Engines V2533-A5",
+    "yearBuilt": "2000",
+    "engines": 2,
+    "alsoRegister": "98 11 \nD-AISE  De-registered  Delivery: 2000-04-20",
+    "registrationNumber": "15 04",
+    "model": "A321-231    Search all Airbus A321-231"
+}

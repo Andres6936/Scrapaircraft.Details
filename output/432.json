@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Active service with 25 Squadro",
+    "constructNumber": "1192",
+    "engineType": "Turbofan",
+    "address": "Ahamad Al Jaber Air BaseKuwait",
+    "modelSICAO24Code": null,
+    "manufacture": "McDonnell Douglas",
+    "deliveryDate": null,
+    "name": "432",
+    "seats": 1,
+    "type": "Fixed wing multi engine",
+    "owner": "Kuwait Air Force",
+    "engineManufacture": "General Electric F404-GE-402",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "N432PS  Valid",
+    "registrationNumber": "432",
+    "model": "KAF-18C Hornet    Search all McDonnell Douglas KAF-18C Hornet"
+}

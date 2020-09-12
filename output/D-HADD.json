@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Test registration",
+    "constructNumber": "20056",
+    "engineType": "Turbo-shaft",
+    "address": "Germany",
+    "modelSICAO24Code": "3DD2F1",
+    "manufacture": "Airbus Helicopters",
+    "deliveryDate": null,
+    "name": "D-HADD",
+    "seats": 11,
+    "type": "Rotorcraft",
+    "owner": "Airbus Helicopters Deutschland GmbH",
+    "engineManufacture": "Turbomeca Arriel 2E",
+    "yearBuilt": "2015",
+    "engines": 2,
+    "alsoRegister": "D-HDSI  De-registered\nOE-XRE  Registered  Delivery: 2018-02-00",
+    "registrationNumber": "D-HADD",
+    "model": "H-145M (BK-117D-2)    Search all Airbus Helicopters H-145M (BK-117D-2)"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "1005",
+    "engineType": "Turbo-prop",
+    "address": " GuernseyUnited Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "ATR",
+    "deliveryDate": "2017-07-19",
+    "name": "2-RLAP",
+    "seats": 40,
+    "type": "Fixed wing multi engine",
+    "owner": "Magellan Investments",
+    "engineManufacture": "Pratt & Whitney Canada PW127M",
+    "yearBuilt": "2013",
+    "engines": 2,
+    "alsoRegister": "F-WWLN  Test registered  Delivery: 2013-00-00\nF-WKVD  Test registered  Delivery: 2013-08-00\nHK-5237  Registered  Delivery: 2017-09-20",
+    "registrationNumber": "2-RLAP",
+    "model": "42-600    Search all ATR 42-600"
+}

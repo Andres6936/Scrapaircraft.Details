@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "163",
+    "engineType": "Turbojet",
+    "address": "Calgary Alberta T2P 3J4Canada",
+    "modelSICAO24Code": null,
+    "manufacture": "Learjet",
+    "deliveryDate": "2012-05-10",
+    "name": "C-FBEA",
+    "seats": 10,
+    "type": "Fixed wing multi engine",
+    "owner": "Forward Resources Ltd",
+    "engineManufacture": "General Electric CJ610",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "N911AJ  Valid\nN173LP  De-registered",
+    "registrationNumber": "C-FBEA",
+    "model": "25B    Search all Learjet 25B"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "1692",
+    "engineType": "Reciprocating",
+    "address": "Chicago IL 60600",
+    "modelSICAO24Code": "A01D62",
+    "manufacture": "Boeing",
+    "deliveryDate": null,
+    "name": "N1060M",
+    "seats": 13,
+    "type": "Fixed wing multi engine",
+    "owner": "ATLAS AIRWAYS INC",
+    "engineManufacture": "Pratt & Whitney S1H1-G Wasp radial",
+    "yearBuilt": "1933",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "N1060M",
+    "model": "247D    Search all Boeing 247D"
+}

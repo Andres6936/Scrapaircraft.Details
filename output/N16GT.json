@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "230",
+    "engineType": "Turbojet",
+    "address": "Tulsa OklahomaUnited States",
+    "modelSICAO24Code": "A0EFFD",
+    "manufacture": "Gates Learjet",
+    "deliveryDate": null,
+    "name": "N16GT",
+    "seats": 10,
+    "type": "Fixed wing multi engine",
+    "owner": "General Telephone Company",
+    "engineManufacture": "General Electric CJ610-SER",
+    "yearBuilt": "1977",
+    "engines": 2,
+    "alsoRegister": "N207HF  Deregistered  Cancel: 2009-04-29\nN7RL  De-registered",
+    "registrationNumber": "N16GT",
+    "model": "25D    Search all Gates Learjet 25D"
+}

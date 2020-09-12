@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Undel Tri",
+    "constructNumber": "004",
+    "engineType": "Turbo-prop",
+    "address": "Ramey PR 00604",
+    "modelSICAO24Code": "A00FA3",
+    "manufacture": "Ahrens",
+    "deliveryDate": null,
+    "name": "N1028S",
+    "seats": 29,
+    "type": "Fixed wing multi engine",
+    "owner": "Ahrens Acft Inc",
+    "engineManufacture": null,
+    "yearBuilt": "0000",
+    "engines": 4,
+    "alsoRegister": null,
+    "registrationNumber": "N1028S",
+    "model": "AR-404    Search all Ahrens AR-404"
+}

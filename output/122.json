@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Stored",
+    "constructNumber": "10188",
+    "engineType": "Turbojet",
+    "address": "Petrovec Air BaseMacedonia",
+    "modelSICAO24Code": null,
+    "manufacture": "Sukhoi",
+    "deliveryDate": null,
+    "name": "122",
+    "seats": 1,
+    "type": "Fixed wing multi engine",
+    "owner": "Macedonian Air Force",
+    "engineManufacture": "Tumansky R-195",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "30-GA ",
+    "registrationNumber": "122",
+    "model": "Su-25    Search all Sukhoi Su-25"
+}

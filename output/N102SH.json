@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "SH102",
+    "engineType": "Turbo-shaft",
+    "address": "Arleta CA 91331",
+    "modelSICAO24Code": "A00DBA",
+    "manufacture": "Aero Composites",
+    "deliveryDate": null,
+    "name": "N102SH",
+    "seats": 2,
+    "type": "Rotorcraft",
+    "owner": "Scotts Helicopter Services Inc",
+    "engineManufacture": "Allison 250 SER 250HP",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N102SH",
+    "model": "SEA HAWKER    Search all Aero Composites SEA HAWKER"
+}

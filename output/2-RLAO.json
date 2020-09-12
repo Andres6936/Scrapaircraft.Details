@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "1002",
+    "engineType": "Turbo-prop",
+    "address": " GuernseyUnited Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "ATR",
+    "deliveryDate": "2017-04-10",
+    "name": "2-RLAO",
+    "seats": 42,
+    "type": "Fixed wing multi engine",
+    "owner": "Magellan Investments",
+    "engineManufacture": "Pratt & Whitney Canada PW127M",
+    "yearBuilt": "2013",
+    "engines": 2,
+    "alsoRegister": "F-WWLL  Test registered  Delivery: 2013-00-00\nF-WKVC  Test registered  Delivery: 2013-08-00\nF-WNUB  Test registered  Delivery: 2014-05-00\nHK-5236  Registered  Delivery: 2017-09-13",
+    "registrationNumber": "2-RLAO",
+    "model": "42-600    Search all ATR 42-600"
+}

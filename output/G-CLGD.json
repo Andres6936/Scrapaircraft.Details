@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "LAA 411-15607",
+    "engineType": "Reciprocating",
+    "address": "Melton Mowbray Leicestershire LE14 2TDUnited Kingdom",
+    "modelSICAO24Code": "40783A",
+    "manufacture": "Aeroprakt",
+    "deliveryDate": "2019-05-31",
+    "name": "G-CLGD",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": "Martin Andrew Lomas",
+    "engineManufacture": null,
+    "yearBuilt": "2019",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "G-CLGD",
+    "model": "A32 Vixxen    Search all Aeroprakt A32 Vixxen"
+}

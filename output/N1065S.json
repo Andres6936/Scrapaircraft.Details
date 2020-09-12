@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "5017",
+    "engineType": "Reciprocating",
+    "address": "",
+    "modelSICAO24Code": "A01E16",
+    "manufacture": "Aircraft Parts & Dev. Corp.",
+    "deliveryDate": null,
+    "name": "N1065S",
+    "seats": 1,
+    "type": "Fixed wing single engine",
+    "owner": "Pdm Aviaiton",
+    "engineManufacture": "Lycoming TI0-540 SER",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N1065S",
+    "model": "A-9B    Search all Aircraft Parts & Dev. Corp. A-9B"
+}

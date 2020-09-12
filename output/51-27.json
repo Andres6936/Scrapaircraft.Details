@@ -1,0 +1,19 @@
+{
+    "currentStatus": null,
+    "constructNumber": "IX-026",
+    "engineType": "Turbofan",
+    "address": "Italy",
+    "modelSICAO24Code": "33FF88",
+    "manufacture": "Aermacchi",
+    "deliveryDate": null,
+    "name": "51-27",
+    "seats": 1,
+    "type": "Fixed wing single engine",
+    "owner": "Aeronautica Militare Italiana (Italian Air Force)",
+    "engineManufacture": "Rolls Royce Spey 807",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "MM7114 ",
+    "registrationNumber": "51-27",
+    "model": "AMX-ACOL    Search all Aermacchi AMX-ACOL"
+}

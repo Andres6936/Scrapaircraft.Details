@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Withdrawn from service",
+    "constructNumber": "36581",
+    "engineType": "Turbofan",
+    "address": "MoscowRussian Federation",
+    "modelSICAO24Code": null,
+    "manufacture": "Mikoyan-Gurevich",
+    "deliveryDate": null,
+    "name": "999",
+    "seats": 1,
+    "type": "Fixed wing multi engine",
+    "owner": "MIG OKB",
+    "engineManufacture": "Klimov RD-33MK",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "ZS-WXF  Registered",
+    "registrationNumber": "999",
+    "model": "MiG-29M    Search all Mikoyan-Gurevich MiG-29M"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Valid",
+    "constructNumber": "ANT159",
+    "engineType": "Ramjet",
+    "address": "Anchorage AK 99518United States",
+    "modelSICAO24Code": "A6451F",
+    "manufacture": "Antares",
+    "deliveryDate": null,
+    "name": "N503AK",
+    "seats": 2,
+    "type": "Weight-shift-control",
+    "owner": null,
+    "engineManufacture": "Rotax 503 DCDI",
+    "yearBuilt": "2000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N503AK",
+    "model": "MA-33    Search all Antares MA-33"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "21627",
+    "engineType": "Turbofan",
+    "address": "P.O.Box 9000 Station AirportDorval Quebec H4Y1C2Canada",
+    "modelSICAO24Code": "C04546",
+    "manufacture": "Boeing",
+    "deliveryDate": "1992-10-27",
+    "name": "C-GAGB",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Air Canada",
+    "engineManufacture": "Pratt & Whitney JT9D-7J",
+    "yearBuilt": "1978",
+    "engines": 4,
+    "alsoRegister": null,
+    "registrationNumber": "C-GAGB",
+    "model": "747-233B    Search all Boeing 747-233B"
+}

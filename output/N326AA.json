@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "AA10300",
+    "engineType": "Turbo-prop",
+    "address": "Orangevale CA 95662",
+    "modelSICAO24Code": "A3849B",
+    "manufacture": "American",
+    "deliveryDate": null,
+    "name": "N326AA",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": "AVIATION ADVISORS INTERNATIONAL INC",
+    "engineManufacture": "Pratt & Whitney Canada PT6A-41",
+    "yearBuilt": "1969",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N326AA",
+    "model": "AA-1 Yankee    Search all American AA-1"
+}

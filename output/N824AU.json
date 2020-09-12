@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Valid",
+    "constructNumber": "AU-024",
+    "engineType": "Ramjet",
+    "address": "Manassas VA 20110United States",
+    "modelSICAO24Code": "AB3FCA",
+    "manufacture": "Aurora Flight Sciences Corp",
+    "deliveryDate": null,
+    "name": "N824AU",
+    "seats": 0,
+    "type": "Fixed wing single engine",
+    "owner": "Aurora Flight Sciences Corp",
+    "engineManufacture": "Desert Acf DA-50-R",
+    "yearBuilt": "2006",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N824AU",
+    "model": "GOLDENEYE 50    Search all Aurora Flight Sciences Corp GOLDENEYE 50"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "2827",
+    "engineType": "Reciprocating",
+    "address": "Belgium",
+    "modelSICAO24Code": null,
+    "manufacture": "Auster",
+    "deliveryDate": null,
+    "name": "A-12",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": "Belgian Air Force",
+    "engineManufacture": "De Havilland Gypsy Major 7",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "VT991  De-registered\nOO-FDF  Destroyed",
+    "registrationNumber": "A-12",
+    "model": "AOP.6    Search all Auster AOP.6"
+}

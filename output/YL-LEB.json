@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Preserved",
+    "constructNumber": "1G 041-16",
+    "engineType": "Reciprocating",
+    "address": "Lange TartuEstonia",
+    "modelSICAO24Code": null,
+    "manufacture": "Antonov (PZL-Mielec)",
+    "deliveryDate": null,
+    "name": "YL-LEB",
+    "seats": 12,
+    "type": "Fixed wing single engine",
+    "owner": "Estonian Aviation Museum",
+    "engineManufacture": "Shvetsov ASh-62IR radial",
+    "yearBuilt": "1963",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "YL-LEB",
+    "model": "An-2    Search all Antonov (PZL-Mielec) An-2"
+}

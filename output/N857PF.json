@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Sale Reported",
+    "constructNumber": "1G108-57",
+    "engineType": "Reciprocating",
+    "address": "Gosport IN 47433United States",
+    "modelSICAO24Code": "ABC2A4",
+    "manufacture": "Antonov (PZL-Mielec)",
+    "deliveryDate": null,
+    "name": "N857PF",
+    "seats": 12,
+    "type": "Fixed wing single engine",
+    "owner": null,
+    "engineManufacture": "Ama/expr UNKNOWN ENG",
+    "yearBuilt": "1969",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N857PF",
+    "model": "An-2    Search all Antonov (PZL-Mielec) An-2"
+}

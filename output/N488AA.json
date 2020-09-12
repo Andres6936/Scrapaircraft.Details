@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "AA2-0101",
+    "engineType": "Turbofan",
+    "address": "Cleveland OH 44143",
+    "modelSICAO24Code": "A60652",
+    "manufacture": "American",
+    "deliveryDate": null,
+    "name": "N488AA",
+    "seats": 4,
+    "type": "Fixed wing multi engine",
+    "owner": "AMERICAN AVIATION CORP",
+    "engineManufacture": "P & W JT8D SERIES",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N488AA",
+    "model": "AA-2    Search all American AA-2"
+}

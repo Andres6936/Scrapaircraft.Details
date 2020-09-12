@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Reserved",
+    "constructNumber": "9-01",
+    "engineType": "Turbofan",
+    "address": "MoscowRussian Federation",
+    "modelSICAO24Code": null,
+    "manufacture": "Mikoyan-Gurevich",
+    "deliveryDate": null,
+    "name": "01 BLUE",
+    "seats": 1,
+    "type": "Fixed wing multi engine",
+    "owner": "Soviet Air Force",
+    "engineManufacture": "Klimov RD-33",
+    "yearBuilt": "1977",
+    "engines": 2,
+    "alsoRegister": "UR-BYH  De-registered",
+    "registrationNumber": "01 BLUE",
+    "model": "MIG-29 (9-01) Prototype    Search all Mikoyan-Gurevich MIG-29 (9-01) Prototype"
+}

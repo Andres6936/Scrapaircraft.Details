@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "AU-036",
+    "engineType": "Turbofan",
+    "address": "Manassas VA 201102702United States",
+    "modelSICAO24Code": "AB6EB7",
+    "manufacture": "Aurora Flight Sciences Corp",
+    "deliveryDate": null,
+    "name": "N836AU",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "AURORA FLIGHT SCIENCES CORP",
+    "engineManufacture": "Pratt & Whitney JT8D-217C",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N836AU",
+    "model": "GOLDENEYE 80    Search all Aurora Flight Sciences Corp GOLDENEYE 80"
+}

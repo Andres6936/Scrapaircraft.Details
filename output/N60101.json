@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "MC-620",
+    "engineType": "Ramjet",
+    "address": "Fort Pierce FL 349469022United States",
+    "modelSICAO24Code": "A7CD68",
+    "manufacture": "Beech",
+    "deliveryDate": null,
+    "name": "N60101",
+    "seats": 6,
+    "type": "Weight-shift-control",
+    "owner": "ARI BEN AVIATOR INC",
+    "engineManufacture": "Lycoming I0360 SER A&C",
+    "yearBuilt": "1978",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N60101",
+    "model": "C24R    Search all Beech C24R"
+}

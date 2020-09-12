@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "13710",
+    "engineType": "Turbo-prop",
+    "address": "Bulgaria",
+    "modelSICAO24Code": null,
+    "manufacture": "Antonov",
+    "deliveryDate": null,
+    "name": "080",
+    "seats": 45,
+    "type": "Fixed wing multi engine",
+    "owner": "Fuerza A\u00e9rea del Per\u00fa (Peruvian Air Force)",
+    "engineManufacture": "Ivchenko-Progress AI-24A",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "080",
+    "model": "An-26    Search all Antonov An-26"
+}

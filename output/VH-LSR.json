@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "4748",
+    "engineType": "Turbo-shaft",
+    "address": "Port Melbourne Vic 3207Australia",
+    "modelSICAO24Code": null,
+    "manufacture": "Eurocopter",
+    "deliveryDate": null,
+    "name": "VH-LSR",
+    "seats": 6,
+    "type": "Rotorcraft",
+    "owner": "Microfllite Pty Lrd",
+    "engineManufacture": "Turbomeca Arriel 1D1",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "VH-LSR",
+    "model": "AS-350B-2 Ecureuil    Search all Eurocopter AS-350B-2"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "104",
+    "engineType": "Turbofan",
+    "address": "Kansas City MO 64126",
+    "modelSICAO24Code": "A54423",
+    "manufacture": "American Eagle",
+    "deliveryDate": null,
+    "name": "N4387",
+    "seats": 3,
+    "type": "Fixed wing multi engine",
+    "owner": "BUTLER MANUFACTURING CO",
+    "engineManufacture": "Rolls-royc TAY 611SER",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "N854SD  Valid",
+    "registrationNumber": "N4387",
+    "model": "A-1    Search all American Eagle A-1"
+}

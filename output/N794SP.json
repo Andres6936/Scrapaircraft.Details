@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Valid",
+    "constructNumber": "1G147-21",
+    "engineType": "Reciprocating",
+    "address": "Waukegan IL 60087United States",
+    "modelSICAO24Code": "AAC87F",
+    "manufacture": "Antonov (PZL-Mielec)",
+    "deliveryDate": null,
+    "name": "N794SP",
+    "seats": 12,
+    "type": "Fixed wing single engine",
+    "owner": null,
+    "engineManufacture": null,
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N794SP",
+    "model": "An-2    Search all Antonov (PZL-Mielec) An-2"
+}

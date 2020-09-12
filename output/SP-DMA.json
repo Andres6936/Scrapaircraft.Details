@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "1G142-35",
+    "engineType": "Reciprocating",
+    "address": "Poland",
+    "modelSICAO24Code": null,
+    "manufacture": "Antonov (PZL-Mielec)",
+    "deliveryDate": null,
+    "name": "SP-DMA",
+    "seats": 12,
+    "type": "Fixed wing single engine",
+    "owner": "Polish Aviation Museum Krakow",
+    "engineManufacture": "PZL-Franklin 6A-350C",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "N22AN  Deregistered",
+    "registrationNumber": "SP-DMA",
+    "model": "An-2    Search all Antonov (PZL-Mielec) An-2"
+}

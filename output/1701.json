@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "1701",
+    "engineType": "Turbo-prop",
+    "address": "Zahurul Haque Air BaseBangladesh",
+    "modelSICAO24Code": null,
+    "manufacture": "Antonov",
+    "deliveryDate": "1969-11-00",
+    "name": "1701",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Bangladesh Air Force",
+    "engineManufacture": "ZMKB Progress AI-20DM",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "1701",
+    "model": "An-32    Search all Antonov An-32"
+}

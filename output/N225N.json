@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "810",
+    "engineType": "Turbofan",
+    "address": "Lincoln NE 68510",
+    "modelSICAO24Code": "A1F4C0",
+    "manufacture": "American Eagle",
+    "deliveryDate": null,
+    "name": "N225N",
+    "seats": 3,
+    "type": "Fixed wing multi engine",
+    "owner": "Nordstrom Stores",
+    "engineManufacture": "GE Aviation CF34-3A",
+    "yearBuilt": "1930",
+    "engines": 1,
+    "alsoRegister": "N200KC  Re-registered",
+    "registrationNumber": "N225N",
+    "model": "201    Search all American Eagle 201"
+}

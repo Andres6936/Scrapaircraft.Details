@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "41C",
+    "engineType": "Ramjet",
+    "address": "Keo AR 72086",
+    "modelSICAO24Code": "AAEC16",
+    "manufacture": "Grumman-Schweizer",
+    "deliveryDate": null,
+    "name": "N8023K",
+    "seats": 1,
+    "type": "Powered Parachute",
+    "owner": "KEO FLYING SERVICE INC",
+    "engineManufacture": "Wsk-pzl-k PZL ASZ-62IR",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N8023K",
+    "model": "G-164C    Search all Grumman-Schweizer G-164C"
+}

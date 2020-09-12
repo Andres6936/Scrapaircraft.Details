@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "AF.545",
+    "engineType": "Reciprocating",
+    "address": "",
+    "modelSICAO24Code": "A01B01",
+    "manufacture": "Beech",
+    "deliveryDate": null,
+    "name": "N106AC",
+    "seats": 10,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Lycoming AEIO-360 SER",
+    "yearBuilt": "1952",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "N106AC",
+    "model": "C-45H Expeditor    Search all Beech C-45H"
+}

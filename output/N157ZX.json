@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "WLC002",
+    "engineType": "Ramjet",
+    "address": "",
+    "modelSICAO24Code": "A0E685",
+    "manufacture": "Apex",
+    "deliveryDate": null,
+    "name": "N157ZX",
+    "seats": 2,
+    "type": "Weight-shift-control",
+    "owner": null,
+    "engineManufacture": null,
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N157ZX",
+    "model": "Cross 5    Search all Apex Cross 5"
+}

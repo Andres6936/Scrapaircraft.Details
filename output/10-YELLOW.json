@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "5340101",
+    "engineType": "Turbo-prop",
+    "address": "Russian Federation",
+    "modelSICAO24Code": null,
+    "manufacture": "Antonov",
+    "deliveryDate": null,
+    "name": "10 YELLOW",
+    "seats": 35,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Kuznetsov NK12MA",
+    "yearBuilt": "1965",
+    "engines": 4,
+    "alsoRegister": "CCCP-46191  De-registered\n40 RED  De-registered\n01 RED  De-registered\nCCCP-180151  De-registered\nCCCP-64459  De-registered\nUR-64459  Unknown",
+    "registrationNumber": "10 YELLOW",
+    "model": "An-22 Antei    Search all Antonov An-22"
+}

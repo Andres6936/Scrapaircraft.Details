@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "AV1-3-77",
+    "engineType": "Turbo-prop",
+    "address": "Paraguay",
+    "modelSICAO24Code": null,
+    "manufacture": "CASA",
+    "deliveryDate": null,
+    "name": "A-21",
+    "seats": 26,
+    "type": "Fixed wing multi engine",
+    "owner": "Policia Nacional de Paraguay",
+    "engineManufacture": "Garrett AiResearch TPE-331",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "T12C-59  Withdrawn from active service",
+    "registrationNumber": "A-21",
+    "model": "C-212-100 Aviocar    Search all CASA C-212-100 Aviocar"
+}

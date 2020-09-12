@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "112",
+    "engineType": "Reciprocating",
+    "address": "Smith Neck RdS Dartmouth MA 02748",
+    "modelSICAO24Code": "A0078D",
+    "manufacture": "Alliance Aircraft",
+    "deliveryDate": null,
+    "name": "N1003Z",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": null,
+    "engineManufacture": "Cont Motor IO-240 SER",
+    "yearBuilt": "1929",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N1003Z",
+    "model": "Argo    Search all Alliance Aircraft Argo"
+}

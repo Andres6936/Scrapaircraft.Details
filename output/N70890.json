@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Valid",
+    "constructNumber": "MA32001",
+    "engineType": "Ramjet",
+    "address": "Copper Center AK 99573United States",
+    "modelSICAO24Code": "A975F2",
+    "manufacture": "Antares",
+    "deliveryDate": null,
+    "name": "N70890",
+    "seats": 2,
+    "type": "Weight-shift-control",
+    "owner": null,
+    "engineManufacture": "Rotax 503ULDCDI",
+    "yearBuilt": "2002",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N70890",
+    "model": "WSC    Search all Antares WSC"
+}

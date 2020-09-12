@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Valid",
+    "constructNumber": "111",
+    "engineType": "Ramjet",
+    "address": "Soldotna AK 99669United States",
+    "modelSICAO24Code": "ADC71B",
+    "manufacture": "Antares",
+    "deliveryDate": null,
+    "name": "N987WB",
+    "seats": 2,
+    "type": "Weight-shift-control",
+    "owner": null,
+    "engineManufacture": "Rotax 503DCSI",
+    "yearBuilt": "2000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N987WB",
+    "model": "MA-32    Search all Antares MA-32"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "46508",
+    "engineType": "Turbofan",
+    "address": "Memphis TN 381182716United States",
+    "modelSICAO24Code": "A0226D",
+    "manufacture": "McDonnell Douglas",
+    "deliveryDate": null,
+    "name": "N108AA",
+    "seats": 345,
+    "type": "Fixed wing multi engine",
+    "owner": "FEDERAL EXPRESS CORPORATION",
+    "engineManufacture": "General Electric CF6-6K",
+    "yearBuilt": "1972",
+    "engines": 3,
+    "alsoRegister": null,
+    "registrationNumber": "N108AA",
+    "model": "DC-10-10    Search all McDonnell Douglas DC-10-10"
+}

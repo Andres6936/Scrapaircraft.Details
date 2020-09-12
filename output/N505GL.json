@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "0505",
+    "engineType": "Reciprocating",
+    "address": "GunzburgGermany",
+    "modelSICAO24Code": "A64D24",
+    "manufacture": "Great Lakes",
+    "deliveryDate": null,
+    "name": "N505GL",
+    "seats": 2,
+    "type": "Rotorcraft",
+    "owner": null,
+    "engineManufacture": "Ama/expr UNKNOWN ENG",
+    "yearBuilt": "1974",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N505GL",
+    "model": "2T-1A-1 Sport Trainer    Search all Great Lakes 2T-1A-1"
+}

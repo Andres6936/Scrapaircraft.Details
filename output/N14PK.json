@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "AA10351",
+    "engineType": "Reciprocating",
+    "address": "Snellville GA 30278",
+    "modelSICAO24Code": "A0A1A6",
+    "manufacture": "American",
+    "deliveryDate": null,
+    "name": "N14PK",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": "OEKONTA INC",
+    "engineManufacture": "Lycoming O&VO-360 SER",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N14PK",
+    "model": "AA-1 Yankee    Search all American AA-1"
+}

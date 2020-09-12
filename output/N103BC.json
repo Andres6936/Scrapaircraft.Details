@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "1103",
+    "engineType": "Turbojet",
+    "address": "United States",
+    "modelSICAO24Code": "A00FF5",
+    "manufacture": "Gulfstream Aerospace",
+    "deliveryDate": null,
+    "name": "N103BC",
+    "seats": 22,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Rolls-Royce Tay 611",
+    "yearBuilt": "1989",
+    "engines": 2,
+    "alsoRegister": "VP-BIV  De-registered\nN90005  De-registered\nN433GA  De-registered\nN3KN  De-registered  Delivery: 2001-07-03  Cancel: 2001-08-28\nC-FHPM  De-registered  Delivery: 2001-10-22  Cancel: 2019-08-01\nN1103R  Registered  Delivery: 2019-08-02",
+    "registrationNumber": "N103BC",
+    "model": "G-IV    Search all Gulfstream Aerospace G-IV"
+}

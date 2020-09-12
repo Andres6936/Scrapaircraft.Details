@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "TD-714",
+    "engineType": "Ramjet",
+    "address": "Bloomsbury NJ 088046000United States",
+    "modelSICAO24Code": "A97862",
+    "manufacture": "Beech",
+    "deliveryDate": null,
+    "name": "N7090N",
+    "seats": 6,
+    "type": "Weight-shift-control",
+    "owner": null,
+    "engineManufacture": "Lycoming I0360 SER",
+    "yearBuilt": "1968",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "N7090N",
+    "model": "E95    Search all Beech E95"
+}

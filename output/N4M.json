@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "111",
+    "engineType": "Reciprocating",
+    "address": "Chicago IL 60602",
+    "modelSICAO24Code": "A4A902",
+    "manufacture": "Alliance Aircraft",
+    "deliveryDate": null,
+    "name": "N4M",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": "Natural Gas Pipeline Company",
+    "engineManufacture": "Cont Motor GTSIO-520-C",
+    "yearBuilt": "1929",
+    "engines": 1,
+    "alsoRegister": "N4MQ  Deregistered  Cancel: 2010-06-21",
+    "registrationNumber": "N4M",
+    "model": "Argo    Search all Alliance Aircraft Argo"
+}

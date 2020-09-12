@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "001",
+    "engineType": "Turbofan",
+    "address": "Italy",
+    "modelSICAO24Code": null,
+    "manufacture": "Alenia Aermacchi",
+    "deliveryDate": null,
+    "name": "CPX615",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Honeywell F124-GA-200",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "CMX615  registered",
+    "registrationNumber": "CPX615",
+    "model": "M-346 Master    Search all Alenia Aermacchi M-346 Master"
+}

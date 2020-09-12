@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "10137",
+    "engineType": "Reciprocating",
+    "address": "Boucherville Quebec J4B8B6Canada",
+    "modelSICAO24Code": "C08721",
+    "manufacture": "American General",
+    "deliveryDate": "2011-02-11",
+    "name": "C-GZEM",
+    "seats": 4,
+    "type": "Fixed wing multi engine",
+    "owner": "Bombardier",
+    "engineManufacture": "Honeywell AS907-1-1A",
+    "yearBuilt": "1992",
+    "engines": 1,
+    "alsoRegister": "N300SM  De-registered  Cancel: 2008-05-30\nA6-SAM  De-registered\nPR-BSN  De-registered\nN1115J  De-registered\nA6-SMS  De-registered  Delivery: 2004-06-29\nG-LEAZ  De-registered  Delivery: 2012-12-04  Cancel: 2017-05-23\nC-FLAV  Registered  Delivery: 2017-05-24",
+    "registrationNumber": "C-GZEM",
+    "model": "AG-5B Tiger    Search all American General AG-5B"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Stored",
+    "constructNumber": "25508109007",
+    "engineType": "Turbojet",
+    "address": "Bolyarsko Air BaseBulgaria",
+    "modelSICAO24Code": "3B7723",
+    "manufacture": "Sukhoi",
+    "deliveryDate": null,
+    "name": "107",
+    "seats": 1,
+    "type": "Fixed wing multi engine",
+    "owner": "Bulgarian Air Force",
+    "engineManufacture": "Tumansky R-195",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "N1101A  Deregistered  Cancel: 1998-03-23\nF-BLTU  De-registered",
+    "registrationNumber": "107",
+    "model": "Su-25K    Search all Sukhoi Su-25K"
+}

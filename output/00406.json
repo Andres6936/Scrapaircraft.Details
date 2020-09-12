@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "9346801",
+    "engineType": "Turbo-prop",
+    "address": "Afghanistan",
+    "modelSICAO24Code": null,
+    "manufacture": "Antonov",
+    "deliveryDate": null,
+    "name": "00406",
+    "seats": 5,
+    "type": "Fixed wing multi engine",
+    "owner": "Afghan National Army Air Force",
+    "engineManufacture": "Progress AI-20",
+    "yearBuilt": "0000",
+    "engines": 4,
+    "alsoRegister": "EL-ALF  De-registered",
+    "registrationNumber": "00406",
+    "model": "An-12BP    Search all Antonov An-12BP"
+}

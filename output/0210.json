@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "AJG002-10",
+    "engineType": "Turbo-prop",
+    "address": "Poland",
+    "modelSICAO24Code": null,
+    "manufacture": "PZL-Mielec",
+    "deliveryDate": null,
+    "name": "0210",
+    "seats": 19,
+    "type": "Fixed wing multi engine",
+    "owner": "Polish Air Force",
+    "engineManufacture": "Tumansky R-11F-300",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "0210",
+    "model": "M-28 Bryza BTDII    Search all PZL-Mielec M-28 Bryza BTDII"
+}

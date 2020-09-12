@@ -1,19 +1,19 @@
 {
-    "currentStatus": "Withdrawn from service",
-    "constructNumber": "N.7072",
-    "engineType": "Turbojet",
-    "address": "Rygge Air BaseNorway",
+    "currentStatus": "Preserved as GA-125",
+    "constructNumber": "128",
+    "engineType": "Reciprocating",
+    "address": "France",
     "modelSICAO24Code": "3B77C7",
-    "manufacture": "Northrop",
+    "manufacture": "Nord",
     "deliveryDate": "2012-00-00",
     "name": "128",
-    "seats": 1,
+    "seats": 0,
     "type": "Fixed wing multi engine",
-    "owner": "Royal Norwegian Air Force",
-    "engineManufacture": "General Electric J85-GE-13",
+    "owner": "Arm\u00e9e de l'Air (French Air Force)",
+    "engineManufacture": "SNECMA licence-built Bristol Hercules 738/739",
     "yearBuilt": "0000",
     "engines": 2,
     "alsoRegister": "GA-125  Preserved",
     "registrationNumber": "128",
-    "model": "F-5A Freedom Fighter    Search all Northrop F-5A Freedom Fighter"
+    "model": "N-2501 Noratlas    Search all Nord N-2501"
 }

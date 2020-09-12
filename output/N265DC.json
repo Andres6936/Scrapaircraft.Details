@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "23-081",
+    "engineType": "Turbojet",
+    "address": "Orem UT 840572137United States",
+    "modelSICAO24Code": "A291DE",
+    "manufacture": "Learjet",
+    "deliveryDate": "2016-10-21",
+    "name": "N265DC",
+    "seats": 8,
+    "type": "Fixed wing multi engine",
+    "owner": "INTERMOUNTAIN FIXED WING LC",
+    "engineManufacture": "General Electric CJ610",
+    "yearBuilt": "1965",
+    "engines": 2,
+    "alsoRegister": "ZS-MDN  De-registered",
+    "registrationNumber": "N265DC",
+    "model": "23    Search all Learjet 23"
+}

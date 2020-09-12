@@ -1,19 +1,19 @@
 {
     "currentStatus": "On active service",
-    "constructNumber": "53005771",
-    "engineType": "Turbojet",
+    "constructNumber": "10MK2101",
+    "engineType": "Turbofan",
     "address": "Russian Federation",
     "modelSICAO24Code": null,
-    "manufacture": "Ilyushin",
+    "manufacture": "Sukhoi",
     "deliveryDate": "2019-12-11",
     "name": "04",
-    "seats": 3,
+    "seats": 0,
     "type": "Fixed wing multi engine",
     "owner": "Russian Air Force",
-    "engineManufacture": "Klimov VK-1A",
+    "engineManufacture": "Saturn AL-31FL",
     "yearBuilt": "0000",
-    "engines": 2,
+    "engines": 0,
     "alsoRegister": "35317  De-registered",
     "registrationNumber": "04",
-    "model": "Il-28    Search all Ilyushin Il-28"
+    "model": "Su-30MK    Search all Sukhoi Su-30MK"
 }

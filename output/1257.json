@@ -1,19 +1,19 @@
 {
-    "currentStatus": "Withdrawn from service",
-    "constructNumber": "33701629",
+    "currentStatus": "Storage at Ch\u00e2teaudun Air Base",
+    "constructNumber": "1257",
     "engineType": "Turbo-shaft",
-    "address": "Port-au-PrinceHaiti",
+    "address": "France",
     "modelSICAO24Code": null,
-    "manufacture": "Cessna",
+    "manufacture": "A\u00e9rospatiale",
     "deliveryDate": "1998-12-00",
     "name": "1257",
-    "seats": 6,
+    "seats": 19,
     "type": "Rotorcraft",
-    "owner": "Corps d'Aviation d'Haiti",
+    "owner": "Arm\u00e9e de l'Air (French Air Force)",
     "engineManufacture": "Turbom\u00e9ca Turmo lllC4",
     "yearBuilt": "0000",
     "engines": 2,
     "alsoRegister": "N53445  Deregistered  Cancel: 1975-04-23",
     "registrationNumber": "1257",
-    "model": "337G Super Skymaster    Search all Cessna 337G"
+    "model": "SA-330B Puma    Search all A\u00e9rospatiale SA-330B Puma"
 }

@@ -1,19 +1,19 @@
 {
     "currentStatus": "Preserved",
-    "constructNumber": "11",
+    "constructNumber": "1228",
     "engineType": "Turbojet",
-    "address": "Morlaix-Ploujean AirportFrance",
+    "address": "RochefortFrance",
     "modelSICAO24Code": null,
-    "manufacture": "Fouga",
+    "manufacture": "Vought",
     "deliveryDate": "2010-11-00",
     "name": "11",
-    "seats": 2,
-    "type": "Fixed wing multi engine",
-    "owner": "Armor A\u00e9ro Passion (since 2014)",
-    "engineManufacture": "Turbomeca Marbor\u00e9 VI",
+    "seats": 1,
+    "type": "Fixed wing single engine",
+    "owner": "Mus\u00e9e de Tradition de l'Aeronautique Navale",
+    "engineManufacture": "Lycoming AEIO-540-L1B5D",
     "yearBuilt": "0000",
-    "engines": 2,
+    "engines": 1,
     "alsoRegister": "F-GIAC  De-registered\nD-ICIT  De-registered\nN82GA  De-registered",
     "registrationNumber": "11",
-    "model": "CM-175 Zephyr    Search all Fouga CM-175 Zephyr"
+    "model": "F-8P Crusader    Search all Vought F-8P"
 }

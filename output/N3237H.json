@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "5820",
+    "engineType": "Turbo-prop",
+    "address": "",
+    "modelSICAO24Code": "A37CCA",
+    "manufacture": "Chinese A/f Aero Ind Devel Ctr",
+    "deliveryDate": null,
+    "name": "N3237H",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": "SERV AIR INC",
+    "engineManufacture": "Pratt & Whitney Canada PT6A",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "PK-TRW  Registered  Delivery: 1996-02-03",
+    "registrationNumber": "N3237H",
+    "model": "PL-1B    Search all Chinese A/f Aero Ind Devel Ctr PL-1B"
+}

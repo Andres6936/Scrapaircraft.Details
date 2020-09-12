@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "USA001",
+    "engineType": "Turbofan",
+    "address": "",
+    "modelSICAO24Code": "A95807",
+    "manufacture": "Catto Craig C",
+    "deliveryDate": null,
+    "name": "N7008J",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Airesearch TFE731 SER",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "N511TS  Deregistered  Cancel: 2005-08-03\nN9208R  De-registered\nN7008  De-registered\nN760DL  De-registered\nN760DE  De-registered\nXA-JJS  De-registered\nN26MJ  De-registered\nN800AF  De-registered",
+    "registrationNumber": "N7008J",
+    "model": "TST    Search all Catto Craig C TST"
+}

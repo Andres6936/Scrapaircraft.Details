@@ -1,19 +1,19 @@
 {
-    "currentStatus": "Stored",
-    "constructNumber": "0393215766/7942",
+    "currentStatus": "Active service - August 1 team",
+    "constructNumber": "J10AY0513",
     "engineType": "Turbofan",
-    "address": "Graf Ignatievo Air BaseBulgaria",
+    "address": "China",
     "modelSICAO24Code": null,
-    "manufacture": "Mikoyan-Gurevich",
+    "manufacture": "Chengdu",
     "deliveryDate": null,
     "name": "06",
     "seats": 1,
     "type": "Fixed wing single engine",
-    "owner": "Bulgarian Air Force",
-    "engineManufacture": "Tumansky R-29-300",
+    "owner": "People's Liberation Army Air Force",
+    "engineManufacture": "Woshan WS-10A Taihang",
     "yearBuilt": "0000",
     "engines": 1,
     "alsoRegister": "HB-FCV  Manufacturer's registration",
     "registrationNumber": "06",
-    "model": "MiG-23BN    Search all Mikoyan-Gurevich MiG-23BN"
+    "model": "J-10AY    Search all Chengdu J-10AY"
 }

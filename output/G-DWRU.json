@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "PFA 225-13893",
+    "engineType": "Reciprocating",
+    "address": "Salisbury Wiltshire SP4 6FEUnited Kingdom",
+    "modelSICAO24Code": "407306",
+    "manufacture": "Chilton",
+    "deliveryDate": "2017-03-02",
+    "name": "G-DWRU",
+    "seats": 1,
+    "type": "Fixed wing single engine",
+    "owner": "Kristen James Steele",
+    "engineManufacture": null,
+    "yearBuilt": "2017",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "G-DWRU",
+    "model": "DW1A    Search all Chilton DW1A"
+}

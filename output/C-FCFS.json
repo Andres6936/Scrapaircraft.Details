@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "1585",
+    "engineType": "Reciprocating",
+    "address": " OntarioCanada",
+    "modelSICAO24Code": "C005DD",
+    "manufacture": "Cirrus",
+    "deliveryDate": "2011-05-24",
+    "name": "C-FCFS",
+    "seats": 4,
+    "type": "Fixed wing single engine",
+    "owner": "David Codack",
+    "engineManufacture": "Continental IO-360-ES",
+    "yearBuilt": "2005",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "C-FCFS",
+    "model": "SR20    Search all Cirrus SR20"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "22052",
+    "engineType": "Turbofan",
+    "address": "Canada",
+    "modelSICAO24Code": "C00035",
+    "manufacture": "Boeing",
+    "deliveryDate": "2000-12-04",
+    "name": "C-FACA",
+    "seats": 189,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Pratt & Whitney JT8D",
+    "yearBuilt": "1980",
+    "engines": 3,
+    "alsoRegister": "N179PC  Deregistered  Cancel: 2000-11-20\nI-DIRM  De-registered  Delivery: 1980-01-17",
+    "registrationNumber": "C-FACA",
+    "model": "727-243    Search all Boeing 727-243"
+}

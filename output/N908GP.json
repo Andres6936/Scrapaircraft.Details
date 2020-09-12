@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "67",
+    "engineType": "Turbojet",
+    "address": "United States",
+    "modelSICAO24Code": "AC8D88",
+    "manufacture": "Airbus",
+    "deliveryDate": null,
+    "name": "N908GP",
+    "seats": 182,
+    "type": "Fixed wing multi engine",
+    "owner": "Greenpeace Inc",
+    "engineManufacture": "Ama/expr UNKNOWN ENG",
+    "yearBuilt": "1989",
+    "engines": 2,
+    "alsoRegister": "N628AW  Valid",
+    "registrationNumber": "N908GP",
+    "model": "A320-231    Search all Airbus A320-231"
+}

@@ -1,19 +1,19 @@
 {
-    "currentStatus": "Preserved",
-    "constructNumber": "1H-0801",
-    "engineType": "Turbojet",
-    "address": "DeblinPoland",
+    "currentStatus": "de-registered",
+    "constructNumber": "128 (473) 01",
+    "engineType": "Reciprocating",
+    "address": "Kamenz SachsenGermany",
     "modelSICAO24Code": null,
-    "manufacture": "PZL-Mielec",
+    "manufacture": "Antonov",
     "deliveryDate": null,
     "name": "801",
-    "seats": 2,
+    "seats": 14,
     "type": "Fixed wing single engine",
-    "owner": "Muzeum Sil Powietrznych",
-    "engineManufacture": "WSK SO-3W",
+    "owner": "Royal Air Force of Oman",
+    "engineManufacture": "Schwezow ASch-62",
     "yearBuilt": "0000",
     "engines": 1,
     "alsoRegister": "104801  Museums Exhibit  Delivery: 1973-07-26  Cancel: 1982-07-13",
     "registrationNumber": "801",
-    "model": "TS-11 Iskra bis-B    Search all PZL-Mielec TS-11 Iskra bis-B"
+    "model": "An-2TP    Search all Antonov An-2TP"
 }

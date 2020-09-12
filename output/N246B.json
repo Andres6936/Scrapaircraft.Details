@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "5",
+    "engineType": "Reciprocating",
+    "address": "Warwick RI 02886",
+    "modelSICAO24Code": "A24662",
+    "manufacture": "Colonial",
+    "deliveryDate": null,
+    "name": "N246B",
+    "seats": 3,
+    "type": "Fixed wing multi engine",
+    "owner": "EASTAIR CORP",
+    "engineManufacture": "Cont Motor I0-470 SERIES",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N246B",
+    "model": "C-1 Skimmer    Search all Colonial C-1"
+}

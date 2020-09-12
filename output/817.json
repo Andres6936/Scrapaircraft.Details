@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "19347320",
+    "engineType": "Reciprocating",
+    "address": "Germany",
+    "modelSICAO24Code": null,
+    "manufacture": "Antonov",
+    "deliveryDate": null,
+    "name": "817",
+    "seats": 12,
+    "type": "Fixed wing single engine",
+    "owner": "East German Air Force",
+    "engineManufacture": "Teledyne Continental IO-550-N",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "D-FNVA  Registered",
+    "registrationNumber": "817",
+    "model": "An-2    Search all Antonov An-2"
+}

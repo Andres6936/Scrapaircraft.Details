@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "23-033",
+    "engineType": "Turbojet",
+    "address": "Washington DCUnited States",
+    "modelSICAO24Code": "A7C539",
+    "manufacture": "Learjet",
+    "deliveryDate": null,
+    "name": "N60DH",
+    "seats": 8,
+    "type": "Fixed wing multi engine",
+    "owner": "Devil Air Ltd",
+    "engineManufacture": "General Electric CJ610",
+    "yearBuilt": "1965",
+    "engines": 2,
+    "alsoRegister": "N23TJ  Deregistered  Cancel: 1993-01-20",
+    "registrationNumber": "N60DH",
+    "model": "23    Search all Learjet 23"
+}

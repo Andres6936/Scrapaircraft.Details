@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "45778",
+    "engineType": "Turbofan",
+    "address": "Wilmington DE 19805United States",
+    "modelSICAO24Code": "A01DF4",
+    "manufacture": "Douglas",
+    "deliveryDate": null,
+    "name": "N1064T",
+    "seats": 85,
+    "type": "Fixed wing multi engine",
+    "owner": "TARGET AIRWAYS LTD",
+    "engineManufacture": "Pratt & Whitney JT8D-7B",
+    "yearBuilt": "1967",
+    "engines": 2,
+    "alsoRegister": "XA-TIM  Withdrawn from use",
+    "registrationNumber": "N1064T",
+    "model": "DC-9-15    Search all Douglas DC-9-15"
+}

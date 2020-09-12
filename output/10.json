@@ -1,19 +1,19 @@
 {
-    "currentStatus": "Preserved",
-    "constructNumber": "216",
-    "engineType": "Turbojet",
-    "address": "Hatzerim Air BaseIsrael",
+    "currentStatus": "Crashed on January 8, 1990",
+    "constructNumber": "10",
+    "engineType": "Turbofan",
+    "address": "",
     "modelSICAO24Code": null,
     "manufacture": "Dassault",
     "deliveryDate": "2002-10-16",
     "name": "10",
     "seats": 1,
     "type": "Fixed wing single engine",
-    "owner": "Israeli Air Force Museum",
-    "engineManufacture": "Hispano-Suiza Verdon 350",
+    "owner": "Arm\u00e9e de l'Air (French Air Force)",
+    "engineManufacture": "SNECMA M53",
     "yearBuilt": "0000",
     "engines": 1,
-    "alsoRegister": "D-HCBP  Test registered",
+    "alsoRegister": "HA-ANA  Preserved",
     "registrationNumber": "10",
-    "model": "Mystere IVA    Search all Dassault Mystere IVA"
+    "model": "Mirage 2000C    Search all Dassault Mirage 2000C"
 }

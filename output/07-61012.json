@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "FA-57",
+    "engineType": "Turbo-prop",
+    "address": "Fort Bliss TexasUnited States",
+    "modelSICAO24Code": null,
+    "manufacture": "Beech",
+    "deliveryDate": null,
+    "name": "07-61012",
+    "seats": 19,
+    "type": "Fixed wing multi engine",
+    "owner": "United States Army",
+    "engineManufacture": "Pratt & Whitney Canada PT6A-60A",
+    "yearBuilt": "1985",
+    "engines": 2,
+    "alsoRegister": "N75ME  Valid",
+    "registrationNumber": "07-61012",
+    "model": "300    Search all Beech 300"
+}

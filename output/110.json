@@ -1,19 +1,19 @@
 {
     "currentStatus": "De-registered",
-    "constructNumber": "4224",
-    "engineType": "Turbojet",
-    "address": "Israel",
+    "constructNumber": "003308",
+    "engineType": "Reciprocating",
+    "address": "Bulgarian Museum of Aviation-LBPGKrumovo Plovdiv 4000Bulgaria",
     "modelSICAO24Code": null,
-    "manufacture": "McDonnell Douglas",
+    "manufacture": "Antonov",
     "deliveryDate": null,
     "name": "110",
-    "seats": 2,
+    "seats": 10,
     "type": "Fixed wing multi engine",
-    "owner": "Israel Air & Space Defence Force",
-    "engineManufacture": "General Electric J79-GE-15",
+    "owner": "Bulgaria Air Force / Bulgarian Museum of Aviation,",
+    "engineManufacture": "Ivchenko Vedeneyev AI-14RF",
     "yearBuilt": "0000",
     "engines": 2,
     "alsoRegister": "4X-DZV  Registered",
     "registrationNumber": "110",
-    "model": "F-4E Phantom II    Search all McDonnell Douglas F-4E Phantom II"
+    "model": "An-14A Pchelka    Search all Antonov An-14A Pchelka"
 }

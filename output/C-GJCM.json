@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "256040",
+    "engineType": "Turbojet",
+    "address": "VancouverCanada",
+    "modelSICAO24Code": "C05CAD",
+    "manufacture": "Beechcraft-Hawker",
+    "deliveryDate": "1999-06-28",
+    "name": "C-GJCM",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Daon Development Coporation",
+    "engineManufacture": "Rolls-Royce Viper 601",
+    "yearBuilt": "1974",
+    "engines": 2,
+    "alsoRegister": "N41BH  De-registered\nN601BA  De-registered  Delivery: 1984-09-19",
+    "registrationNumber": "C-GJCM",
+    "model": "BH-125-600A    Search all Beechcraft-Hawker BH-125-600A"
+}

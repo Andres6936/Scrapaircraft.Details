@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "256014",
+    "engineType": "Turbojet",
+    "address": "Salt Lake City UT 84111United States",
+    "modelSICAO24Code": "A5BF84",
+    "manufacture": "Beechcraft-Hawker",
+    "deliveryDate": null,
+    "name": "N47HV",
+    "seats": 11,
+    "type": "Fixed wing multi engine",
+    "owner": "Wells Fargo Bank Northwest Na Trustee",
+    "engineManufacture": "Rolls-royc VIPER MK 601",
+    "yearBuilt": "1973",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "N47HV",
+    "model": "BH-125-600A    Search all Beechcraft-Hawker BH-125-600A"
+}

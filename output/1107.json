@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "105407",
+    "engineType": "Turbojet",
+    "address": "Austria",
+    "modelSICAO24Code": "3AABB9",
+    "manufacture": "Saab",
+    "deliveryDate": null,
+    "name": "1107",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": "AUSTRIAN AIR FORCE",
+    "engineManufacture": "General Electric J85-17B",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "1107",
+    "model": "105OE    Search all Saab 105OE"
+}

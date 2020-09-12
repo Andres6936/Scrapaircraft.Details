@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Active service with EC01.091",
+    "constructNumber": "352",
+    "engineType": "Turbofan",
+    "address": "Base A\u00e9rienne 113 St. DizierFrance",
+    "modelSICAO24Code": null,
+    "manufacture": "Dassault",
+    "deliveryDate": null,
+    "name": "352",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": "Arm\u00e9e de l'Air (French Air Force)",
+    "engineManufacture": "SNECMA M88-2",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "G-PROV  Registered\nXS228  De-registered\nG-27-7  De-registered\n104  De-registered",
+    "registrationNumber": "352",
+    "model": "Rafale B    Search all Dassault Rafale B"
+}

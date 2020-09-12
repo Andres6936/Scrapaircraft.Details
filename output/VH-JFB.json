@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "11521",
+    "engineType": "Turbofan",
+    "address": "Eagle Farm Qld 4009Australia",
+    "modelSICAO24Code": "7C2E45",
+    "manufacture": "Fokker",
+    "deliveryDate": "2013-10-21",
+    "name": "VH-JFB",
+    "seats": 69,
+    "type": "Fixed wing multi engine",
+    "owner": "Alliance Airlines Pty Ltd",
+    "engineManufacture": "Rolls-Royce Tay 620-15",
+    "yearBuilt": "1994",
+    "engines": 2,
+    "alsoRegister": "HP-1731PST  De-registered  Delivery: 2010-09-10",
+    "registrationNumber": "VH-JFB",
+    "model": "70 (F-28-0070)    Search all Fokker 70 (F-28-0070)"
+}

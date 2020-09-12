@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "S-323",
+    "engineType": "Turbo-shaft",
+    "address": "Riffa Air BaseBahrain",
+    "modelSICAO24Code": null,
+    "manufacture": "MBB",
+    "deliveryDate": null,
+    "name": "1063",
+    "seats": 5,
+    "type": "Rotorcraft",
+    "owner": "Royal Bahraini Air Force",
+    "engineManufacture": "Allison 250-C20B",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "1063",
+    "model": "Bo.105C    Search all MBB Bo.105C"
+}

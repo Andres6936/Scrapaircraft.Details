@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "BAC.201",
+    "engineType": "Turbofan",
+    "address": "Cyprus",
+    "modelSICAO24Code": null,
+    "manufacture": "BAC",
+    "deliveryDate": null,
+    "name": "5B-DAF",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Cyprus Airways",
+    "engineManufacture": "Rolls-Royce Spey 512-14",
+    "yearBuilt": "1969",
+    "engines": 2,
+    "alsoRegister": "EI-CDO  De-registered\nG-AXMG  De-registered  Delivery: 1969-12-18\nG-FLRU  De-registered  Delivery: 1990-05-04  Cancel: 1991-05-02\nZS-NMT  De-registered  Delivery: 1995-02-00",
+    "registrationNumber": "5B-DAF",
+    "model": "111-518FG One-Eleven    Search all BAC 111-518FG One-Eleven"
+}

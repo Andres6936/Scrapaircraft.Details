@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "34295",
+    "engineType": "Reciprocating",
+    "address": "Richmond British Columbia V7B 1W2Canada",
+    "modelSICAO24Code": "C032C4",
+    "manufacture": "Douglas",
+    "deliveryDate": "1995-05-16",
+    "name": "C-FTFV",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Waglisla Air Incorporated",
+    "engineManufacture": "Pratt & Whitney R-1830-90 Twin Wasp",
+    "yearBuilt": "1945",
+    "engines": 2,
+    "alsoRegister": "HK-3359  Registered",
+    "registrationNumber": "C-FTFV",
+    "model": "DC-3    Search all Douglas DC-3"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "2214",
+    "engineType": "Reciprocating",
+    "address": "Germany",
+    "modelSICAO24Code": null,
+    "manufacture": "Aviat",
+    "deliveryDate": "2019-02-04",
+    "name": "D-EANX",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": null,
+    "engineManufacture": "Lycoming O-360-A1P",
+    "yearBuilt": "2002",
+    "engines": 1,
+    "alsoRegister": "G-HUSK  De-registered  Delivery: 2003-01-02  Cancel: 2019-02-28",
+    "registrationNumber": "D-EANX",
+    "model": "A-1B Husky    Search all Aviat A-1B"
+}

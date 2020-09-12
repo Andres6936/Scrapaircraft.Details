@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "CN2",
+    "engineType": "Reciprocating",
+    "address": "Naperville IL 60565United States",
+    "modelSICAO24Code": "A320EA",
+    "manufacture": "Beech-nogle",
+    "deliveryDate": null,
+    "name": "N300SH",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": "LIMA LIMA FLYING SQUADRON INC",
+    "engineManufacture": "Cont Motor TSIO-520 SER",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N300SH",
+    "model": "D-45    Search all Beech-nogle D-45"
+}

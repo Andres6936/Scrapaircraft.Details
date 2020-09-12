@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Valid",
+    "constructNumber": "256055",
+    "engineType": "Turbojet",
+    "address": "Houston TX 77032United States",
+    "modelSICAO24Code": "A031B9",
+    "manufacture": "Beechcraft-Hawker",
+    "deliveryDate": null,
+    "name": "N111UN",
+    "seats": 11,
+    "type": "Fixed wing multi engine",
+    "owner": "Arnoni Aviation Ltd",
+    "engineManufacture": "Rolls-royc VIPER MK 601",
+    "yearBuilt": "1976",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "N111UN",
+    "model": "BH-125-600A    Search all Beechcraft-Hawker BH-125-600A"
+}

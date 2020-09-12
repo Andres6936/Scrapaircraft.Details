@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Withdrawn from service",
+    "constructNumber": "26744",
+    "engineType": "Turbo-prop",
+    "address": "Base A\u00e9rienne 101 Bamako-SenouMali",
+    "modelSICAO24Code": null,
+    "manufacture": "Basler",
+    "deliveryDate": null,
+    "name": "TZ-389",
+    "seats": 32,
+    "type": "Fixed wing multi engine",
+    "owner": "Force A\u00e9rienne de la Republique du Mali",
+    "engineManufacture": "Pratt & Whitney Canada PT6A-67R",
+    "yearBuilt": "1943",
+    "engines": 2,
+    "alsoRegister": "N300BF  Valid",
+    "registrationNumber": "TZ-389",
+    "model": "BT-67    Search all Basler BT-67"
+}

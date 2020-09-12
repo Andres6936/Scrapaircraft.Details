@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "10",
+    "engineType": "Ramjet",
+    "address": "North Judson IN 46366",
+    "modelSICAO24Code": "A6136A",
+    "manufacture": "Experimental",
+    "deliveryDate": null,
+    "name": "N4907E",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": null,
+    "engineManufacture": "Rotax 582DCDI",
+    "yearBuilt": "1958",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N4907E",
+    "model": "GYRO-COPTER    Search all Experimental GYRO-COPTER"
+}

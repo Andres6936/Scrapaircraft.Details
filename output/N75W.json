@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "282-129",
+    "engineType": "Turbojet",
+    "address": "Detroit MichiganUnited States",
+    "modelSICAO24Code": "AA19A4",
+    "manufacture": "North American",
+    "deliveryDate": null,
+    "name": "N75W",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Michigan Wisconsin Pipeline Company",
+    "engineManufacture": "Pratt & Whitney Canada PT6A-67P",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "XA-RLH  Registered",
+    "registrationNumber": "N75W",
+    "model": "Sabre 40A    Search all North American Sabre 40A"
+}

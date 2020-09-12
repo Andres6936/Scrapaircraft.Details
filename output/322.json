@@ -1,0 +1,19 @@
+{
+    "currentStatus": "active",
+    "constructNumber": "322",
+    "engineType": "Turbofan",
+    "address": "France",
+    "modelSICAO24Code": null,
+    "manufacture": "Dassault",
+    "deliveryDate": null,
+    "name": "322",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": "EC01.007",
+    "engineManufacture": "Continental O-470-11 rated at 213 hp.",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "LN-SAQ  Registered",
+    "registrationNumber": "322",
+    "model": "Rafale B    Search all Dassault Rafale B"
+}

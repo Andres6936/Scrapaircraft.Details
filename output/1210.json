@@ -1,19 +1,19 @@
 {
     "currentStatus": "On active service",
-    "constructNumber": "S-1210",
-    "engineType": "Reciprocating",
-    "address": "Thailand",
+    "constructNumber": "36539",
+    "engineType": "Turbo-shaft",
+    "address": "Mexico",
     "modelSICAO24Code": null,
-    "manufacture": "Schweizer",
+    "manufacture": "Bell",
     "deliveryDate": null,
     "name": "1210",
-    "seats": 2,
+    "seats": 15,
     "type": "Rotorcraft",
-    "owner": "Royal Thai Army Aviation",
-    "engineManufacture": "Lycoming HIO-360-D1A",
+    "owner": "Fuerza A\u00e9rea Mexicana",
+    "engineManufacture": "P & W Canada PT6T-3BE",
     "yearBuilt": "0000",
-    "engines": 1,
+    "engines": 2,
     "alsoRegister": "N354FH  Deregistered  Cancel: 2010-10-27",
     "registrationNumber": "1210",
-    "model": "TH-300C    Search all Schweizer TH-300C"
+    "model": "412EP    Search all Bell 412EP"
 }

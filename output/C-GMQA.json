@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "T34-013",
+    "engineType": "Turbo Prop",
+    "address": "Saint John New Brunswick E2L4M3Canada",
+    "modelSICAO24Code": "C065F9",
+    "manufacture": "Ayres",
+    "deliveryDate": "1980-04-30",
+    "name": "C-GMQA",
+    "seats": 1,
+    "type": null,
+    "owner": "Forest Patrol Ltd",
+    "engineManufacture": null,
+    "yearBuilt": "1979",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "C-GMQA",
+    "model": "S2R-T34 Thrush    Search all Ayres S2R-T34"
+}

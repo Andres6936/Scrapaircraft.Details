@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "E.2389",
+    "engineType": "Turbofan",
+    "address": "Hatfield AL10 9NEUnited Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "BAE Systems",
+    "deliveryDate": "2013-02-21",
+    "name": "G-CHSF",
+    "seats": 84,
+    "type": "Fixed wing multi engine",
+    "owner": "Triangle Regional Aircraft Leasing Ltd",
+    "engineManufacture": "Lycoming LF507-1F",
+    "yearBuilt": "2001",
+    "engines": 4,
+    "alsoRegister": "OH-SAK  De-registered\nG-6-389  De-registered",
+    "registrationNumber": "G-CHSF",
+    "model": "Avro 146-RJ85    Search all BAE Systems Avro 146-RJ85"
+}

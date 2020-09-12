@@ -1,19 +1,19 @@
 {
-    "currentStatus": "Withdrawn from service",
-    "constructNumber": "138",
+    "currentStatus": "De-registered 138 Yellow",
+    "constructNumber": "8910206",
     "engineType": "Reciprocating",
-    "address": "France",
+    "address": "DOSAAFRussian Federation",
     "modelSICAO24Code": null,
-    "manufacture": "Mudry",
+    "manufacture": "Yakovlev",
     "deliveryDate": null,
     "name": "138",
     "seats": 2,
     "type": "Fixed wing single engine",
     "owner": "Arm\u00e9e de l'Air (French Air Force)",
-    "engineManufacture": "Lycoming AEIO-360",
+    "engineManufacture": "Vedeneyev M-14P",
     "yearBuilt": "0000",
     "engines": 1,
-    "alsoRegister": "F-GOUP  Registered",
+    "alsoRegister": "LY-AFQ ",
     "registrationNumber": "138",
-    "model": "CAP-10B    Search all Mudry CAP-10B"
+    "model": "Yak-52    Search all Yakovlev Yak-52"
 }

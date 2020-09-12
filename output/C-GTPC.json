@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "256025",
+    "engineType": "Turbojet",
+    "address": "Dorval Quebec H9P 1A2Canada",
+    "modelSICAO24Code": null,
+    "manufacture": "Beechcraft-Hawker",
+    "deliveryDate": "2008-02-20",
+    "name": "C-GTPC",
+    "seats": 11,
+    "type": "Fixed wing multi engine",
+    "owner": "Execaire Inc",
+    "engineManufacture": "Rolls-Royce Viper 601",
+    "yearBuilt": "1973",
+    "engines": 2,
+    "alsoRegister": "N721LH  Valid",
+    "registrationNumber": "C-GTPC",
+    "model": "BH-125-600A    Search all Beechcraft-Hawker BH-125-600A"
+}

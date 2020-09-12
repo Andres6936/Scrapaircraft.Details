@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Withdrawn from service",
+    "constructNumber": "EEP/JP/1943",
+    "engineType": "Turbojet",
+    "address": "Oman",
+    "modelSICAO24Code": null,
+    "manufacture": "BAC",
+    "deliveryDate": null,
+    "name": "409",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": "Royal Air Force of Oman",
+    "engineManufacture": "General Electric F404-GE-402",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "331  Withdrawn from service\nN311MM  De-registered",
+    "registrationNumber": "409",
+    "model": "167 Strikemaster Mk.82    Search all BAC 167 Strikemaster Mk.82"
+}

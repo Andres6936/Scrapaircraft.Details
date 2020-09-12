@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Valid",
+    "constructNumber": "256022",
+    "engineType": "Turbojet",
+    "address": "Houston TX 77032United States",
+    "modelSICAO24Code": "A1C022",
+    "manufacture": "Beechcraft-Hawker",
+    "deliveryDate": null,
+    "name": "N2114E",
+    "seats": 11,
+    "type": "Fixed wing multi engine",
+    "owner": "Arnoni Aviation Inc",
+    "engineManufacture": "Rolls-royc VIPER MK 601",
+    "yearBuilt": "1973",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "N2114E",
+    "model": "BH-125-600A    Search all Beechcraft-Hawker BH-125-600A"
+}

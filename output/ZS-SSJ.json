@@ -1,0 +1,19 @@
+{
+    "currentStatus": "active",
+    "constructNumber": "E.2385",
+    "engineType": "Turbofan",
+    "address": "South Africa",
+    "modelSICAO24Code": "00B176",
+    "manufacture": "BAE Systems",
+    "deliveryDate": "2010-12-03",
+    "name": "ZS-SSJ",
+    "seats": 85,
+    "type": "Fixed wing multi engine",
+    "owner": "South African Airlink",
+    "engineManufacture": "Lycoming LF507-1F",
+    "yearBuilt": "2001",
+    "engines": 4,
+    "alsoRegister": "G-LCYC  De-Registered\nOH-SAI  De-Registered\nG-6-385  De-registered",
+    "registrationNumber": "ZS-SSJ",
+    "model": "Avro 146-RJ85    Search all BAE Systems Avro 146-RJ85"
+}

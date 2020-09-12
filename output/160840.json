@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service with TAW-4",
+    "constructNumber": "LL-2",
+    "engineType": "Turbo-prop",
+    "address": "Corpus Christi NAS TexasUnited States",
+    "modelSICAO24Code": null,
+    "manufacture": "Beechcraft",
+    "deliveryDate": null,
+    "name": "160840",
+    "seats": 8,
+    "type": "Fixed wing multi engine",
+    "owner": "United States Navy",
+    "engineManufacture": "Pratt & Whitney Canada PT6A-34B",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "160840",
+    "model": "T-44A Pegasus    Search all Beechcraft T-44A Pegasus"
+}

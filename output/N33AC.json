@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "42927/ATL98/19",
+    "engineType": "Reciprocating",
+    "address": "Tarzana CA 91356",
+    "modelSICAO24Code": "A39379",
+    "manufacture": "Aviation Traders",
+    "deliveryDate": null,
+    "name": "N33AC",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Pratt & Whitney R-2000-7M3 Wasp",
+    "yearBuilt": "1945",
+    "engines": 4,
+    "alsoRegister": null,
+    "registrationNumber": "N33AC",
+    "model": "ATL-98A Carvair    Search all Aviation Traders ATL-98A Carvair"
+}

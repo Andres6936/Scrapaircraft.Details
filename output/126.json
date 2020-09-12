@@ -1,19 +1,19 @@
 {
-    "currentStatus": "scrapped",
+    "currentStatus": "Active service with EC 02.030",
     "constructNumber": "126",
-    "engineType": "None",
-    "address": "France",
+    "engineType": "Turbofan",
+    "address": "Base A\u00e9rienne 118 Mont-de-MarsanFrance",
     "modelSICAO24Code": null,
     "manufacture": "Dassault",
     "deliveryDate": "1987-07-15",
     "name": "126",
-    "seats": 0,
-    "type": "Fixed wing single engine",
+    "seats": 1,
+    "type": "Fixed wing multi engine",
     "owner": "Arm\u00e9e de l'Air (French Air Force)",
-    "engineManufacture": "SNECMA Atar 101 D3",
+    "engineManufacture": "SNECMA M88-2",
     "yearBuilt": "0000",
-    "engines": 1,
+    "engines": 2,
     "alsoRegister": "F-BTSN  Crashed on April 5, 2018",
     "registrationNumber": "126",
-    "model": "MD.452 Myst\u00e8re IIC    Search all Dassault MD.452 Myst\u00e8re IIC"
+    "model": "Rafale C    Search all Dassault Rafale C"
 }

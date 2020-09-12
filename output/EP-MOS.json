@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "E.2347",
+    "engineType": "Turbofan",
+    "address": "TehranIran (Islamic Republic of)",
+    "modelSICAO24Code": "7335F3",
+    "manufacture": "BAE Systems",
+    "deliveryDate": "2015-09-04",
+    "name": "EP-MOS",
+    "seats": 85,
+    "type": "Fixed wing multi engine",
+    "owner": "Mahan Air",
+    "engineManufacture": "Lycoming LF507-1F",
+    "yearBuilt": "1999",
+    "engines": 4,
+    "alsoRegister": "G-6-347  Test registration\nN522XJ  Deregistered  Delivery: 1999-03-22  Cancel: 2007-05-29\nG-CEIF  De-registered  Delivery: 2007-05-29\nEI-RJJ  Deregistered  Delivery: 2008-02-01  Cancel: 2014-10-31",
+    "registrationNumber": "EP-MOS",
+    "model": "Avro 146-RJ85    Search all BAE Systems Avro 146-RJ85"
+}

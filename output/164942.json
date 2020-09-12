@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Withdrawn from service",
+    "constructNumber": "D0010",
+    "engineType": "Turbo-shaft",
+    "address": "NAS Patuxent River MarylandUnited States",
+    "modelSICAO24Code": null,
+    "manufacture": "Bell-Boeing",
+    "deliveryDate": null,
+    "name": "164942",
+    "seats": 28,
+    "type": "Rotorcraft",
+    "owner": "United States Marine Corps",
+    "engineManufacture": "Rolls-Royce/Allison T406-AS-400",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "164942",
+    "model": "MV-22B Osprey    Search all Bell-Boeing MV-22B Osprey"
+}

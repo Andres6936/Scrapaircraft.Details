@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "1104",
+    "engineType": "Turbo-prop",
+    "address": "Romania",
+    "modelSICAO24Code": null,
+    "manufacture": "Antonov",
+    "deliveryDate": null,
+    "name": "1104",
+    "seats": 7,
+    "type": "Fixed wing multi engine",
+    "owner": "Fortele Aeriene Romane (Romanian Air Force)",
+    "engineManufacture": "ZMKB Progress AI-24T",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "G-SMAS  De-registered  Delivery: 2005-04-25  Cancel: 2016-09-28\nN702MF  Registered  Delivery: 2016-11-08",
+    "registrationNumber": "1104",
+    "model": "An-30    Search all Antonov An-30"
+}

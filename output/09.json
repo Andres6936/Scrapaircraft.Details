@@ -1,19 +1,19 @@
 {
-    "currentStatus": "Preserved",
-    "constructNumber": "N94210425",
+    "currentStatus": "De-registered",
+    "constructNumber": "35-1409",
     "engineType": "Turbojet",
-    "address": "MoscowRussian Federation",
+    "address": "Fliegermuseum in ZeltwegZeltwegAustria",
     "modelSICAO24Code": null,
-    "manufacture": "Mikoyan-Gurevich",
+    "manufacture": "Saab",
     "deliveryDate": null,
     "name": "09",
     "seats": 1,
     "type": "Fixed wing single engine",
-    "owner": "Victory Park Memorial",
-    "engineManufacture": "Tumansky",
+    "owner": "Polish Air Force",
+    "engineManufacture": "Volvo Flygmotor RM6C",
     "yearBuilt": "0000",
     "engines": 1,
     "alsoRegister": "35336  De-registered",
     "registrationNumber": "09",
-    "model": "MiG-21PFS    Search all Mikoyan-Gurevich MiG-21PFS"
+    "model": "J-35Oe MkII Draken    Search all Saab J-35Oe MkII Draken"
 }

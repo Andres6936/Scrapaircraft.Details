@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "1D0404",
+    "engineType": "Turbojet",
+    "address": "Polish Air ForcePoland",
+    "modelSICAO24Code": null,
+    "manufacture": "PZL-Mielec",
+    "deliveryDate": null,
+    "name": "404",
+    "seats": 1,
+    "type": "Fixed wing single engine",
+    "owner": "Philippine Naval Air Group",
+    "engineManufacture": "Klimov VK-1F",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "328  On US civil register as N21444",
+    "registrationNumber": "404",
+    "model": "Lim-5P    Search all PZL-Mielec Lim-5P"
+}

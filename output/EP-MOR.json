@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "E.2392",
+    "engineType": "Turbofan",
+    "address": "TehranIran (Islamic Republic of)",
+    "modelSICAO24Code": "7335F2",
+    "manufacture": "BAE Systems",
+    "deliveryDate": null,
+    "name": "EP-MOR",
+    "seats": 84,
+    "type": "Fixed wing multi engine",
+    "owner": "Mahan Air",
+    "engineManufacture": "Lycoming LF507-1F",
+    "yearBuilt": "2001",
+    "engines": 4,
+    "alsoRegister": "G-6-392  De-registered\nOH-SAL  De-registered  Delivery: 2004-01-01  Cancel: 2012-00-00\nSE-DJR  De-registered  Delivery: 2012-05-24\nG-CIFG  De-registered  Delivery: 2014-09-04  Cancel: 2015-05-07\nZS-TFV  Registered  Delivery: 2015-04-28",
+    "registrationNumber": "EP-MOR",
+    "model": "Avro 146-RJ85    Search all BAE Systems Avro 146-RJ85"
+}

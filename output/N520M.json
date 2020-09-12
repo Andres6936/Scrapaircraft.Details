@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "18",
+    "engineType": "Turbofan",
+    "address": "",
+    "modelSICAO24Code": "A68A01",
+    "manufacture": "Bach Aircraft Co",
+    "deliveryDate": null,
+    "name": "N520M",
+    "seats": 10,
+    "type": "Fixed wing multi engine",
+    "owner": "PHILLIPPI EQUIPMENT CO",
+    "engineManufacture": "AiResearch TFE731",
+    "yearBuilt": "1929",
+    "engines": 3,
+    "alsoRegister": "N5523L  De-registered\nXB-DBS  De-registered",
+    "registrationNumber": "N520M",
+    "model": "3-CT-9    Search all Bach Aircraft Co 3-CT-9"
+}

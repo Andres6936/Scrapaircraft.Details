@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "730",
+    "engineType": "Reciprocating",
+    "address": "Ireland",
+    "modelSICAO24Code": null,
+    "manufacture": "Avro",
+    "deliveryDate": null,
+    "name": "EI-AGO",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": null,
+    "engineManufacture": null,
+    "yearBuilt": "1934",
+    "engines": 1,
+    "alsoRegister": "ZK-AVR  Registered\nEI-AFO  Re-registered\nC7  Preserved",
+    "registrationNumber": "EI-AGO",
+    "model": "631 Cadet    Search all Avro 631 Cadet"
+}

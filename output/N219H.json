@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "10",
+    "engineType": "Reciprocating",
+    "address": "Nome AK 99762",
+    "modelSICAO24Code": "A1DBA0",
+    "manufacture": "Bach Aircraft Co",
+    "deliveryDate": null,
+    "name": "N219H",
+    "seats": 10,
+    "type": "Fixed wing single engine",
+    "owner": "Flight Tech Inc",
+    "engineManufacture": "Cont Motor A&C75 SERIES",
+    "yearBuilt": "0000",
+    "engines": 3,
+    "alsoRegister": null,
+    "registrationNumber": "N219H",
+    "model": "3-CT-6    Search all Bach Aircraft Co 3-CT-6"
+}

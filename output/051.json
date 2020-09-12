@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Withdrawn from service",
+    "constructNumber": "107",
+    "engineType": "Turbo-prop",
+    "address": "93rd Air Base Zemunik ZadarCroatia",
+    "modelSICAO24Code": null,
+    "manufacture": "Pilatus",
+    "deliveryDate": null,
+    "name": "051",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": "Croatian Air Force",
+    "engineManufacture": "Pratt & Whitney Canada 950 shp PT6A-62",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "HB-HPF  deregistered",
+    "registrationNumber": "051",
+    "model": "PC-9    Search all Pilatus PC-9"
+}

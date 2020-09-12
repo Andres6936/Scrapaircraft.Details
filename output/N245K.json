@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "15",
+    "engineType": "Turbofan",
+    "address": "Van Nuys CA 91316",
+    "modelSICAO24Code": "A24373",
+    "manufacture": "Bach Aircraft Co",
+    "deliveryDate": null,
+    "name": "N245K",
+    "seats": 10,
+    "type": "Fixed wing multi engine",
+    "owner": "BACH AIRCRAFT CO INC",
+    "engineManufacture": "Honeywell TFE731-20AR",
+    "yearBuilt": "0000",
+    "engines": 3,
+    "alsoRegister": null,
+    "registrationNumber": "N245K",
+    "model": "3-CT-8    Search all Bach Aircraft Co 3-CT-8"
+}

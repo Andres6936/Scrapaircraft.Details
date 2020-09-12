@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Assigned to Base Flight duty",
+    "constructNumber": "FM-71",
+    "engineType": "Turbo-prop",
+    "address": "MCAS FutenmaJapan",
+    "modelSICAO24Code": null,
+    "manufacture": "Beechcraft",
+    "deliveryDate": "2018-12-20",
+    "name": "169539",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "United States Marine Corps",
+    "engineManufacture": "Pratt & Whitney Canada PT6A-60A",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "169539",
+    "model": "UC-12W    Search all Beechcraft UC-12W"
+}

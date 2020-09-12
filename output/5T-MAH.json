@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "12543",
+    "engineType": "Turbo-prop",
+    "address": "Mauritania",
+    "modelSICAO24Code": null,
+    "manufacture": "Basler",
+    "deliveryDate": null,
+    "name": "5T-MAH",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Force Aerienne Islamique de Mauritanie",
+    "engineManufacture": "Pratt & Whitney Canada PT6A-67R 1424hp",
+    "yearBuilt": "1944",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "5T-MAH",
+    "model": "BT-67    Search all Basler BT-67"
+}

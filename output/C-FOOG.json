@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "24292",
+    "engineType": "Turbofan",
+    "address": "Canada",
+    "modelSICAO24Code": "C0266B",
+    "manufacture": "Boeing",
+    "deliveryDate": "2007-08-17",
+    "name": "C-FOOG",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Rainbow Balloons Ltd.",
+    "engineManufacture": "Rolls-Royce RB211-535E4",
+    "yearBuilt": "1989",
+    "engines": 2,
+    "alsoRegister": "G-OJIB  De-registered\nC-GOOG  De-registered\nN938FD  Valid\nG-OOOG  De-registered  Delivery: 1989-03-29",
+    "registrationNumber": "C-FOOG",
+    "model": "757-23A (SF)    Search all Boeing 757-23A (SF)"
+}

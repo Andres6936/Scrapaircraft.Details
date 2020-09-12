@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "E.3387",
+    "engineType": "Turbofan",
+    "address": "Qatar",
+    "modelSICAO24Code": null,
+    "manufacture": "Avro",
+    "deliveryDate": "1979-02-01",
+    "name": "A7-AAB",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Qatar Amiri Flight",
+    "engineManufacture": "Lycoming LF507-1F",
+    "yearBuilt": "0000",
+    "engines": 4,
+    "alsoRegister": "VP-CZY  Exported to Canada  Delivery: 1997-10-00",
+    "registrationNumber": "A7-AAB",
+    "model": "RJ100    Search all Avro RJ100"
+}

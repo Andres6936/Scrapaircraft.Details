@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "23",
+    "engineType": "Turbo-prop",
+    "address": "Glendale CA 91201",
+    "modelSICAO24Code": "A05ED3",
+    "manufacture": "Bach Aircraft Co",
+    "deliveryDate": null,
+    "name": "N12297",
+    "seats": 1,
+    "type": "Fixed wing single engine",
+    "owner": "Individual",
+    "engineManufacture": "Pratt & Whitney PT6A-114A",
+    "yearBuilt": "1933",
+    "engines": 1,
+    "alsoRegister": "CN-TSZ  active\nN52626  De-registered",
+    "registrationNumber": "N12297",
+    "model": "3-CT-9K    Search all Bach Aircraft Co 3-CT-9K"
+}

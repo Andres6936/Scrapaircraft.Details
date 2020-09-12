@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "105425",
+    "engineType": "Turbojet",
+    "address": "Austria",
+    "modelSICAO24Code": null,
+    "manufacture": "Saab",
+    "deliveryDate": null,
+    "name": "1125",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": "Austrian Air Force",
+    "engineManufacture": "General Electric J85-17B",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "113  De-registered\nOJ6  De-registered\nZU-PER  De-registered\nG-27-154  Manufacturer test registered\nG-CFBK  De-registered  Cancel: 2015-06-24\nVH-AOE  Registered  Delivery: 2016-10-27",
+    "registrationNumber": "1125",
+    "model": "105OE    Search all Saab 105OE"
+}

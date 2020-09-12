@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Instructional airframe",
+    "constructNumber": "AJG001-06",
+    "engineType": "Turbo-prop",
+    "address": "Poland",
+    "modelSICAO24Code": null,
+    "manufacture": "PZL-Mielec",
+    "deliveryDate": null,
+    "name": "1115",
+    "seats": 18,
+    "type": "Fixed wing multi engine",
+    "owner": "Marynarka Wojenna RP (Polish Navy)",
+    "engineManufacture": "WSK PZL-Rzeszow PZL-10S",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "F-ZBAN ",
+    "registrationNumber": "1115",
+    "model": "M-28B1R Bryza 1R    Search all PZL-Mielec M-28B1R Bryza 1R"
+}

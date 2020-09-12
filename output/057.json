@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service",
+    "constructNumber": "620",
+    "engineType": "Turbo-prop",
+    "address": "Croatia",
+    "modelSICAO24Code": null,
+    "manufacture": "Pilatus",
+    "deliveryDate": null,
+    "name": "057",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": "Croatian Air Force",
+    "engineManufacture": "Pratt & Whitney Canada PT6A-62",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "HU10-16  Withdrawn from service",
+    "registrationNumber": "057",
+    "model": "PC-9M    Search all Pilatus PC-9M"
+}

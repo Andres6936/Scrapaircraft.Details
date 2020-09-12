@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Written off on June 2, 1982",
+    "constructNumber": "47200",
+    "engineType": "Turbofan",
+    "address": "Montreal Quebec H3B 3P7Canada",
+    "modelSICAO24Code": "C03363",
+    "manufacture": "Douglas",
+    "deliveryDate": "1968-07-11",
+    "name": "C-FTLY",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Air Canada",
+    "engineManufacture": "Pratt & Whitney JT8D-7A",
+    "yearBuilt": "1968",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "C-FTLY",
+    "model": "DC-9-32    Search all Douglas DC-9-32"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "E.2389",
+    "engineType": "Turbofan",
+    "address": "United Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "BAE Systems",
+    "deliveryDate": null,
+    "name": "G-6-389",
+    "seats": 84,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Lycoming LF507-1F",
+    "yearBuilt": "2001",
+    "engines": 4,
+    "alsoRegister": "OH-SAK  De-registered\nG-CHSF  Registered  Delivery: 2013-02-21",
+    "registrationNumber": "G-6-389",
+    "model": "Avro 146-RJ85    Search all BAE Systems Avro 146-RJ85"
+}

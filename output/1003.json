@@ -1,19 +1,19 @@
 {
-    "currentStatus": "Museum exhibit",
-    "constructNumber": "2550811003",
-    "engineType": "Turbojet",
-    "address": "BrnoCzech Republic",
+    "currentStatus": "Preserved",
+    "constructNumber": "1003",
+    "engineType": "Turbo-shaft",
+    "address": "Dax LandesFrance",
     "modelSICAO24Code": null,
-    "manufacture": "Sukhoi",
+    "manufacture": "Aerospatiale",
     "deliveryDate": null,
     "name": "1003",
-    "seats": 1,
-    "type": "Fixed wing multi engine",
-    "owner": "Polish Air Force",
+    "seats": 0,
+    "type": "Rotorcraft",
+    "owner": "Musee de l ALAT et de l Helicopteres",
     "engineManufacture": "Tumansky R-195",
     "yearBuilt": "0000",
     "engines": 2,
     "alsoRegister": "F-ZWRR  De-registered\nF-ZKBI  De-registered",
     "registrationNumber": "1003",
-    "model": "Su-25K    Search all Sukhoi Su-25K"
+    "model": "SA-361C Dauphin    Search all Aerospatiale SA-361C Dauphin"
 }

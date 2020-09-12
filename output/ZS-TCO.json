@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "E.2388",
+    "engineType": "Turbofan",
+    "address": "JohannesburgSouth Africa",
+    "modelSICAO24Code": "00B27F",
+    "manufacture": "BAE Systems",
+    "deliveryDate": "2014-04-10",
+    "name": "ZS-TCO",
+    "seats": 85,
+    "type": "Fixed wing multi engine",
+    "owner": "South African Airlink",
+    "engineManufacture": "Lycoming LF507-1F",
+    "yearBuilt": "2001",
+    "engines": 4,
+    "alsoRegister": "OH-SAJ  De-registered\nG-6-388  Manufacturer's registration\nG-CHRZ  De-registered  Delivery: 2013-02-21  Cancel: 2014-03-13",
+    "registrationNumber": "ZS-TCO",
+    "model": "Avro 146-RJ85    Search all BAE Systems Avro 146-RJ85"
+}

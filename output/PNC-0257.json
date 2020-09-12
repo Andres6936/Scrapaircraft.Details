@@ -1,0 +1,19 @@
+{
+    "currentStatus": "active",
+    "constructNumber": "9670",
+    "engineType": "Turbo-prop",
+    "address": "BogotaColombia",
+    "modelSICAO24Code": null,
+    "manufacture": "Basler",
+    "deliveryDate": "2006-00-00",
+    "name": "PNC-0257",
+    "seats": 32,
+    "type": "Fixed wing multi engine",
+    "owner": "Colombian National Police (SAPOL)",
+    "engineManufacture": "Pratt & Whitney Canada PT6A-65",
+    "yearBuilt": "1942",
+    "engines": 2,
+    "alsoRegister": "N840MB  Sale Reported  Cancel: 2012-11-13",
+    "registrationNumber": "PNC-0257",
+    "model": "BT-67    Search all Basler BT-67"
+}

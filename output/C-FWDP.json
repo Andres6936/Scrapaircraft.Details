@@ -1,0 +1,19 @@
+{
+    "currentStatus": "active",
+    "constructNumber": "2309",
+    "engineType": "Reciprocating",
+    "address": "Calgary AlbertaCanada",
+    "modelSICAO24Code": null,
+    "manufacture": "Aviat",
+    "deliveryDate": null,
+    "name": "C-FWDP",
+    "seats": 2,
+    "type": "Fixed wing single engine",
+    "owner": "Scott Dutton",
+    "engineManufacture": "Lycoming I0360 SER A&C",
+    "yearBuilt": "2005",
+    "engines": 1,
+    "alsoRegister": "N200AN  Deregistered  Cancel: 2008-09-19",
+    "registrationNumber": "C-FWDP",
+    "model": "A-1B Husky    Search all Aviat A-1B"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "231008",
+    "engineType": "Turbo-prop",
+    "address": "",
+    "modelSICAO24Code": "A19210",
+    "manufacture": "Piper",
+    "deliveryDate": null,
+    "name": "N200AN",
+    "seats": 5,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Pratt & Whitney Canada PT6A-67R",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "C-GEAI  Registered  Delivery: 2009-09-28",
+    "registrationNumber": "N200AN",
+    "model": "PA-23    Search all Piper PA-23"
+}

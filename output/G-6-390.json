@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "E.2390",
+    "engineType": "Turbofan",
+    "address": "United Kingdom",
+    "modelSICAO24Code": null,
+    "manufacture": "BAE Systems",
+    "deliveryDate": null,
+    "name": "G-6-390",
+    "seats": 85,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Honeywell LF 507-1F",
+    "yearBuilt": "2001",
+    "engines": 4,
+    "alsoRegister": "A9C-BDF  Registered  Delivery: 2001-11-09",
+    "registrationNumber": "G-6-390",
+    "model": "Avro 146-RJ85    Search all BAE Systems Avro 146-RJ85"
+}

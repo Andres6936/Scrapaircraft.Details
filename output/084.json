@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Withdrawn from service 1974",
+    "constructNumber": "MD-25",
+    "engineType": "Reciprocating",
+    "address": "Valkenberg Air BaseNetherlands",
+    "modelSICAO24Code": null,
+    "manufacture": "Beech",
+    "deliveryDate": null,
+    "name": "084",
+    "seats": 10,
+    "type": "Fixed wing multi engine",
+    "owner": "Royal Netherlands Naval Air Service (MLD)",
+    "engineManufacture": "Pratt & Whitney R-985 Wasp Junior",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "084",
+    "model": "TC-45J    Search all Beech TC-45J"
+}

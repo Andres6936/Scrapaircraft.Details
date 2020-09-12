@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Valid",
+    "constructNumber": "256023",
+    "engineType": "Turbojet",
+    "address": "Sarasota FL 34243United States",
+    "modelSICAO24Code": "A95CAE",
+    "manufacture": "Beechcraft-Hawker",
+    "deliveryDate": null,
+    "name": "N702HC",
+    "seats": 11,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Rolls-royc VIPER MK 601",
+    "yearBuilt": "1973",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "N702HC",
+    "model": "BH-125-600A    Search all Beechcraft-Hawker BH-125-600A"
+}

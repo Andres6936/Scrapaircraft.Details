@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service with VT-31",
+    "constructNumber": "LL-25",
+    "engineType": "Turbo-prop",
+    "address": "Corpus Christi NAS TexasUnited States",
+    "modelSICAO24Code": null,
+    "manufacture": "Beech",
+    "deliveryDate": null,
+    "name": "160973",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "United States Navy",
+    "engineManufacture": "Pratt & Whitney Canada PT6A-34B",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "160973",
+    "model": "T-44A Pegasus    Search all Beech T-44A"
+}

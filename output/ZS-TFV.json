@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "E.2392",
+    "engineType": "Turbofan",
+    "address": "South Africa",
+    "modelSICAO24Code": null,
+    "manufacture": "BAE Systems",
+    "deliveryDate": "2015-04-28",
+    "name": "ZS-TFV",
+    "seats": 84,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Lycoming LF507-1F",
+    "yearBuilt": "2001",
+    "engines": 4,
+    "alsoRegister": "G-6-392  De-registered\nEP-MOR  Registered\nOH-SAL  De-registered  Delivery: 2004-01-01  Cancel: 2012-00-00\nSE-DJR  De-registered  Delivery: 2012-05-24\nG-CIFG  De-registered  Delivery: 2014-09-04  Cancel: 2015-05-07",
+    "registrationNumber": "ZS-TFV",
+    "model": "Avro 146-RJ85    Search all BAE Systems Avro 146-RJ85"
+}

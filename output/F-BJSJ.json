@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Scrapped",
+    "constructNumber": "3",
+    "engineType": "Turbo-prop",
+    "address": "France",
+    "modelSICAO24Code": null,
+    "manufacture": "Beech-SFERMA",
+    "deliveryDate": null,
+    "name": "F-BJSJ",
+    "seats": 4,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Turbomeca Astazou X rated at 530hp",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "F-BJSJ",
+    "model": "60A Marquis    Search all Beech-SFERMA 60A Marquis"
+}

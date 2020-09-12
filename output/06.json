@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Stored",
+    "constructNumber": "0393215766/7942",
+    "engineType": "Turbofan",
+    "address": "Graf Ignatievo Air BaseBulgaria",
+    "modelSICAO24Code": null,
+    "manufacture": "Mikoyan-Gurevich",
+    "deliveryDate": null,
+    "name": "06",
+    "seats": 1,
+    "type": "Fixed wing single engine",
+    "owner": "Bulgarian Air Force",
+    "engineManufacture": "Tumansky R-29-300",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "HB-FCV  Manufacturer's registration",
+    "registrationNumber": "06",
+    "model": "MiG-23BN    Search all Mikoyan-Gurevich MiG-23BN"
+}

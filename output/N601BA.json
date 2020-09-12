@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "256040",
+    "engineType": "Turbojet",
+    "address": "Houston TexasUnited States",
+    "modelSICAO24Code": "A7CB10",
+    "manufacture": "Beechcraft-Hawker",
+    "deliveryDate": "1984-09-19",
+    "name": "N601BA",
+    "seats": 0,
+    "type": "Fixed wing multi engine",
+    "owner": "Bayou Helicopters Incorporated",
+    "engineManufacture": "Rolls-Royce Viper 601",
+    "yearBuilt": "1974",
+    "engines": 2,
+    "alsoRegister": "C-GJCM  De-registered\nN41BH  De-registered",
+    "registrationNumber": "N601BA",
+    "model": "BH-125-600A    Search all Beechcraft-Hawker BH-125-600A"
+}

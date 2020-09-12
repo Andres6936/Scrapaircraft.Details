@@ -1,19 +1,19 @@
 {
-    "currentStatus": "Withdrawn from service in 1979",
-    "constructNumber": "087",
-    "engineType": "Reciprocating",
-    "address": "France",
+    "currentStatus": "Preserved",
+    "constructNumber": "Not found 087",
+    "engineType": "Turbojet",
+    "address": "DeblinPoland",
     "modelSICAO24Code": null,
-    "manufacture": "Agusta",
+    "manufacture": "Yakovlev",
     "deliveryDate": null,
     "name": "087",
-    "seats": 0,
-    "type": "Rotorcraft",
-    "owner": "Aviation L\u00e9g\u00e8re de l'Arm\u00e9e de Terre",
+    "seats": 1,
+    "type": "Fixed wing single engine",
+    "owner": "Muzeum Sil Powietrznych",
     "engineManufacture": "Klimov RD-500",
     "yearBuilt": "0000",
     "engines": 1,
     "alsoRegister": "F-GCCN ",
     "registrationNumber": "087",
-    "model": "AB-47G    Search all Agusta AB-47G"
+    "model": "Yak-23    Search all Yakovlev Yak-23"
 }

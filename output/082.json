@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Withdrawn from service",
+    "constructNumber": "MD-23",
+    "engineType": "Reciprocating",
+    "address": "Valkenberg Air BaseNetherlands",
+    "modelSICAO24Code": "3B7733",
+    "manufacture": "Beech",
+    "deliveryDate": null,
+    "name": "082",
+    "seats": 10,
+    "type": "Fixed wing multi engine",
+    "owner": "Royal Netherlands Navy",
+    "engineManufacture": "Pratt & Whitney R-985 Wasp Junior",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "082",
+    "model": "TC-45J Expediter    Search all Beech TC-45J Expediter"
+}

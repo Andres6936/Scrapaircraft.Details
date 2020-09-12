@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Active service with EC01.004",
+    "constructNumber": "314",
+    "engineType": "Turbofan",
+    "address": "Base A\u00e9rienne 113 Saint-DizierFrance",
+    "modelSICAO24Code": null,
+    "manufacture": "Dassault",
+    "deliveryDate": "2011-06-09",
+    "name": "314",
+    "seats": 2,
+    "type": "Fixed wing multi engine",
+    "owner": "Arm\u00e9e de l'Air (French Air Force)",
+    "engineManufacture": "SNECMA M88-2",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "XT-MAC ",
+    "registrationNumber": "314",
+    "model": "Rafale B    Search all Dassault Rafale B"
+}

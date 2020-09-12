@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Registered",
+    "constructNumber": "E.2312",
+    "engineType": "Turbofan",
+    "address": "Uzbekistan",
+    "modelSICAO24Code": null,
+    "manufacture": "BAE Systems",
+    "deliveryDate": null,
+    "name": "UK-80001",
+    "seats": 85,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Honeywell LF 507-1F",
+    "yearBuilt": "1997",
+    "engines": 4,
+    "alsoRegister": "G-6-312  De-registered",
+    "registrationNumber": "UK-80001",
+    "model": "Avro 146-RJ85    Search all BAE Systems Avro 146-RJ85"
+}

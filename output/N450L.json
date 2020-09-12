@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Valid",
+    "constructNumber": "4213",
+    "engineType": "Turbofan",
+    "address": "Omaha NE 68137United States",
+    "modelSICAO24Code": "A57316",
+    "manufacture": "Gulfstream Aerospace",
+    "deliveryDate": null,
+    "name": "N450L",
+    "seats": 22,
+    "type": "Fixed wing multi engine",
+    "owner": "Millard Refrigerated Services Inc",
+    "engineManufacture": "Cont Motor O-470 SERIES",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "N413GA  Registered to Manufacturer",
+    "registrationNumber": "N450L",
+    "model": "GIV-X (G450)    Search all Gulfstream Aerospace GIV-X (G450)"
+}

@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Written off November 8, 1962",
+    "constructNumber": "4",
+    "engineType": "Turbo-prop",
+    "address": "BremenGermany",
+    "modelSICAO24Code": "3E34D6",
+    "manufacture": "Beech-SFERMA",
+    "deliveryDate": null,
+    "name": "D-ILFA",
+    "seats": 4,
+    "type": "Fixed wing multi engine",
+    "owner": "Travelair GmbH",
+    "engineManufacture": "Turbomeca Astazou X rated at 530hp",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": "F-WJSO  De-registered",
+    "registrationNumber": "D-ILFA",
+    "model": "60A Marquis    Search all Beech-SFERMA 60A Marquis"
+}

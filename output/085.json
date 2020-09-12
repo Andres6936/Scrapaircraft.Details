@@ -1,19 +1,19 @@
 {
-    "currentStatus": "Withdrawn from service 1974",
-    "constructNumber": "MD-26",
+    "currentStatus": "Withdrawn from service in 1979",
+    "constructNumber": "085",
     "engineType": "Reciprocating",
-    "address": "Valkenberg Air BaseNetherlands",
+    "address": "France",
     "modelSICAO24Code": null,
-    "manufacture": "Beech",
+    "manufacture": "Agusta",
     "deliveryDate": "1988-01-00",
     "name": "085",
-    "seats": 10,
-    "type": "Fixed wing multi engine",
-    "owner": "Royal Netherlands Naval Air Service (MLD)",
+    "seats": 0,
+    "type": "Rotorcraft",
+    "owner": "Aviation L\u00e9g\u00e8re de l'Arm\u00e9e de Terre",
     "engineManufacture": "Pratt & Whitney R-985 Wasp Junior",
     "yearBuilt": "0000",
-    "engines": 2,
+    "engines": 1,
     "alsoRegister": "F-GCCM ",
     "registrationNumber": "085",
-    "model": "TC-45J    Search all Beech TC-45J"
+    "model": "AB-47G    Search all Agusta AB-47G"
 }

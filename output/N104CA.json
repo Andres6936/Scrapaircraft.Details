@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "13964",
+    "engineType": "Reciprocating",
+    "address": "",
+    "modelSICAO24Code": "A013C3",
+    "manufacture": "Douglas",
+    "deliveryDate": null,
+    "name": "N104CA",
+    "seats": 32,
+    "type": "Fixed wing multi engine",
+    "owner": "Skyfreighters Corporation",
+    "engineManufacture": "Lycoming 0-360-A1D",
+    "yearBuilt": "1944",
+    "engines": 2,
+    "alsoRegister": "N200ZZ  De-registered\nN50CE  De-registered",
+    "registrationNumber": "N104CA",
+    "model": "DC-3C    Search all Douglas DC-3C"
+}

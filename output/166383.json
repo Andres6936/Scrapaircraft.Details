@@ -1,0 +1,19 @@
+{
+    "currentStatus": "On active service with VMM-774",
+    "constructNumber": "D0050",
+    "engineType": "Turbo-shaft",
+    "address": "Naval Air Station Norfolk VirginiaUnited States",
+    "modelSICAO24Code": null,
+    "manufacture": "Bell-Boeing",
+    "deliveryDate": null,
+    "name": "166383",
+    "seats": 28,
+    "type": "Rotorcraft",
+    "owner": "United States Marine Corps",
+    "engineManufacture": "Rolls-Royce/Allison T406/AE 1107C-Liberty",
+    "yearBuilt": "0000",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "166383",
+    "model": "MV-22B Osprey    Search all Bell-Boeing MV-22B Osprey"
+}

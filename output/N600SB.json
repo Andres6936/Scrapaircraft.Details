@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "256034",
+    "engineType": "Turbojet",
+    "address": "",
+    "modelSICAO24Code": "A7C8D1",
+    "manufacture": "Beechcraft-Hawker",
+    "deliveryDate": null,
+    "name": "N600SB",
+    "seats": 11,
+    "type": "Fixed wing multi engine",
+    "owner": null,
+    "engineManufacture": "Rolls-Royce Viper 601",
+    "yearBuilt": "1973",
+    "engines": 2,
+    "alsoRegister": null,
+    "registrationNumber": "N600SB",
+    "model": "BH-125-600A    Search all Beechcraft-Hawker BH-125-600A"
+}

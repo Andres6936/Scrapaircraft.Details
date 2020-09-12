@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "256009",
+    "engineType": "Turbojet",
+    "address": "Philadelphia PennsylvaniaUnited States",
+    "modelSICAO24Code": "A31BFA",
+    "manufacture": "Beechcraft-Hawker",
+    "deliveryDate": null,
+    "name": "N3PW",
+    "seats": 11,
+    "type": "Fixed wing multi engine",
+    "owner": "Pennwalt Corporation",
+    "engineManufacture": "Rolls-Royce Viper 601",
+    "yearBuilt": "1973",
+    "engines": 2,
+    "alsoRegister": "N28TS  Valid",
+    "registrationNumber": "N3PW",
+    "model": "BH-125-600A    Search all Beechcraft-Hawker BH-125-600A"
+}

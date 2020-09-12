@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "47356",
+    "engineType": "Turbofan",
+    "address": "Atlanta GA 30320",
+    "modelSICAO24Code": "A0710B",
+    "manufacture": "Douglas",
+    "deliveryDate": null,
+    "name": "N1277L",
+    "seats": 85,
+    "type": "Fixed wing multi engine",
+    "owner": "Delta Air Lines Incorporated",
+    "engineManufacture": "Pratt & Whitney JT8D",
+    "yearBuilt": "1969",
+    "engines": 2,
+    "alsoRegister": "XA-JED  Crashed on August 31, 1986  Delivery: 1979-11-00",
+    "registrationNumber": "N1277L",
+    "model": "DC-9-32    Search all Douglas DC-9-32"
+}

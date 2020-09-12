@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "127",
+    "engineType": "Reciprocating",
+    "address": "Denver CO 80225",
+    "modelSICAO24Code": "A00B79",
+    "manufacture": "Convair",
+    "deliveryDate": null,
+    "name": "N1015G",
+    "seats": 42,
+    "type": "Fixed wing multi engine",
+    "owner": "U S DEPARTMENT OF INTERIOR",
+    "engineManufacture": "Pratt & Whitney Canada PT6A-114A",
+    "yearBuilt": "1949",
+    "engines": 2,
+    "alsoRegister": "N104JP  Valid\nYN-CDR  De-registered  Delivery: 1995-01-00\n6Y-JRG  De-registered  Delivery: 2002-02-26",
+    "registrationNumber": "N1015G",
+    "model": "240-14    Search all Convair 240-14"
+}

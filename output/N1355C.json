@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "0488",
+    "engineType": "Reciprocating",
+    "address": "EeldeNetherlands",
+    "modelSICAO24Code": "A090CE",
+    "manufacture": "Cirrus",
+    "deliveryDate": null,
+    "name": "N1355C",
+    "seats": 4,
+    "type": "Fixed wing single engine",
+    "owner": "Turk Air Llc",
+    "engineManufacture": "Cont Motor IO-550 SERIES",
+    "yearBuilt": "2003",
+    "engines": 1,
+    "alsoRegister": null,
+    "registrationNumber": "N1355C",
+    "model": "SR22    Search all Cirrus SR22"
+}

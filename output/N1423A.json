@@ -1,0 +1,19 @@
+{
+    "currentStatus": "Deregistered",
+    "constructNumber": "22-337",
+    "engineType": "Turbofan",
+    "address": "Mercer ND 58559",
+    "modelSICAO24Code": "A0ACE0",
+    "manufacture": "Piper",
+    "deliveryDate": null,
+    "name": "N1423A",
+    "seats": 4,
+    "type": "Fixed wing multi engine",
+    "owner": "American Airlines Inc",
+    "engineManufacture": "Rolls-Royce Tay 650-15",
+    "yearBuilt": "0000",
+    "engines": 1,
+    "alsoRegister": "PH-EZP  Manufacturer's registration\nC-GKZP  De-registered  Delivery: 2004-07-08  Cancel: 2005-06-10\nOE-IIC  De-registered  Delivery: 2008-01-00\nVH-VIF  Registered  Delivery: 2017-12-19",
+    "registrationNumber": "N1423A",
+    "model": "PA-22    Search all Piper PA-22"
+}

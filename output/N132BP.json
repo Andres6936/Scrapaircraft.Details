@@ -1,0 +1,19 @@
+{
+    "currentStatus": "De-registered",
+    "constructNumber": "2145",
+    "engineType": "Reciprocating",
+    "address": "Eden Prairie MinnesotaUnited States",
+    "modelSICAO24Code": "A082C6",
+    "manufacture": "Douglas",
+    "deliveryDate": null,
+    "name": "N132BP",
+    "seats": 32,
+    "type": "Fixed wing multi engine",
+    "owner": "Hafe-air Llc",
+    "engineManufacture": "Pratt & Whitney R-1830 Twin Wasp",
+    "yearBuilt": "1939",
+    "engines": 2,
+    "alsoRegister": "N341A  Valid",
+    "registrationNumber": "N132BP",
+    "model": "DC-3    Search all Douglas DC-3"
+}
